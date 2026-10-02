@@ -1,164 +1,90 @@
 import pandas as pd
 
+from job_history import filter_new_jobs
 from matcher import match_jobs
 
-
 JOBS_FILE = "data/jobs.csv"
-TEST_JOB_COUNT = 10
-TOP_N = 5
 
 
-print("\n======================================")
-print("TOP 5 SELECTION TEST")
-print("======================================")
+def create_simulated_new_jobs():
+    jobs = pd.read_csv(JOBS_FILE)
 
+    # Take 10 existing jobs and modify their URLs so they behave
+    # like newly discovered jobs.
+    simulated = jobs.head(10).copy()
 
-# ---------------------------------------------------------
-# Load jobs
-# ---------------------------------------------------------
-
-jobs = pd.read_csv(JOBS_FILE)
-
-print(f"\nJobs available: {len(jobs)}")
-
-
-# ---------------------------------------------------------
-# Simulate 10 NEW jobs
-#
-# We only use these jobs for testing.
-# Nothing is written to job_history.csv.
-# ---------------------------------------------------------
-
-test_jobs = jobs.head(TEST_JOB_COUNT).copy()
-
-print(
-    f"Simulating {len(test_jobs)} new jobs..."
-)
-
-
-# ---------------------------------------------------------
-# Run the existing matcher
-# ---------------------------------------------------------
-
-matched_jobs = match_jobs()
-
-if matched_jobs.empty:
-    print("\nMatcher returned no jobs.")
-    raise SystemExit
-
-
-# ---------------------------------------------------------
-# Convert match score to number
-# ---------------------------------------------------------
-
-matched_jobs["match_score"] = pd.to_numeric(
-    matched_jobs["match_score"],
-    errors="coerce",
-)
-
-
-# ---------------------------------------------------------
-# Match our simulated jobs against matcher results
-# ---------------------------------------------------------
-
-test_urls = set(
-    test_jobs["job_url"]
-    .fillna("")
-    .astype(str)
-)
-
-matched_test_jobs = matched_jobs[
-    matched_jobs["job_url"]
-    .fillna("")
-    .astype(str)
-    .isin(test_urls)
-].copy()
-
-
-# ---------------------------------------------------------
-# Sort by matcher score
-# ---------------------------------------------------------
-
-matched_test_jobs = matched_test_jobs.sort_values(
-    by="match_score",
-    ascending=False,
-)
-
-
-# ---------------------------------------------------------
-# Select TOP 5
-# ---------------------------------------------------------
-
-top5 = matched_test_jobs.head(TOP_N)
-
-
-# ---------------------------------------------------------
-# Display
-# ---------------------------------------------------------
-
-print("\n======================================")
-print("TOP 5 NEW JOBS")
-print("======================================")
-
-print(
-    f"\nJobs sent to matcher: "
-    f"{len(test_jobs)}"
-)
-
-print(
-    f"Jobs returned by matcher: "
-    f"{len(matched_test_jobs)}"
-)
-
-print(
-    f"Jobs selected for AI: "
-    f"{len(top5)}"
-)
-
-
-for index, (_, job) in enumerate(
-    top5.iterrows(),
-    start=1,
-):
-
-    print(
-        f"\n{index}. "
-        f"{job['title']} | "
-        f"{job['company']}"
+    simulated["job_url"] = (
+        simulated["job_url"].astype(str)
+        + "?simulation=new"
     )
 
-    print(
-        f"   Match Score: "
-        f"{job['match_score']}%"
+    return simulated
+
+
+def main():
+    print("\n======================================")
+    print("TOP 5 SELECTION TEST")
+    print("======================================")
+
+    simulated_jobs = create_simulated_new_jobs()
+
+    print(f"\nSimulated jobs: {len(simulated_jobs)}")
+
+    # Check against REAL history.
+    new_jobs = filter_new_jobs(simulated_jobs)
+
+    print(f"New simulated jobs: {len(new_jobs)}")
+
+    if new_jobs.empty:
+        print("\nERROR: Simulated jobs were not recognized as new.")
+        return
+
+    # Do NOT save these jobs to history.
+    matcher_jobs = new_jobs.drop(
+        columns=["job_key"],
+        errors="ignore"
+    ).copy()
+
+    print("\nRunning matcher...")
+
+    matched_jobs = match_jobs(matcher_jobs)
+
+    matched_jobs["match_score"] = pd.to_numeric(
+        matched_jobs["match_score"],
+        errors="coerce"
     )
 
-    print(
-        f"   Location: "
-        f"{job['location']}"
+    matched_jobs = matched_jobs.sort_values(
+        by="match_score",
+        ascending=False
     )
 
+    top_jobs = matched_jobs.head(5)
 
-# ---------------------------------------------------------
-# Validation
-# ---------------------------------------------------------
+    print("\n======================================")
+    print("TOP 5 SIMULATED NEW JOBS")
+    print("======================================")
 
-print("\n======================================")
-print("VALIDATION")
-print("======================================")
+    for index, (_, job) in enumerate(
+        top_jobs.iterrows(),
+        start=1
+    ):
+        print(
+            f"\n{index}. "
+            f"{job['title']} | "
+            f"{job['company']}"
+        )
+        print(f"   Score: {job['match_score']}%")
+        print(f"   Location: {job['location']}")
+        print(f"   URL: {job['job_url']}")
 
-if len(top5) <= TOP_N:
-
-    print(
-        f"SUCCESS: No more than {TOP_N} jobs "
-        f"were selected."
-    )
-
-else:
-
-    print(
-        "ERROR: More than 5 jobs were selected."
-    )
+    print("\n======================================")
+    print("TEST RESULT")
+    print("======================================")
+    print(f"Jobs entering matcher: {len(matched_jobs)}")
+    print(f"Jobs selected for AI: {len(top_jobs)}")
+    print("Real history was NOT modified.")
 
 
-print("\njob_history.csv was NOT modified.")
-print("======================================")
+if __name__ == "__main__":
+    main()
