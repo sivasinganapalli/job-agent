@@ -1,0 +1,334 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Siva Job Agent</title>
+
+<style>
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #f4f6f8;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+.header {
+    background: #17202a;
+    color: white;
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0 0 8px 0;
+}
+
+.header p {
+    margin: 0;
+    opacity: 0.8;
+}
+
+.stats {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.stat {
+    background: white;
+    color: #222;
+    padding: 12px 18px;
+    border-radius: 8px;
+}
+
+.stat strong {
+    display: block;
+    font-size: 20px;
+}
+
+.job-card {
+    background: white;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.job-number {
+    font-size: 13px;
+    color: #777;
+}
+
+.job-card h2 {
+    margin: 4px 0;
+}
+
+.company {
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.location {
+    color: #666;
+    margin-top: 5px;
+}
+
+.score {
+    text-align: center;
+    min-width: 80px;
+}
+
+.score strong {
+    display: block;
+    font-size: 28px;
+}
+
+.score span {
+    color: #777;
+    font-size: 12px;
+}
+
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 18px 0;
+}
+
+.badge {
+    background: #eef1f4;
+    padding: 6px 10px;
+    border-radius: 15px;
+    font-size: 12px;
+}
+
+.badge.high {
+    background: #dff5e5;
+}
+
+.badge.medium {
+    background: #fff3cd;
+}
+
+.badge.low {
+    background: #f0f0f0;
+}
+
+.summary {
+    line-height: 1.6;
+}
+
+.job-card h3 {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.skill,
+.missing,
+.transfer {
+    padding: 5px 9px;
+    border-radius: 12px;
+    font-size: 12px;
+}
+
+.skill {
+    background: #e8f4ff;
+}
+
+.missing {
+    background: #fff0f0;
+}
+
+.transfer {
+    background: #f1eaff;
+}
+
+.concerns {
+    padding-left: 20px;
+    line-height: 1.6;
+}
+
+.apply-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 18px;
+    background: #17202a;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+}
+
+.footer {
+    text-align: center;
+    color: #888;
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+
+        <h1>🎯 Siva Job Agent</h1>
+
+        <p>
+            Daily AI-powered job matching report
+        </p>
+
+        <div class="stats">
+
+            <div class="stat">
+                <strong>1</strong>
+                Jobs Analyzed
+            </div>
+
+            <div class="stat">
+                <strong>0</strong>
+                High Priority
+            </div>
+
+            <div class="stat">
+                <strong>0</strong>
+                Medium Priority
+            </div>
+
+            <div class="stat">
+                <strong>1</strong>
+                Low Priority
+            </div>
+
+        </div>
+
+    </div>
+
+    
+            <div class="job-card">
+
+                <div class="job-header">
+                    <div>
+                        <div class="job-number">#1</div>
+
+                        <h2>Lead Engineer - Test Automation</h2>
+
+                        <div class="company">
+                            Veeva Systems
+                        </div>
+
+                        <div class="location">
+                            📍 Hyderabad, Telangana, India
+                        </div>
+                    </div>
+
+                    <div class="score">
+                        <strong>47%</strong>
+                        <span>Match</span>
+                    </div>
+                </div>
+
+                <div class="badges">
+                    <span class="badge low">
+                        Low Priority
+                    </span>
+
+                    <span class="badge">
+                        AI Fit: Weak
+                    </span>
+
+                    <span class="badge">
+                        Experience: Significant gap
+                    </span>
+
+                    <span class="badge">
+                        Role: Good
+                    </span>
+                </div>
+
+                <p class="summary">
+                    The role's test automation focus and several core tools match the candidate's profile, and Hyderabad is a target location. However, the 10+ year requirement is a major mismatch, and the lead responsibilities and mobile automation requirements are not supported by the profile. Given the seniority gap and missing stated requirements, this is likely not a good use of application time.
+                </p>
+
+                <h3>Matched Skills</h3>
+
+                <div class="skills">
+                    <span class='skill'>Java</span><span class='skill'>Selenium</span><span class='skill'>Cucumber</span><span class='skill'>Jenkins</span><span class='skill'>Git</span><span class='skill'>API testing</span><span class='skill'>CI/CD</span>
+                </div>
+
+                <h3>Missing Core Skills</h3>
+
+                <div class="skills">
+                    <span class='missing'>10+ years of software test automation experience; candidate profile lists 5 years</span><span class='missing'>Technical mentoring and code review experience</span><span class='missing'>Leading automation projects and participating in program/project management</span><span class='missing'>Agile/Scrum experience</span><span class='missing'>JIRA</span><span class='missing'>Mobile testing and automation with Appium</span><span class='missing'>XCUI</span><span class='missing'>Espresso</span><span class='missing'>or KI</span><span class='missing'>Android and Mac platform experience</span><span class='missing'>Kotlin</span><span class='missing'>Swift</span><span class='missing'>or React experience</span><span class='missing'>Mobile app development experience</span><span class='missing'>Interfacing and functional testing experience</span>
+                </div>
+
+                
+                    <h3>Transferable Skills</h3>
+
+                    <div class="skills">
+                        <span class='transfer'>Java experience may transfer to the role's object-oriented programming needs; specific OOP experience is not stated</span><span class='transfer'>REST Assured and API testing experience are relevant to developing API automation</span><span class='transfer'>though REST Assured is not specifically requested</span>
+                    </div>
+                    
+
+                
+                    <h3>Concerns</h3>
+
+                    <ul class="concerns">
+                        <li>The 10+ year requirement is substantially above the candidate's 5 years and exceeds the configured maximum target experience of 8 years. | The lead-level mentoring</li><li>code review</li><li>project leadership</li><li>and recruiting responsibilities are not evidenced in the candidate profile. | Several listed mobile and platform requirements are not present in the candidate profile. | JIRA</li><li>Agile/Scrum</li><li>product-company experience</li><li>and degree details are not stated. | Hyderabad matches the candidate's target locations.</li>
+                    </ul>
+                    
+
+                <a
+                    class="apply-button"
+                    href="https://www.linkedin.com/jobs/view/4455642065"
+                    target="_blank"
+                >
+                    View Job →
+                </a>
+
+            </div>
+            
+
+    <div class="footer">
+
+        Generated by Siva Job Agent<br>
+
+        02 October 2026, 06:30 PM
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

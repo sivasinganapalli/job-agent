@@ -1,0 +1,1810 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-021f5c5a5c44151a,indeed,https://in.indeed.com/viewjob?jk=021f5c5a5c44151a,https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Hyderabad-Raidurg-Village-B7-South-Tower-Serilingampally-Mandal-Divya-Sree-Orion/SDET-II--TCF-_R1768596-1?source=Indeed,SDET II (TCF),Concentrix,"TS, IN",2026-09-30,fulltime,,,,,,False,,,,,"Responsibilities:  
+  
+
+* 5 to 7 years of QA Experience, developing/implementing test strategies, test cases and scripts
+* Collaborate & Work extensively with cross-functional development teams, including analysts, engineers, and QA.
+* Must be able to work in an agile, dynamic, varied, and fast paced environment.
+* Should have experience in writing manual test cases based on Acceptance test criteria
+* Ability to work independently, self-motivated and detail-oriented.
+* Should demonstrate skills to Analyze logs, verify, reproduce and correct defects.
+* Familiar with agile methodology scrum calls, retrospective, sprint planning, user story effort and point estimation
+* Strong communication skills and should be able to co-ordinate with team on accomplishing tasks
+
+  
+Primary Skills:  
+
+* Expertise in Robot Framework with Python
+* Expertise in API and Service Automation
+* Expertise in CI/CD and DevOps Automation
+* Expertise in GitHub Actions
+* Expertise in AI-Assisted Quality Engineering using GitHub Copilot and GenAI tools
+* Expertise in Test Data Management and Data Validation
+* Expertise in Modern Automation Frameworks and Emerging Automation Technologies
+* Hands on understanding of DataBases and Knowledge on SQL.
+* Excellent troubleshooting skills to root cause complex issues is required
+
+  
+Secondary skills: (Good to have)  
+
+* Hands-on experience with Selenium WebDriver, Page Object Model (POM), dynamic locators, and waits
+* Experience with BDD frameworks like Cucumber and reporting tools such as Allure or Extent
+* Experience in design & development of automation frameworks is added advantage",,https://in.indeed.com/cmp/Concentrix,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dc0e868d737c929fab77e2fd6c770494,https://www.concentrix.com,"Newark, CA","10,000+",$1B to $5B (USD),"A technology and services leader, helping the world's best brands cut through AI hype and create intelligent operations that perform in the real world.
+",,,,,,
+li-4455642065,linkedin,https://www.linkedin.com/jobs/view/4455642065,,Lead Engineer - Test Automation,Veeva Systems,"Hyderabad, Telangana, India",2026-10-02,fulltime,,,,,,False,mid-senior level,,,,"Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.
+  
+  
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+  
+  
+Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
+  
+  
+The Role
+  
+  
+Do you dream about being part of a team with the talent, passion, and financial backing to build top-notch, industry-changing cloud-based applications and platforms? At Veeva, we build enterprise cloud technology that powers the biggest names in pharmaceuticals, biotech, consumer goods, chemical & cosmetics industries. Our customers make vaccines, life-saving medicines, and life-enhancing products that make a difference in everyday lives. Our technology has transformed these industries, enabling them to get critical products and services to market faster. Our products empower our customers in the fight against global pandemics like COVID-19.
+  
+  
+Veeva Systems is expanding its global footprint with a new development centre in Hyderabad, India. This emerging and growing branch of Veeva is looking for Software Engineer, Test Automation for multiple positions to expand global quality & release engineering efforts. You will be working on cutting-edge technologies such as Cucumber, AWS(EC2, S3, Workspace), Visual Regression & DevOps Tools, playing a pivotal role in developing/maintaining automating tests to support our ever-growing suite of regression tests. The ideal candidate will be highly technical, motivated, and can work without too much supervision.
+  
+  
+**What You’ll Do**
+
+* Learn and understand features of Veeva Vault platform and applications
+* Work on CI/CD tools (Git, Jenkins, JIRA) on a daily basis
+* Develop and maintain automation scripts (API and UI)
+* Communicating status and working effectively with onshore/offshore managers
+* Troubleshoot day to day technical issues related to test automation
+* Perform code reviews and be a technical mentor to team members
+* Work with managers to arrive at metrics for measuring the code quality for test automation suite
+* Work closely with scrum masters on sprint plannings and backlog grooming
+* Be a key player for the growth of Veeva Hyderabad by contributing to recruiting initiatives
+
+**Requirements**
+
+* 10+ years of experience in software test automation
+* Strong experience in Java, Object-Oriented Methodologies
+* Strong experience with automated test frameworks (e.g. Selenium, Cucumber)
+* Good working knowledge of CI/CD tools (Git, Jenkins, JIRA)
+* Experience with Agile/Scrum development methodologies (preferably in an onshore /offshore model)
+* Experience working for a product-based company
+* Excellent team collaboration and effective communication skills
+* Experience playing a technical mentor role to the team and performing code reviews
+* Experience leading automation projects in a technical role and actively participated in overall program/project management activities
+* Bachelor's or Masters' Degree in computer engineering, computer science, electrical engineering, or similar
+* Experience with applicable software and programs including Kotlin, Swift, JAVA, and React.
+* Experience with Android and Mac platforms
+* Fluency in interfacing and functional testing.
+* A natural problem solver and critical thinker.
+* Comfortable debugging and working with object-oriented programming.
+* Experience in Mobile Testing and Automation – Appium, XCUI, Espresso, KI
+* Experience in Mobile Apps Development (Android/iOS)
+
+****Nice to Have****
+
+* Experience working in the life sciences and health care industry
+* Participation in code hackathons and other open source community activities
+
+**Perks & Benefits**
+
+* Health insurance with generous coverage limits
+* Fixed cash bonus
+* Allowance for wellness & fitness programs
+* Winter break
+
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+  
+  
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.","Software Development, IT Services and IT Consulting, and Pharmaceutical Manufacturing",https://www.linkedin.com/company/veeva-systems,https://media.licdn.com/dms/image/v2/C4E0BAQHW29Wyz9Q11w/company-logo_100_100/company-logo_100_100/0/1631340331617?e=2147483647&v=beta&t=K7R_qLvWu1edjFLP8vp806fVq6d3Tv5aGbhOMZo_qoE,,,,,,,,,,,
+li-4472883694,linkedin,https://www.linkedin.com/jobs/view/4472883694,,Quality Assurance Engineer - Automation Testing,Scoutit,"Hyderabad, Telangana, India",2026-10-02,fulltime,,,,,,False,mid-senior level,,,,"We're looking for
+**Quality Assurance Engineers - Automation Testing**
+!
+
+**Responsibilities:**
+
+* Design and develop automated test scripts using tools like Selenium, TestNG, or similar frameworks.
+* Execute automated test scripts and analyze results to ensure software quality.
+* Collaborate with development teams to understand project requirements and provide feedback on testing processes.
+* Maintain and update existing automated test cases as necessary to reflect changes in application functionality.
+* Report and track defects found during testing and verify fixes in subsequent builds.
+* Be a team player and work across teams.
+
+**Qualifications:**
+
+* Proficiency in software testing and automation testing frameworks.
+* Strong knowledge of programming languages such as Java, Python.
+* Experience with test automation tools such as Selenium WebDriver.
+* Familiarity with CI/CD tools like Jenkins, Git, or similar version control systems.
+* Understanding of software development life cycle (SDLC) and testing methodologies.
+
+(
+**Note:**
+Relevant applicants will receive an email requesting additional information as part of the next stage. The application process will be completed directly on the team's designated platform, and all subsequent communication and decisions regarding the opportunity are managed by the respective hiring team.)",IT Services and IT Consulting,https://in.linkedin.com/company/scoutit-in,https://media.licdn.com/dms/image/v2/D560BAQGbgOvn2002Gw/company-logo_100_100/B56Zl31VPfHQAQ-/0/1758652093991/scoutit_in_logo?e=2147483647&v=beta&t=dCA8DUthfJpCcZnA5TI0DZwlcXQ4SKkeic2EoHjTy5g,,,,,,,,,,,
+li-4456460458,linkedin,https://www.linkedin.com/jobs/view/4456460458,,Python Automation Engineer,Kumaran Systems,Greater Hyderabad Area,2026-10-02,fulltime,,,,,,False,entry level,,,,"**About Us**
+Kumaran Systems: Engineering Future-Ready Transformations Since 1992, Kumaran Systems has been helping enterprises bridge the past and the future, reimagining legacy systems and embracing AI-led possibilities. With over 34 years of delivery excellence, we specialise in re-engineering core applications, driving cloud transformation, and building automation-first, GenAI-enabled ecosystems across the Banking and Financial Services, Insurance, Telecom, and Automotive sectors. We help organisations not just upgrade their systems but reimagine what’s possible.
+  
+  
+Why Kumaran?
+  
+  
+We blend engineering discipline with AI innovation, helping clients modernise with confidence, automate with clarity, and scale with purpose. Our global delivery model ensures agility, responsiveness, and seamless collaboration, with clients always at the heart of every engagement. At Kumaran, we don’t just solve problems, we engineer future-ready transformations.
+  
+  
+**Job Summary**
+We are seeking a skilled and detail-oriented
+**QA Automation Engineer**
+with strong expertise in Python-based automation frameworks. The ideal candidate will have hands-on experience in web test automation, CI/CD integration, and a solid understanding of modern testing practices. Experience in API and mobile automation testing will be considered an added advantage.
+  
+  
+****Key Responsibilities****
+
+* Design, develop, and maintain automated test scripts using Python and Robot Framework.
+* Implement scalable and maintainable test automation frameworks.
+* Perform web application automation using Selenium WebDriver.
+* Develop reusable test components following best practices (e.g., Page Object Model).
+* Integrate automated test suites into CI/CD pipelines for continuous testing.
+* Analyze test results, identify defects, and collaborate with development teams for resolution.
+* Participate in test planning, estimation, and risk assessment activities.
+* Maintain and enhance test documentation and automation standards.
+
+**Required Skills & Qualifications**
+
+* Strong programming experience in Python.
+* Hands-on expertise with Robot Framework for functional and regression automation.
+* Solid experience in web automation using Selenium WebDriver.
+* Experience integrating automation frameworks with CI/CD tools such as Jenkins or GitLab .
+* Good understanding of software testing methodologies, SDLC, and Agile practices.
+* Experience with version control systems (e.g., Git).
+
+**Preferred / Nice-to-Have Skills**
+
+* API automation testing using Java.
+* Experience testing REST and gRPC services.
+* Hands-on experience with tools such as Postman and RestAssured .
+* Mobile application test automation using Python/Robot Framework.
+* Experience with mobile automation tools such as Appium .
+* Exposure to Android and iOS test environments.
+
+****Soft Skills****
+
+* Strong analytical and problem-solving abilities.
+* Excellent communication and collaboration skills.
+* Ability to work independently and in a team-oriented, fast-paced environment.
+* Proactive mindset with a focus on quality and continuous improvement",IT Services and IT Consulting,https://in.linkedin.com/company/kumaran-systems,https://media.licdn.com/dms/image/v2/D560BAQFsD1dnoye1_w/company-logo_100_100/B56ZfVeq1gGoAU-/0/1751633276660/kumaran_systems_logo?e=2147483647&v=beta&t=tPpZAOBVTY8KflX1f9C7k-7cgZGmHw9Q4F5pU-EiVGQ,,,,,,,,,,,
+li-4472389313,linkedin,https://www.linkedin.com/jobs/view/4472389313,,Automation test engineer,Infosys,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,entry level,,,,"Technology->Automated Testing->Selenium-Java
+  
+  
+Design, develop, and maintain scalable automation test frameworks using Java and Selenium WebDriver. Create, execute, and maintain automated test scripts for web applications. Perform functional, regression, integration, and smoke testing. Analyze test results, identify defects, and collaborate with development teams for issue resolution. Develop and maintain test plans, test cases, and test data. Integrate automation suites with CI/CD pipelines using Jenkins, Azure DevOps, or GitLab. Perform API testing using tools such as Postman or Rest Assured. Participate in Agile ceremonies including sprint planning, daily stand-ups, and retrospectives. Generate test execution reports and quality metrics. Ensure adherence to software testing best practices and quality standards.",IT Services and IT Consulting,https://in.linkedin.com/company/infosys,https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I,,,,,,,,,,,
+li-4472550833,linkedin,https://www.linkedin.com/jobs/view/4472550833,,Pega Automation Testing Consultant,Infosys,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"* Primary skills:Technology->Package Testing->PEGA Testing
+
+A day in the life of an Infoscion
+  
+  
+
+* As part of the Infosys consulting team, your primary role would be to get to the heart of customer issues, diagnose problem areas, design innovative solutions and facilitate deployment resulting in client delight.
+* You will develop a proposal by owning parts of the proposal document and by giving inputs in solution design based on areas of expertise.
+* You will plan the activities of configuration, configure the product as per the design, conduct conference room pilots and will assist in resolving any queries related to requirements and solution design
+* You will conduct solution/product demonstrations, POC/Proof of Technology workshops and prepare effort estimates which suit the customer budgetary requirements and are in line with organization’s financial guidelines
+* Actively lead small projects and contribute to unit-level and organizational initiatives with an objective of providing high quality value adding solutions to customers. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Responsibilities
+* Design, develop, and execute automated test scripts for Pega applications.
+* Perform Functional, Automation, Regression, Integration, and End-to-End testing.
+* Create and maintain automation frameworks and reusable components.
+* Analyze test results, identify defects, and coordinate fixes.
+* Work closely with business and development teams to ensure quality delivery. Required Skills
+* 6+ years of experience in Pega Testing, BPM Testing, Appian Testing, or Pega CDH Testing.
+* Automation Testing experience is mandatory.
+* Hands-on experience in at least one automation tool: o Selenium with Java o Playwright o Tosca
+* Strong knowledge of automation framework development and maintenance.
+* Experience in functional and automation testing of enterprise applications.
+* Good understanding of Agile and DevOps testing practices. Preferred Skills
+* Pega certification.
+* CI/CD and test automation implementation experience.
+* Strong analytical and communication skills. Educational Qualification - Bachelor's Degree in Engineering or equivalent. Job Location - Pan India",IT Services and IT Consulting,https://in.linkedin.com/company/infosys,https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I,,,,,,,,,,,
+li-4474304319,linkedin,https://www.linkedin.com/jobs/view/4474304319,,Senior  Engineer I [T500-29856],Marriott Tech Accelerator,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"**About Us:**
+
+Marriott International Inc., headquartered in Bethesda, Maryland, USA, was founded in May 1927 by J. Willard Marriott and Alice S. Marriott with a modest nine-seat A&W root beer stand. Guided by the family's leadership and core principles, Marriott International today has grown into a global hospitality giant, operating approximately 10,000 properties and over 30 leading brands in more than 140 countries and territories
+
+From such humble beginnings to becoming the world’s largest hotel company, Marriott International has never stopped searching for inventive ways to serve its customers, provide opportunities for its associates, and grow their business. At Marriott Tech Accelerator center (MTA), Hyderabad, India, Marriott is exploring the world we live in and all its possibilities. At Marriott Tech Accelerator, we are a team of passionate engineering minds dedicated to creating and building cutting-edge solutions that streamline operations and elevate guest experiences.
+
+Marriott Tech Accelerator center is fully owned and operated by ANSR. All associates at Marriott Tech Accelerator will be ANSR employees, delivering services exclusively to ANSR's client, Marriott International.
+
+Marriott Tech Accelerator is an ANSR entity incorporated exclusively for providing services to Marriott International.
+
+**Senior Quality Engineer I**
+
+**Position Summary:**
+
+The Senior Test Engineer is a hands-on quality engineering role supporting the Loyalty Financial Services (LFS) platform across Core, Partners, Platform/Data & Integrations, UI/Admin Portal, and Operations capabilities. The engineer will design and execute risk-based testing, build maintainable automation, validate complex financial and loyalty processing, and provide objective evidence of release readiness.
+
+The role spans functional, API, UI, data, event-driven, integration, near-neighbor, regression, component performance, and production parallel-validation testing. It requires close collaboration with Product, Engineering, Architecture, DevOps, SRE, Security, enterprise testing teams, and upstream/downstream domains. The successful candidate combines strong automation depth with business-process understanding, disciplined test documentation, and end-to-end ownership.
+
+**Key Responsibilities:**
+
+* Own the quality-engineering approach for assigned LFS capabilities from backlog refinement through production validation, including test strategy, scope, estimates, risks, entry/exit criteria, traceability, evidence, and sign-off readiness.
+* Partner with Product Owners, Business Analysts, architects, and developers to improve acceptance criteria, identify edge cases, define testable requirements, and embed quality early in design and development.
+* Design, build, and maintain reusable automation for web UI, REST APIs, microservices, batch processes, data pipelines, Kafka/event flows, and database validations using an automation-first approach.
+* Execute functional, integration, near-neighbor, end-to-end, regression, accessibility, negative, boundary, resiliency, and component performance testing appropriate to the capability and release risk.
+* Validate financial and loyalty data across source, processing, persistence, events, APIs, UI, and downstream outputs, including reconciliation, calculation accuracy, status transitions, idempotency, audit history, and exception handling.
+* Support parallel validation by comparing modern LFS outputs with approved legacy or expected results, analyzing variances, documenting evidence, and partnering with Engineering, Product, and Business teams on disposition and sign-off.
+* Create and manage test data that covers positive, negative, boundary, historical, effective-date, role/permission, rejected/resubmitted, duplicate, late-arriving, and error-recovery scenarios while protecting sensitive data.
+* Integrate automated suites into CI/CD pipelines and establish reliable quality gates, execution reporting, failure diagnostics, and regression feedback for sprint and release decisions.
+* Coordinate cross-POD and cross-domain testing dependencies, environment readiness, service availability, test stubs/mocks, defect retesting, and release or dark-launch validation.
+* Lead defect triage and root-cause analysis with clear severity, business impact, reproducible evidence, target resolution, deployment status, and closure verification.
+* Contribute to LFS common testing standards, reusable utilities, metrics, dashboards, documentation, and knowledge transfer; mentor engineers and help raise automation and domain capability across PODs.
+* Participate in Agile ceremonies, technical reviews, demos, release planning, and production-support activities, providing concise and transparent quality status, risks, decisions, and recommendations.
+
+**Required Qualifications:**
+
+* Bachelor's degree in Computer Science, Engineering, Information Systems, or equivalent practical experience.
+* 6+ years of software quality engineering experience, including hands-on test automation for enterprise applications and distributed systems.
+* Strong programming skills in Java and/or JavaScript/TypeScript; working knowledge of Python or SQL-based test utilities is beneficial.
+* Hands-on experience with modern UI automation such as Playwright or Selenium, and API automation using REST Assured, Postman/Newman, ReadyAPI, or equivalent.
+* Strong SQL skills and experience validating data across relational databases such as PostgreSQL, Aurora PostgreSQL, or DB2, including reconciliation of high-volume processing results.
+* Experience testing REST/OpenAPI services, asynchronous or event-driven integrations, Kafka messages, batch/file processing, microservices, and multi-system workflows.
+* Experience creating test frameworks, reusable libraries, mocks/service virtualization, test-data utilities, and actionable execution reports.
+* Experience integrating tests with Git-based development and CI/CD tools such as Jenkins, GitHub Actions, Harness, or equivalent.
+* Working knowledge of performance testing concepts and tools such as JMeter, Gatling, k6, LoadRunner, or equivalent, including analysis against non-functional requirements.
+* Experience with Jira and Confluence for test planning, test evidence, defect management, traceability, and status reporting.
+* Strong analytical, debugging, communication, and collaboration skills in Agile/Scrum delivery across distributed teams and time zones.
+* Ability to understand complex business rules and translate them into risk-based scenarios, automated checks, and clear release-readiness recommendations.
+
+**Preferred Qualifications:**
+
+* Experience in loyalty, hospitality, travel, e-commerce, billing, reimbursement, financial processing, accounting interfaces, or controls-oriented platforms.
+* Experience testing cloud-native systems on AWS, containerized workloads using Docker/Kubernetes, and observability platforms such as Splunk, Dynatrace, Grafana, or CloudWatch.
+* Experience with contract/schema testing, consumer-driven contracts, Avro/Schema Registry, CDC/data-pipeline testing, and data-quality validation.
+* Experience with accessibility testing and WCAG-aligned validation for enterprise web applications.
+* Understanding of secure testing, authentication/authorization, role-based access, auditability, privacy, and SOX/ITGC-sensitive application controls.
+* Exposure to AI-assisted engineering tools such as GitHub Copilot or Cursor, with disciplined review of generated automation code and test assets.
+* Experience guiding other SDETs, conducting automation code reviews, and establishing shared quality-engineering practices across multiple teams.
+* LFS Testing Scope Across PODs
+
+**Core Competencies:**
+
+* Automation-first quality engineering
+* End-to-end systems thinking
+* Financial and data accuracy mindset
+* Risk-based testing and critical thinking
+* Ownership and execution discipline
+* Cross-team collaboration and concise communication
+* Root-cause analysis and continuous improvement
+* Mentoring, documentation, and knowledge sharingEducation
+* Graduate degree in Computer Science, Engineering, Information Systems, or a related discipline; equivalent practical experience will be considered.
+
+**Work Location and Mode:**
+
+* Hyderabad, India
+* Hybrid
+
+**Marriott's Core Values:**
+
+At Marriott, our core values make us who we are. We believe that success is never final. As we change and grow, the beliefs that are most important to us stay the same: putting people first, pursuing excellence, embracing change, acting with integrity, and serving our world. Being part of Marriott Tech Accelerator means being part of a proud history and a thriving culture.","Technology, Information and Media",https://in.linkedin.com/company/marriott-tech-accelerator,https://media.licdn.com/dms/image/v2/D560BAQG5HWvEKmL2dQ/company-logo_100_100/B56ZbXMuBnHUAQ-/0/1747367158280/marriott_tech_accelerator_logo?e=2147483647&v=beta&t=Qns4tu_gJJgGmdA_c3-rO_Paq5DhQV1rY2Zlh6KFjeo,,,,,,,,,,,
+li-4474191740,linkedin,https://www.linkedin.com/jobs/view/4474191740,,Senior Quality Engineer I [T500-29855],Marriott Tech Accelerator,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"**About Us:**
+
+Marriott International Inc., headquartered in Bethesda, Maryland, USA, was founded in May 1927 by J. Willard Marriott and Alice S. Marriott with a modest nine-seat A&W root beer stand. Guided by the family's leadership and core principles, Marriott International today has grown into a global hospitality giant, operating approximately 10,000 properties and over 30 leading brands in more than 140 countries and territories
+
+From such humble beginnings to becoming the world’s largest hotel company, Marriott International has never stopped searching for inventive ways to serve its customers, provide opportunities for its associates, and grow their business. At Marriott Tech Accelerator center (MTA), Hyderabad, India, Marriott is exploring the world we live in and all its possibilities. At Marriott Tech Accelerator, we are a team of passionate engineering minds dedicated to creating and building cutting-edge solutions that streamline operations and elevate guest experiences.
+
+Marriott Tech Accelerator center is fully owned and operated by ANSR. All associates at Marriott Tech Accelerator will be ANSR employees, delivering services exclusively to ANSR's client, Marriott International.
+
+**Marriott Tech Accelerator is an ANSR entity incorporated exclusively for providing services to Marriott International.**
+
+**Senior Quality Engineer II**
+
+**Position Summary:**
+
+The Senior Test Engineer is a hands-on quality engineering role supporting the Loyalty Financial Services (LFS) platform across Core, Partners, Platform/Data & Integrations, UI/Admin Portal, and Operations capabilities. The engineer will design and execute risk-based testing, build maintainable automation, validate complex financial and loyalty processing, and provide objective evidence of release readiness.
+
+The role spans functional, API, UI, data, event-driven, integration, near-neighbor, regression, component performance, and production parallel-validation testing. It requires close collaboration with Product, Engineering, Architecture, DevOps, SRE, Security, enterprise testing teams, and upstream/downstream domains. The successful candidate combines strong automation depth with business-process understanding, disciplined test documentation, and end-to-end ownership.
+
+**Key Responsibilities:**
+
+* Own the quality-engineering approach for assigned LFS capabilities from backlog refinement through production validation, including test strategy, scope, estimates, risks, entry/exit criteria, traceability, evidence, and sign-off readiness.
+* Partner with Product Owners, Business Analysts, architects, and developers to improve acceptance criteria, identify edge cases, define testable requirements, and embed quality early in design and development.
+* Design, build, and maintain reusable automation for web UI, REST APIs, microservices, batch processes, data pipelines, Kafka/event flows, and database validations using an automation-first approach.
+* Execute functional, integration, near-neighbor, end-to-end, regression, accessibility, negative, boundary, resiliency, and component performance testing appropriate to the capability and release risk.
+* Validate financial and loyalty data across source, processing, persistence, events, APIs, UI, and downstream outputs, including reconciliation, calculation accuracy, status transitions, idempotency, audit history, and exception handling.
+* Support parallel validation by comparing modern LFS outputs with approved legacy or expected results, analyzing variances, documenting evidence, and partnering with Engineering, Product, and Business teams on disposition and sign-off.
+* Create and manage test data that covers positive, negative, boundary, historical, effective-date, role/permission, rejected/resubmitted, duplicate, late-arriving, and error-recovery scenarios while protecting sensitive data.
+* Integrate automated suites into CI/CD pipelines and establish reliable quality gates, execution reporting, failure diagnostics, and regression feedback for sprint and release decisions.
+* Coordinate cross-POD and cross-domain testing dependencies, environment readiness, service availability, test stubs/mocks, defect retesting, and release or dark-launch validation.
+* Lead defect triage and root-cause analysis with clear severity, business impact, reproducible evidence, target resolution, deployment status, and closure verification.
+* Contribute to LFS common testing standards, reusable utilities, metrics, dashboards, documentation, and knowledge transfer; mentor engineers and help raise automation and domain capability across PODs.
+* Participate in Agile ceremonies, technical reviews, demos, release planning, and production-support activities, providing concise and transparent quality status, risks, decisions, and recommendations.
+
+**Required Qualifications:**
+
+* Bachelor's degree in Computer Science, Engineering, Information Systems, or equivalent practical experience.
+* 6+ years of software quality engineering experience, including hands-on test automation for enterprise applications and distributed systems.
+* Strong programming skills in Java and/or JavaScript/TypeScript; working knowledge of Python or SQL-based test utilities is beneficial.
+* Hands-on experience with modern UI automation such as Playwright or Selenium, and API automation using REST Assured, Postman/Newman, ReadyAPI, or equivalent.
+* Strong SQL skills and experience validating data across relational databases such as PostgreSQL, Aurora PostgreSQL, or DB2, including reconciliation of high-volume processing results.
+* Experience testing REST/OpenAPI services, asynchronous or event-driven integrations, Kafka messages, batch/file processing, microservices, and multi-system workflows.
+* Experience creating test frameworks, reusable libraries, mocks/service virtualization, test-data utilities, and actionable execution reports.
+* Experience integrating tests with Git-based development and CI/CD tools such as Jenkins, GitHub Actions, Harness, or equivalent.
+* Working knowledge of performance testing concepts and tools such as JMeter, Gatling, k6, LoadRunner, or equivalent, including analysis against non-functional requirements.
+* Experience with Jira and Confluence for test planning, test evidence, defect management, traceability, and status reporting.
+* Strong analytical, debugging, communication, and collaboration skills in Agile/Scrum delivery across distributed teams and time zones.
+* Ability to understand complex business rules and translate them into risk-based scenarios, automated checks, and clear release-readiness recommendations.
+
+**Preferred Qualifications:**
+
+* Experience in loyalty, hospitality, travel, e-commerce, billing, reimbursement, financial processing, accounting interfaces, or controls-oriented platforms.
+* Experience testing cloud-native systems on AWS, containerized workloads using Docker/Kubernetes, and observability platforms such as Splunk, Dynatrace, Grafana, or CloudWatch.
+* Experience with contract/schema testing, consumer-driven contracts, Avro/Schema Registry, CDC/data-pipeline testing, and data-quality validation.
+* Experience with accessibility testing and WCAG-aligned validation for enterprise web applications.
+* Understanding of secure testing, authentication/authorization, role-based access, auditability, privacy, and SOX/ITGC-sensitive application controls.
+* Exposure to AI-assisted engineering tools such as GitHub Copilot or Cursor, with disciplined review of generated automation code and test assets.
+* Experience guiding other SDETs, conducting automation code reviews, and establishing shared quality-engineering practices across multiple teams.
+* LFS Testing Scope Across PODs
+
+**Core Competencies:**
+
+* Automation-first quality engineering
+* End-to-end systems thinking
+* Financial and data accuracy mindset
+* Risk-based testing and critical thinking
+* Ownership and execution discipline
+* Cross-team collaboration and concise communication
+* Root-cause analysis and continuous improvement
+* Mentoring, documentation, and knowledge sharing Education
+* Graduate degree in Computer Science, Engineering, Information Systems, or a related discipline; equivalent practical experience will be considered.
+
+**Work Location and Mode:**
+
+* Hyderabad, India
+* Hybrid
+
+**Marriott's Core Values:**
+
+At Marriott, our core values make us who we are. We believe that success is never final. As we change and grow, the beliefs that are most important to us stay the same: putting people first, pursuing excellence, embracing change, acting with integrity, and serving our world. Being part of Marriott Tech Accelerator means being part of a proud history and a thriving culture.","Technology, Information and Media",https://in.linkedin.com/company/marriott-tech-accelerator,https://media.licdn.com/dms/image/v2/D560BAQG5HWvEKmL2dQ/company-logo_100_100/B56ZbXMuBnHUAQ-/0/1747367158280/marriott_tech_accelerator_logo?e=2147483647&v=beta&t=Qns4tu_gJJgGmdA_c3-rO_Paq5DhQV1rY2Zlh6KFjeo,,,,,,,,,,,
+li-4464144366,linkedin,https://www.linkedin.com/jobs/view/4464144366,,Technical Specialist-Testing Services,Birlasoft,Greater Hyderabad Area,2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"Area(s) of responsibility
+  
+  
+Strong experience in software quality engineering, test strategy, test planning, and QA leadership across enterprise applications.
+  
+  
+Strong hands-on experience in API testing and automation using REST/SOAP services.
+  
+  
+Expertise in UI automation testing using Selenium or equivalent frameworks.
+  
+  
+Experience designing and implementing test automation frameworks using Java, Python, JavaScript, or similar technologies.
+  
+  
+Strong experience in functional, integration, regression, system, API, and end-to-end testing.
+  
+  
+Experience integrating automated testing with continuous integration and continuous delivery (CI/CD) environments.
+  
+  
+Strong knowledge of Agile/Scrum, Shift-Left Testing, Continuous Testing, and Quality Engineering practices.
+  
+  
+Experience with SQL and database validation, including MySQL/SQL Server or equivalent databases.
+  
+  
+Strong understanding of JSON, XML, REST APIs, SOAP, web services, and microservices architectures.
+  
+  
+Experience with cloud environments, preferably Pivotal Cloud Foundry and/or AWS/Azure/GCP.",IT Services and IT Consulting,https://in.linkedin.com/company/birlasoft,https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA,,,,,,,,,,,
+li-4474134835,linkedin,https://www.linkedin.com/jobs/view/4474134835,,Software Development Engineer in Test,The Depository Trust & Clearing Corporation (DTCC),"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"Are you ready to make an impact at DTCC?
+  
+  
+Do you want to work on innovative projects, collaborate with a dynamic and supportive team, and receive investment in your professional development? At DTCC, we are at the forefront of innovation in the financial markets. We are committed to helping our employees grow and succeed. We believe that you have the skills and drive to make a real impact. We foster a thriving internal community and are committed to creating a workplace that looks like the world that we serve.
+  
+  
+The Information Technology group delivers secure, reliable technology solutions that enable DTCC to be the trusted infrastructure of the global capital markets. The team delivers high-quality technology solutions through activities that include software development, test automation, quality engineering, platform modernization, and implementation of data, security, and regulatory standards.
+  
+  
+**Pay And Benefits**
+
+* Competitive compensation, including base pay and annual incentive
+* Comprehensive health and life insurance and well-being benefits, based on location
+* Pension / Retirement benefits
+* Paid Time Off and Personal/Family Care, and other leaves of absence when needed to support your physical, financial, and emotional well-being
+* DTCC offers a flexible/hybrid model of 3 days onsite and 2 days remote (onsite Tuesdays, Wednesdays and a third day unique to each team or employee)
+
+**The Impact You Will Have In This Role**
+The SDET family is responsible for creating, designing, deploying, and supporting applications, programs, and software solutions. This may include new development, maintenance, automation, enhancement, and modernization of software products used internally and externally across DTCC platforms.
+  
+  
+As an Associate, Software Development Engineer in Test, you will help drive quality engineering practices across strategic initiatives and enterprise delivery streams. In this role, you will contribute to functional and automated testing, support shift-left quality practices, maintain end-to-end traceability, and help validate complex workflows spanning user interfaces, APIs, databases, regulatory reporting flows, file-based ingestion, and cross-system integrations. The role is expected to support secure, compliant, and scalable delivery by partnering closely with Software Engineers, Product Owners, Scrum teams, and partner platforms. This scope includes regulatory and reporting validation, schema and file-format transformations, traceability across testing tools, UI/API/backend coordination, and testing across database, integration, regression, and automation workflows.
+  
+  
+**Your Primary Responsibilities**
+
+* Apply software development and testing methodologies, tools, and technologies to validate business, functional, and regulatory requirements across multiple enterprise applications and platforms.
+* Design, execute, and maintain manual and automated tests across the delivery lifecycle, including functional, regression, integration, system, exploratory, and automation-assisted testing.
+* Maintain traceability from user stories and acceptance criteria through test scenarios, test cases, automation assets, evidence, and defect tracking using tools such as JIRA and ALM/AQM.
+* Partner with Software Engineers and Product Owners during refinement, story grooming, and scenario walkthroughs to clarify requirements, identify ambiguities early, and improve testability before code completion.
+* Validate API, UI, and database behavior as required, including support for backend and data-level verification across enterprise systems where project scope requires it.
+* Perform validation activities such as file ingestion, schema validation, field mapping, field transformation, XML/CSV processing, report verification, ACK/NACK handling, error validation, and simulator-driven testing.
+* Support regulatory and control-focused testing needs, including validation of transaction/reporting accuracy, reporting timeliness, privacy and data masking, entitlements, auditability, portal access, and downstream impacts to related systems or reporting channels.
+* Contribute to automation frameworks and continuous testing by integrating automated checks with CI/CD pipelines and supporting smoke, sanity, and regression execution as part of release readiness.
+* Use enterprise testing and engineering tools effectively, including JIRA, ALM, Bitbucket, Jenkins, Splunk, database-driven validation platforms, simulator tools, and automation frameworks.
+* Collaborate with internal and cross-functional teams on requirement analysis, UI/API integration, issue triage, dependency management, troubleshooting, and solution validation across shared and distributed teams.
+* Create and maintain system, test, and execution documentation including test plans, scenario coverage, execution evidence, defect summaries, and test status reporting.
+* Align risk and control processes into day-to-day responsibilities to monitor and mitigate risk, escalate issues appropriately, and support secure, compliant software delivery.
+
+**Qualifications**
+
+* Minimum of 4 years of related experience in software testing, quality engineering, or test automation
+* Bachelor’s degree preferred or equivalent experience
+* Experience in functional testing, automation testing, and defect lifecycle management in Agile delivery environments
+* Hands-on experience with test design techniques such as equivalence partitioning, boundary value analysis, decision table testing, pairwise testing, and exploratory testing
+* Experience working with JIRA and ALM for requirements traceability, test management, and issue tracking
+* Experience with one or more programming/scripting languages such as Java or Python
+* Familiarity with API testing and automation tools/frameworks such as Selenium, TestNG, Karate, or Rest Assured
+* Familiarity with Git / Bitbucket and CI/CD tooling such as Jenkins
+* Familiarity with AI Prompt Engineering and AI Agents
+* Experience validating file-based and data-intensive workflows involving XML, CSV, schema validations, field mappings, and database verification is preferred
+* Exposure to financial services, regulatory/reporting processes, onboarding flows, portal-based applications, or data-platform testing is preferred
+
+**Talents Needed For Success**
+
+* Strong analytical and problem-solving skills with attention to detail
+* Ability to understand complex business workflows and translate requirements into effective test coverage
+* Strong collaboration skills and comfort working with Software Engineers, Product Owners, Scrum teams, and partner platforms
+* Effective written and verbal communication skills, including ability to document findings and present testing status clearly
+* Curiosity and ownership mindset with a strong quality-first orientation
+* Ability to balance manual validation with automation opportunities and continuously improve testing efficiency
+* Comfort working in fast-paced, iterative delivery environments with changing priorities
+* Awareness of privacy, security, risk, and regulatory expectations in enterprise software delivery
+* Willingness to learn domain-specific concepts across regulatory reporting, operational workflows, and UI/API integration models
+
+Actual salary is determined based on the role, location, individual experience, skills, and other considerations. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",Financial Services,https://www.linkedin.com/company/dtcc,https://media.licdn.com/dms/image/v2/D4E0BAQHJdYs7d9tqGA/company-logo_100_100/B4EZfLYIg6HsAY-/0/1751463791095/dtcc_logo?e=2147483647&v=beta&t=NCsOv8UBrHgafxtnBO1PHN5zxqF8zJybqimd_HP2Zx0,,,,,,,,,,,
+li-4471732631,linkedin,https://www.linkedin.com/jobs/view/4471732631,,Quality Assurance Engineer,Avèro Advisors,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,entry level,,,,"**About Avèro Advisors**
+
+Avèro Advisors is an industry-leading independent strategic advisory firm dedicated to helping public sector organizations modernize operations through Digital Government Transformation and ERP/IT modernization. We combine technology expertise with design thinking to solve complex business challenges and help governments deliver better services to their communities.
+
+**Role Overview**
+
+We are seeking a
+**QA Assurance Engineer (SDET L1)**
+with
+**1-2 years of experience**
+to support the quality, reliability, and performance of Avèro's digital products and AI-enabled solutions. The successful candidate will work closely with engineers, product managers, consultants, and other cross-functional team members to validate requirements, identify defects, build and maintain automated tests, and help ensure high-quality software releases.
+
+**Core Roles & Responsibilities**
+
+* Understand product requirements, user stories, and acceptance criteria and translate them into effective test scenarios and test cases.
+* Perform functional, regression, integration, system, smoke, and exploratory testing across web and/or mobile applications.
+* Design, develop, execute, and maintain automated test scripts for critical application workflows.
+* Identify, document, track, retest, and verify software defects through resolution.
+* Perform API testing and validate requests, responses, status codes, data, and application integrations.
+* Collaborate with developers, product managers, and QA team members to identify quality risks early in the software development lifecycle.
+* Participate in sprint planning, requirement discussions, backlog refinement, daily stand-ups, and release activities.
+* Maintain test cases, test data, automation suites, and QA documentation to support repeatable testing and release readiness.
+* Analyze test failures, troubleshoot issues, and provide clear defect reports with reproducible steps and supporting evidence.
+* Contribute to continuous improvement of QA processes, automation coverage, and overall product quality.
+
+**Required Qualifications**
+
+* 1-2 years of experience in Software Quality Assurance, Software Testing, Test Automation, or an SDET role.
+* Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field.
+* Good understanding of SDLC, STLC, Agile/Scrum, and software testing methodologies.
+* Hands-on experience with manual testing and exposure to test automation.
+* Working knowledge of an automation tool or framework such as Selenium, Playwright, Cypress, or Appium.
+* Programming or scripting knowledge in Java, JavaScript/TypeScript, Python, or a similar language.
+* Experience with API testing tools such as Postman or REST Assured and basic knowledge of SQL/database validation.
+* Familiarity with defect tracking, test management, version control, and CI/CD tools such as Jira, Azure DevOps, Git, Jenkins, or similar platforms.
+* Strong analytical, problem-solving, communication, and attention-to-detail skills with the ability to collaborate across technical and non-technical teams.
+
+**Why Avèro Advisors?**
+
+Joining Avèro Advisors offers the opportunity to work at the intersection of technology, innovation, and public service. As part of our growing technology and product team, you'll collaborate with experienced advisors, engineers, and public sector experts to build and validate solutions that support digital transformation, improve government operations, and deliver meaningful outcomes for communities.",Information Technology & Services,https://www.linkedin.com/company/averoadvisors,https://media.licdn.com/dms/image/v2/D4E0BAQEHOY_Z6-hzgQ/company-logo_100_100/B4EaCsHTQaH4AI-/0/1789593990435/averoadvisors_logo?e=2147483647&v=beta&t=Fi86HMQLvQvlvuVNDhlgFu0bWSXeq3jmBOTp30kH5e8,,,,,,,,,,,
+li-4474191089,linkedin,https://www.linkedin.com/jobs/view/4474191089,,QE Lead [T500-29842],CIBC India,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"**About CIBC:**
+
+CIBC is a leading North American bank, with a history of more than 150 years of living our purpose - to help make your ambition a reality. Client relationships are at the center of our strategy, and our growth is enabled by a highly engaged and connected global team. From digital banking to community impact, we’re proud to drive progress for our clients and our communities. Recognized for our culture, award-winning innovation and community investment, CIBC continues to evolve by putting people and progress at the centre of everything we do.
+
+**About CIBC India:**
+
+CIBC India is a technology and operations hub in Hyderabad, where you’ll be part of our highly engaged and global team, and play a central role in supporting our growth. Whether you’re driving innovation in digital banking or streamlining client onboarding, you’ll be part of a culture recognized for excellence and investment in people. At CIBC India, people and progress are at the center of what we do: you’ll develop skills, collaborate with industry leaders, and see your ideas realized in a culture that values progress and belonging. We provide cutting-edge resources, ongoing learning, and a supportive environment where people come first. If you’re ready to create meaningful change and build your future, CIBC India is where your ambition meets opportunity.
+
+**What CIBC India Offers:**
+
+At CIBC India, your goals are a priority. We start with your strengths and ambitions and strive to create opportunities to tap into your potential. We aspire to give you a career that goes well beyond your compensation.
+
+We work to recognize you in meaningful, personalized ways including competitive fixed pay, performance-based incentive programs, a family-first benefits program, employer contributions for your retirement, attractive time off and leave offerings, wellbeing support, and MomentMakers, our social, points-based recognition program.
+
+Our spaces and technological toolkit will make it simple to bring together great minds to create innovative solutions that make a difference for our clients worldwide
+
+We cultivate a culture where you can express your ambition through initiatives like Purpose Day, a paid day off dedicated for you to use to invest in your growth and development.
+
+**What You’ll Be Doing (position summary):**
+
+The QE Solution Lead is accountable for leading the quality engineering solutions team. This role ensures the delivery of high-quality solutions by developing tools and solutions that will be used by the QA team for executing comprehensive test strategies, plans, and automation scripts, while driving continuous improvement in QA/QE processes and standards. The incumbent plays a key role in technical evaluation, solution design feedback, and implementation of emerging automation and AI-based testing approaches to expedite delivery, improve quality, and reduce costs. At CIBC India we enable the work environment most optimal for you to thrive in your role. Details on your work arrangement (including on-site and remote work) will be discussed at the time of your interview.
+
+**How You’ll Succeed (responsibilities): Operational Excellence:**
+
+* Develop and manage quality engineering tools and solutions. Examples include tools the QA teams can use to expedite testing, dashboards to report stats and metrics, AI based solutions for work efficiency, etc.
+* May be involved in direct project delivery on strategic projects involved in team transformation. Develop, publish, manage, and execute test strategies, test plans, test cases, traceability matrices, automation scripts, status reports, defect logs, and exit reports.
+* Identify and obtain required test data and test environments to support testing activities.
+* Develop, publish, and execute testing estimates and manage financials related to testing.
+
+**Project & Team Leadership:**
+
+* If involved in a project, manage and lead the testing activities for a workstream, program, or multiple projects/initiatives.
+* Lead a team of quality engineers working on solutions, including capacity management, performance management, productivity, quality assurance, and compliance with project requirements.
+* Ensure adherence to QA/QE standards and drive the implementation of new standards.
+
+**Continuous Improvement:**
+
+* Recognize and identify areas for improvement in policies, processes, procedures, and tools/methodologies; implement continuous improvements.
+* Track and report QA/QE metrics and KPIs such as velocity and defect slippage.
+* Identify, manage, and remediate noncompliance items and deviations.
+
+**Technical Evaluation & Quality Engineering:**
+
+* Provide input, feedback, and challenge technical designs, assess impacts to testing based on technical details, and develop QA automation solutions.
+* Identify and implement automation, AI, or emerging solutions to expedite testing, improve quality, and reduce costs.
+
+**Quality Assurance:**
+
+* Apply extensive knowledge of software quality assurance activities, tasks, tools, and techniques to evaluate new or enhanced systems and software tools for adherence to functionality and quality requirements.
+
+**Quality Management & Problem Solving:**
+
+* Utilize quality management methods, tools, and techniques to create and support an environment that meets organizational needs.
+* Apply problem-solving approaches, tools, and techniques to recognize, anticipate, and resolve organizational, operational, or process problems.
+
+**People Management:**
+
+* Set appropriate context when assigning work to ensure that individuals’ roles support the achievement of the business unit’s priorities and CIBC’s overall goals.
+* Build team and individual capabilities by providing development opportunities such as job shadowing, special projects, and training.
+* Manage performance by providing fair and accurate formal and informal feedback, identifying and removing obstacles to performance, and explaining how performance expectations align with business priorities.
+* Create a positive work environment and act as an effective role model by championing CIBC’s mission, vision, and values.
+* Ensure compliance with policies, standards, guidelines, and controls by applying the policies and controls fairly and consistently so employees understand what to expect.
+* Hire the right people in the right jobs to align individual capabilities with job requirements and business unit goals.
+
+**CROSS-FUNCTIONAL RELATIONSHIPS:**
+
+* Collaborates with peers, project managers, developers, and business analysts both inside and outside the work unit to identify, discuss, and resolve issues related to testing and quality engineering.
+* Interacts regularly with development teams, product owners, and external vendors to establish and monitor service level agreements, define service requirements, and ensure the delivery of quality solutions.
+* Works closely with stakeholders to communicate status, metrics, and remediation plans for noncompliance and deviations.
+
+**COMPLIANCE REQUIREMENTS/RESPONSIBILITIES:**
+
+* As an employee of CIBC, the incumbent must comply with all applicable CIBC and Line of Business policies, standards, guidelines, and controls.
+* As a manager of people, this job must ensure all employees within the business unit comply with all applicable CIBC and Line of Business policies, standards, guidelines, and controls.
+
+**AUTHORITIES/DECISION RIGHTS:**
+
+* As a key contributor to the business unit, this job has the authority to recommend changes to business processes in order to enhance operational efficiency and effectiveness.
+* As a manager of people, this job has the authority to assign tasks to employees within their span of control, select individuals for hire, assess individual performance, make employee compensation decisions, and take disciplinary measures up to and including termination.
+
+**JOB DIMENSIONS:**
+
+* Responsible for managing QE solutions and testing activities across multiple projects, programs, or workstreams within the organization.
+* Directly manages a team of quality engineers, overseeing their capacity, performance, and development.
+* Accountable for the delivery of testing outcomes impacting the quality and timeliness of project deliverables.
+* Provides advisory and support services for the adoption of automation and AI-based testing solutions across the unit.
+
+**Experience: Who You Are (skills/qualifications):**
+
+Bachelor’s degree in computer science, Engineering, Information Technology, or a related field.
+
+* 7+ years of industry and job experience in software quality engineering, quality assurance, and test management. 2-3 years of managerial experience.
+* Extensive experience in evaluating systems, software packages, and tools for functionality and quality requirements.
+* Strong understanding of quality management methods, tools, and techniques.
+
+**Must Have Skills:**
+
+* Experience in multiple automation testing frameworks (e.g. Robot Framework, Appium, Selenium, Cyress, Playwright)
+* Experience in API testing frameworks (e.g. Postman, SoapUI, Parasoft, RestAPI)
+* Experience in mocking server responses and stubbing data for testing
+* Experience in code level testing (e.g. QUnit, JUnit, Jasmine, Chai, etc.)
+* Experienced with TDD testing methodology
+* Experienced with BDD and assertion testing syntax
+* Experience working as a developer (e.g. front-end web development, native app development, server-side development) and code level test coverage
+* GitHub CoPilot or other Gen AI-based tools
+* Strong understanding of how to execute test frameworks in command line as well as integrating with a CI/CD pipeline
+* Proficient with Jira, Confluence, and/or other similar Agile, development, and QA tools
+* Excellent verbal and written communication skills
+* Strong problem-solving capabilities and ability to implement continuous improvements
+* Ability to lead teams, manage performance, and drive quality outcomes
+
+**Privacy:**
+
+By proceeding with the creation of a profile and submitting an application in response to this job posting, you acknowledge and agree that your personal data will be collected, used, retained and disclosed by CIBC India and its affiliates, as described in the Candidate Privacy Statement.",Banking,https://in.linkedin.com/company/cibc-india,https://media.licdn.com/dms/image/v2/D560BAQFd5H46YjImug/company-logo_100_100/B56ZvYDa54JIAQ-/0/1768856335893?e=2147483647&v=beta&t=g8XnSbCXpsE9yj3j0srwSq6iAcVSkE_LJeSoM9NBUk8,,,,,,,,,,,
+li-4474111385,linkedin,https://www.linkedin.com/jobs/view/4474111385,,Automation Test Engineer,Luxoft,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,associate,,,,"**Project Description:**
+
+Join a high-performing Agile pod as a Mid-Level QA Engineer, supporting both automated and manual testing of integration endpoints. You'll work closely with senior engineers to enhance test coverage, improve quality, and leverage AI-assisted testing tools to accelerate development, defect detection, and testing efficiency.
+
+**Responsibilities:**
+
+* Write and maintain automated test scripts for REST APIs and integration workflows
+* Execute manual tests, identify defects, and support root cause analysis
+* Work closely with developers to validate functionality and ensure quality across features
+* Participate in Agile ceremonies and contribute to sprint reviews and planning
+* Assist in maintaining test data and improving test coverage
+* Leverage AI-assisted tools to support test case creation, debugging, and test data generation
+
+**Mandatory Skills Description:**
+
+* 2-4 years of QA experience in Agile environments
+
+Testing & Automation:
+
+* Experience with test automation tools (e.g., Selenium, Postman)
+* Good understanding of API and integration testing concepts
+* Familiarity with writing and executing automated and manual test cases
+* Understanding of various test types and creating test plans for releases
+* Python Skill set for automation testing
+
+Technical Skills:
+
+* Familiarity with basic scripting or Java-based test frameworks
+* Understanding of REST APIs and JSON-based data exchange
+
+DevOps & Tooling:
+
+* Exposure to CI/CD tools (e.g., GitLab, Jenkins)
+* Familiarity with version control systems
+
+AI-Assisted Testing:
+
+* Exposure to AI-assisted coding and testing tools (e.g., GitLab Copilot, IDE-based copilots)
+* Familiarity with using generative AI for test case suggestions, script generation, debugging, and documentation
+* Eagerness to adopt AI tools to improve efficiency, learning, and test quality
+
+Collaboration:
+
+* Strong collaboration and communication skills
+
+**Nice-to-Have Skills Description:**
+
+* Ability to work effectively in Agile teams and learn from senior engineers",IT Services and IT Consulting,https://ch.linkedin.com/company/luxoft,https://media.licdn.com/dms/image/v2/D560BAQGXg4uCDPdcXg/company-logo_100_100/B56ZtGvJgYIEAU-/0/1766418324735/luxoft_logo?e=2147483647&v=beta&t=m36tKBwGTR2jNU6PMP7F-56-I9f2bnqUi8ori4OpFxg,,,,,,,,,,,
+li-4437813670,linkedin,https://www.linkedin.com/jobs/view/4437813670,,Staff Test Lead,GE Vernova,Greater Hyderabad Area,2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"**Job Description Summary**
+We are seeking an experienced Test Manager to lead our testing strategy, manage testing activities, and ensure the delivery of high-quality software solutions. The ideal candidate will have a strong background in test planning, automation, and quality assurance while working in Agile and DevOps environments to test components, feature and or feature set. This role requires exceptional leadership, analytical, and problem-solving skills to drive automated testing excellence across projects
+  
+  
+**Job Description**
+**Roles and Responsibilities**
+In this role, you will
+  
+  
+
+* Own and deliver medium-sized quality engineering tasks while mentoring and helping team members in Power System Domain which includes Energy Management Systems, Market Management Systems
+* Make technology choices at individual level and analyse impact
+* Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques
+* Integrate project testing with continuous-integration process
+* Create effective scenarios and tests following best practices like Behavior Driven Development (BDD ) and Test Driven Development (TDD)
+* Work with fellow team members to diagnose bugs and formulate solutions
+* Provide expertise in the quality engineering, test planning and testing methodology for a software project
+* Develop and executes maintainable automation tests for acceptance, functional, and regression test cases
+
+**Test Strategy & Management**
+
+* Define and implement the overall testing strategy, frameworks, and best practices to ensure software quality.
+* Develop and maintain test plans, test cases, and test automation strategies for complex software solutions.
+* Oversee functional, regression, integration, system, and user acceptance testing (UAT) across multiple projects.
+* Ensure test environments, data, and tools are effectively managed for smooth test execution.
+
+**Leadership & Team Management**
+
+* Lead and mentor a team of engineers, analysts, and testers to enhance their skills and capabilities.
+* Collaborate with development, product, and business teams to align testing with project goals and timelines.
+* Drive a culture of continuous improvement, innovation, and proactive issue resolution within the testing team.
+* Manage test resources, schedules, and risk assessments to ensure timely quality project delivery.
+
+**Automation & Performance Testing**
+
+* Advocate and implement test automation strategies to increase efficiency and coverage.
+* Work with DevOps teams to integrate continuous testing into CI/CD pipelines.
+* Oversee performance, security, and load testing to identify potential system vulnerabilities.
+
+**Quality Assurance & Compliance**
+
+* Establish and enforce QA standards, best practices, and compliance guidelines in line with industry benchmarks.
+* Ensure defect tracking, root cause analysis, and continuous feedback loops are in place.
+* Provide regular test reports, metrics, and insights to stakeholders to support informed decision-making.
+
+**Required Skills & Qualifications**
+
+* 8+ years of experience in software testing & quality assurance, with at least 5+ years in a lead role.
+* Strong expertise in test management, automation, and performance testing tools (e.g., Selenium, HP Quick Test Professional, JMeter, LoadRunner, Cypress).
+* Understand test frameworks, automation techniques, and testing methodologies (Katalon/Selenium)
+* Java technology background, ability/familiarity to code at least in Core Java
+* Ability to write scripts (one of bash/ksh, python or groovy)
+* Experience using CI tools (Jenkins, TeamCity, etc.)
+* Hands-on experience with Agile, Scrum, DevOps, and CI/CD methodologies.
+* Understand Jbehave/Cucumber framework, Java languages and different design patterns
+* Strong leadership, stakeholder management, and decision-making abilities.
+* Excellent communication and collaboration skills to work with cross-functional teams.
+
+**Preferred Qualifications**
+
+* Experience in Electrical Utilities industry domain or other regulated industries is a plus.
+* Certifications such as ISTQB Advanced Level, CSM, SAFe Agile, or PMI-ACP are advantageous.
+* Exposure to AI-driven testing, RPA (Robotic Process Automation), and security testing is a plus.
+
+**Education**
+
+* Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related field
+
+******Additional Information******
+**Relocation Assistance Provided:**
+Yes",Energy Technology,https://www.linkedin.com/company/gevernova,https://media.licdn.com/dms/image/v2/D4E0BAQG3fXAI-jYu5A/company-logo_100_100/company-logo_100_100/0/1681910638687/gevernova_logo?e=2147483647&v=beta&t=wxmEC0JI8pdfZCuf9nRT8XLaNDFKjVAOQ3tB3dU6wTk,,,,,,,,,,,
+li-4472544572,linkedin,https://www.linkedin.com/jobs/view/4472544572,,"Senior Software Engineer, QA",Octave,"Hyderabad, Telangana, India",2026-10-01,fulltime,,,,,,False,entry level,,,,"****Responsibilities****
+You will be a key part of a passionate team, taking responsibility for the quality of the software developed by the team. You will be applying a range of agile project planning and delivery methodologies to continually improve productivity.
+  
+  
+Responsible for –
+  
+  
+
+* Testing and QA experience with AI/ML systems, including validation of AI-powered features and model outputs
+* Strong understanding of OOP concepts, Exception handling, collections, file I/O
+* Ensuring good test plans and testing of the product
+* Testing of different functionalities including upgrade and performance testing
+* Providing test environment requirements
+* Ensuring automation coverage for new and existing functionality
+* Ensuring QA procedures are adhered to in the teams
+* Analyze data and communicate test results with multiple levels of the organization
+* Must have strong analytical and logical problem-solving skills to solve complex problems in a timely manner while adapting to changing priorities
+* Interface with internal customers including software development, documentation and product planning
+* Excellent Communication Skills (both oral and written English) is required
+* Conduct technical presentations and participate in technical workshops and training
+* Designing and maintaining robust automation frameworks using Selenium and Java
+* Ensuring comprehensive automation coverage for both new and existing functionalities
+* Collaborating with cross-functional teams to understand requirements and translate them into effective test cases
+
+****Education / Qualifications****
+
+* BTech/BE/MTech in any Engineering discipline with good academic background.
+* Experience required: 1 to 4 years
+* Good in writing manual test cases and executing manual testing
+* Basic knowledge of Java (required)
+* Ability to do Automation code analysis using Java/JavaScript/Angular JS on Front end and Java on backend
+* Exposure to AI/ML testing methodologies and tools; experience testing AI-powered features is a plus
+* Exposure to any Hexagon ALI product
+* Good geometrical problem-solving skills
+
+****About Octave****
+Octave provides mission-critical software that empowers organizations to make informed decisions across every stage of the asset lifecycle - Design, Build, Operate and Protect - where performance, safety, and reliability are non-negotiable and failure is not an option.
+  
+  
+Turning complex operational data into actionable intelligence, Octave connects expertise, real-world conditions and enterprise-scale insight to improve performance, resilience and incident response where it matters most.
+  
+  
+Octave has more than 7,000 employees in 45 countries. Learn more at octave.com and follow us on LinkedIn.
+  
+  
+**Why work for Octave?**
+All in. Always forward. That's the way we do things around here. We put trust in our people because we believe it's the best way to unleash potential, bring ideas to life, and keep moving ahead. And it's why we're committed to creating an environment that's truly supportive, providing you with the resources you need to support your ambitions, no matter who you are or where you are in the world.
+  
+  
+**Everyone is welcome**
+At Octave, we believe that diverse and inclusive teams are critical to the success of our people and our business. Here, everyone is welcome. As an inclusive workplace, we don't discriminate. In fact, we embrace differences and are fully committed to creating equal opportunities, an inclusive environment, and fairness for all.
+  
+  
+Respect is the cornerstone of how we operate, so speak up and be yourself. You're valued here.
+  
+  
+Senior Software Engineer, QA
+  
+  
+Job Location (Short): Hyderabad, India
+  
+  
+Workplace Type: Hybrid
+  
+  
+Req Id: 3335
+  
+  
+****About Octave****
+Octave provides mission-critical software that empowers organizations to make informed decisions across every stage of the asset lifecycle - Design, Build, Operate and Protect - where performance, safety, and reliability are non-negotiable and failure is not an option.
+  
+  
+Turning complex operational data into actionable intelligence, Octave connects expertise, real-world conditions and enterprise-scale insight to improve performance, resilience and incident response where it matters most.
+  
+  
+Octave has more than 7,000 employees in 45 countries. Learn more at octave.com and follow us on LinkedIn.
+  
+  
+**Why work for Octave?**
+All in. Always forward. That's the way we do things around here. We put trust in our people because we believe it's the best way to unleash potential, bring ideas to life, and keep moving ahead. And it's why we're committed to creating an environment that's truly supportive, providing you with the resources you need to support your ambitions, no matter who you are or where you are in the world.
+  
+  
+**Everyone is welcome**
+At Octave, we believe that diverse and inclusive teams are critical to the success of our people and our business. Here, everyone is welcome. As an inclusive workplace, we don't discriminate. In fact, we embrace differences and are fully committed to creating equal opportunities, an inclusive environment, and fairness for all.
+  
+  
+Respect is the cornerstone of how we operate, so speak up and be yourself. You're valued here.","Technology, Information and Internet",https://www.linkedin.com/company/octaveintelligence,https://media.licdn.com/dms/image/v2/D4D0BAQFSzHPaxk690Q/company-logo_100_100/B4DZyuVeXvJUAQ-/0/1772451391319/octaveintelligence_logo?e=2147483647&v=beta&t=aiRgKSjmsBsJ1CKRQ2bYCnF20ewP_51kvb4cPs1m6GI,,,,,,,,,,,
+li-4425797284,linkedin,https://www.linkedin.com/jobs/view/4425797284,,SW Quality Engineer IV - Automation,Candescent,Greater Hyderabad Area,2026-10-01,fulltime,,,,,,False,mid-senior level,,,,"Candescent is a forward-thinking technology company transforming how financial institutions deliver Intelligent Banking experiences. We unite digital banking, account opening, and branch solutions that power and connect digital banking, account opening, and branch solutions—creating seamless engagement across digital, remote, and in-person channels.
+  
+  
+Our Experience-Led, Intelligence-Driven approach combines human-centered design with data, automation, and cloud-based innovation. Built on an API-first architecture, our extensible ecosystem enables institutions to adapt quickly, integrate easily, and unlock new opportunities for growth—turning every customer interaction into a moment of clarity, confidence, and connection.
+  
+  
+**Software Quality Engineer (Automation, AI‑Driven Testing)**
+**LOCATION:**
+Hyderabad, India
+  
+  
+**GRADE:**
+12
+  
+  
+**Position Summary & Key Areas Of Responsibility**
+We are seeking an experienced
+**Senior**
+**Software Quality Engineer**
+with deep expertise in
+**ATM applications, cheque processing, fintech systems, and modern automation frameworks**
+, who can ensure high-quality delivery across
+**ATM, switching, and digital banking ecosystems**
+.
+  
+  
+**This Role Requires a Strong Combination Of**
+
+* Manual + Automation testing + Hardware Testing
+* ATM and Banking domain expertise (hardware + transaction flows)
+* AI-assisted QA practices (Copilot, Cursor)
+* Next-gen frameworks like Playwright
+
+**Key Responsibilities**
+
+* Be part of an Agile team, actively participating in Sprint ceremonies and owning test deliverables.
+* Manage assigned tasks, track progress, and proactively report risks to timelines.
+* Design, develop, and execute comprehensive test plans, test cases, and test scripts.
+* Perform:
+
++ Functional, regression, and integration testing
++ Volume, performance, and reliability testing
+
+* Execute manual test cases on ATM and Banking systems, including:
+
++ Transaction flows (withdrawal, deposit, balance inquiry, transfers)
++ Card handling, PIN validation, and error scenarios
++ Hardware-software interaction validation (cash dispenser, card reader, receipt printer)
++ Field testing and lab-based ATM validation environments
+
+* Set up and manage test environments, including hardware labs, virtual systems, and networking configurations.
+* Use automation to improve testing efficiency and reduce repetitive processes.
+* Perform API testing and automation for SOAP and REST services.
+* Manage physical and virtual QA lab environments, including ATM devices and simulators.
+* Execute and analyze load/performance tests, providing actionable insights.
+* Apply strong debugging and troubleshooting skills to assist development teams.
+* Contribute to quality metrics, dashboards, and status reporting (daily/weekly/monthly).
+* Continuously improve test strategies, frameworks, and quality processes.
+
+**Basic Qualifications**
+
+* Bachelor’s Degree in Computer Science, Engineering, or related field.
+* 9+ years of experience in Software Quality Engineering or equivalent role.
+* 9+ years of experience in QA processes, methodologies, and standards.
+* 6+ years of experience in test automation, CI/CD, and tools like Jenkins.
+
+**Core Testing Expertise**
+
+* Strong experience in:
+
++ GUI, backend, and database testing
++ Enterprise application testing
++ Functional, integration, and end-to-end test design
+
+* Experience in API automation (REST, SOAP)
+* Exposure to Fintech / Banking / ATM domain
+* Experience with ATM simulators, switch systems, or payment networks
+
+**Automation & Tools**
+
+* Expertise in automation frameworks and tools such as:
+
++ Selenium, TestNG, Cucumber, BDD, Testcafe
++ Rest Assured, SOAP UI
++ Jenkins, Maven
+
+* Hands-on experience with Playwright (NEW) for modern UI automation and cross-browser testing
+* Experience with Kubernetes-based deployments and testing environments
+* Strong understanding of CI/CD and DevOps practices
+
+**Additional Skills**
+
+* Strong understanding of performance testing systems
+* Experience with:
+
++ Network management
++ Hardware setups and system installations
+
+* Strong analytical, debugging, and problem-solving skills
+* Excellent communication and stakeholder management skills
+* High attention to detail and strong customer-centric mindset
+
+**Statement to Third Party Agencies**
+To ALL recruitment agencies: Candescent only accepts resumes from agencies on the preferred supplier list. Please do not forward resumes to our applicant tracking system, Candescent employees, or any Candescent facility. Candescent is not responsible for any fees or charges associated with unsolicited resumes.",Financial Services,https://www.linkedin.com/company/candescent-tech,https://media.licdn.com/dms/image/v2/D4E0BAQESlJ8pUH3JJA/company-logo_100_100/B4EZ6X2F5oGQAQ-/0/1780664000329/candescent_tech_logo?e=2147483647&v=beta&t=o36dUCibyLe8v47z-b2y2D56FAi_YDMWxkDGSqqWJaY,,,,,,,,,,,
+li-4445942915,linkedin,https://www.linkedin.com/jobs/view/4445942915,,Senior Software Development Engineer in Test,Experian,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,not applicable,,,,"**Company Description**
+Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realize their financial goals and help them save time and money.
+  
+  
+We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more industry segments.
+  
+  
+We invest in people and new advanced technologies to unlock the power of data. As a FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 22,500 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at experianplc.com.
+  
+  
+**Job Description**
+
+* Design, develop, and maintain automated test frameworks and scripts.
+* Collaborate with development and QA teams to identify test requirements and create test plans.
+* Execute automated tests and analyze results to identify defects and ensure software quality.
+* Develop and maintain continuous integration and continuous deployment (CI/CD) pipelines.
+* Work closely with development teams to ensure timely and effective testing of new features and bug fixes.
+* Conduct code reviews and provide feedback to ensure code quality and adherence to best practices.
+* Participate in sprint planning, daily stand-ups, and other Agile ceremonies.
+* Investigate and troubleshoot issues in the test environments and escalate as necessary.
+* You will report to an Engineering Manager
+
+**Qualifications**
+
+* Bachelor's degree in computer science, Software Engineering, or a related field.
+* You should hae 5+ years of experience as an SDET or in a similar role in software development and testing
+* Experience with test automation tools and frameworks such as Playwright, Selenium, Appium, or similar.
+* Strong programming skills in languages such as C#, Java, JavaScript, Python, Ruby
+* Experience with agentic AI tools (GitHub Copilot, Cursor, Claude) and spec-driven agentic development.
+* Test Planning (PBI Analysis, Establishing Priorities, Providing Estimates)
+* Test Design (Create/Review Test Procedures, Create/Review Test Conditions, Identify/Create Test Data)
+* Test Execution (Execute Test Procedures, Create/Triage Bugs, Status Reporting, Provide Requirements Traceability)
+* Experience with XML and CSV formats for test data generation.
+* Experience with UAT and Production implementation & support.
+* Validates Application Programming Interfaces (APIs), assuring the functionality, reliability, performance, and security of the programming interfaces
+* Technical Aptitude in system interoperability procedures.
+* Experience with SQL commands to create, store, retrieve, and modify data in a database
+* Experience working with Agile/Scrum methodologies.
+
+**Preferred Qualifications**
+
+* Advanced certifications such as ISTQB Certified Tester or similar.
+* Experience with performance testing tools such as JMeter, LoadRunner, or similar.
+* Familiarity with cloud platforms like Azure
+
+**Additional Information**
+Our uniqueness is that we celebrate yours. Experian's culture and people are important differentiators. We take our people agenda very seriously and focus on what matters; DEI, work/life balance, development, authenticity, collaboration, wellness, reward & recognition, volunteering... the list goes on. Experian's people first approach is award-winning; World's Best Workplaces™ 2024 (Fortune Global Top 25), Great Place To Work™ in 24 countries, and Glassdoor Best Places to Work 2024 to name a few. Check out Experian Life on social or our Careers Site and Glassdoor to understand why.
+  
+  
+Experian is also proud to be an Equal Opportunity and Affirmative Action employer. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.
+  
+  
+Recruitment Fraud Awareness - Experian's recruitment process is conducted only through authorised channels. Recruitment communications will only be sent from an @experian.com email address. Experian will never ask candidates to make any payment as part of an application, interview, assessment, onboarding, or recruitment process. To apply for roles or verify opportunities, please visit experian.com/careers.
+  
+  
+**Benefits**
+Experian care for employee's work life balance, health, safety and wellbeing. In support of this endeavor, we offer best-in-class family well-being benefits, enhanced medical benefits and paid time off.
+  
+  
+Experian Careers - Creating a better tomorrow together
+  
+  
+Find out what its like to work for Experian by clicking here",Financial Services,https://www.linkedin.com/company/experian,https://media.licdn.com/dms/image/v2/D4E0BAQE0Wm7-5HlQ0Q/company-logo_100_100/company-logo_100_100/0/1720618979628/experian_logo?e=2147483647&v=beta&t=okSC8bKvZ_pjsbvff72HIozHVG1gRZg62UASWOJPs_s,,,,,,,,,,,
+li-4473952413,linkedin,https://www.linkedin.com/jobs/view/4473952413,,Senior Software Developer Engineer in Test,Experian,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,not applicable,,,,"**Company Description**
+Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realize their financial goals and help them save time and money. We invest in people and new advanced technologies to unlock the power of data. As a FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 25,200 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at experianplc.com.
+  
+  
+**Job Description**
+We are looking for an enthusiastic Test Engineer to work at the forefront of our cloud modernisation, within our Credit & Verification Services. This is a hybrid role requiring travelling to Hyderabad office circa 40% days per month.
+  
+  
+**Role Context**
+We're predominantly a .NET focused engineering team, building modern, cloud-native applications using the latest in .NET 8+. All new services are developed with a forward-looking mindset, and we actively evaluate emerging features and tools to continuously improve our engineering practices.
+  
+  
+Our architecture is built on Kubernetes (EKS), enabling us to run scalable, resilient microservices in the cloud. On top of this, we leverage a wide range of AWS services (Lambda, Kinesis, Dynamo and RDS to name just a few), to enhance performance, observability, and integration across our platform.
+  
+  
+**Key Responsibilities**
+
+* Design, develop, and execute manual and automated test scripts based on business requirements.
+* Develop, maintain, and enhance automation frameworks for UI, API, and backend testing.
+* Create and maintain test data, test environments, and automation scripts.
+* Perform various types of testing: White Box testing, Black Box testing, Integration testing,UI testing, API Testing
+
+**Qualifications**
+
+* 4+ years of experience in a quality engineering, software testing, or test automation.
+* Experience with SDLC, STLC, and Agile/Scrum processes.
+* You will work collaboratively in cross-functional teams.
+* Passion for quality, learning new technologies, and continuous improvement.
+* Hands-on experience with UI, API automation tools like Selenium, Cypress, Playwright, REST-assured or Postman.
+* Proficiency in Behaviour-Driven Development (BDD) and Test-Driven Development (TDD) approaches.
+* Working knowledge of SQL for data validation.
+* Experience in at least one programming/scripting language: Java, Scala, Python, or JavaScript.
+* Basic understanding of Containers (Docker) and CI/CD processes.
+* Experience with version control systems like Git, Bitbucket, GitHub or Gitlab.
+* Working knowledge of API testing, backend validations, and functional automation.
+* You will report to manager.
+
+**Additional Information**
+Our uniqueness is that we celebrate yours. Experian's people first approach is award-winning; World's Best Workplaces™ 2025 (Fortune Top 25), Great Place To Work™ in 26 countries to name a few. Check out Experian Life on social or our Careers Site to understand why.
+  
+  
+Experian is proud to be an Equal Opportunity and Affirmative Action employer. Innovation is an important part of Experian's DNA and practices, and our diverse workforce drives our success. Everyone can succeed at Experian and bring their whole self to work, irrespective of their gender, ethnicity, religion, colour, sexuality, physical ability or age. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.
+  
+  
+**Recruitment Fraud Awareness**
+- Experian's recruitment process is conducted only through authorised channels. Recruitment communications will only be sent from an @experian.com email address. Experian will never ask candidates to make any payment as part of an application, interview, assessment, onboarding, or recruitment process. To apply for roles or verify opportunities, please visit experian.com/careers.
+  
+  
+**Benefits**
+Experian care for employee's work life balance, health, safety and wellbeing. In support of this endeavor, we offer best-in-class family well-being benefits, enhanced medical benefits and paid time off.
+  
+  
+Experian Careers - Creating a better tomorrow together
+  
+  
+Find out what its like to work for Experian by clicking here
+  
+  
+Experian Careers - Creating a better tomorrow together
+  
+  
+Find out what its like to work for Experian by clicking here",Financial Services,https://www.linkedin.com/company/experian,https://media.licdn.com/dms/image/v2/D4E0BAQE0Wm7-5HlQ0Q/company-logo_100_100/company-logo_100_100/0/1720618979628/experian_logo?e=2147483647&v=beta&t=okSC8bKvZ_pjsbvff72HIozHVG1gRZg62UASWOJPs_s,,,,,,,,,,,
+li-4465022012,linkedin,https://www.linkedin.com/jobs/view/4465022012,,"Engineer II, Software Dev Test QE",LPL Financial Global Capability Center,Greater Hyderabad Area,2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**Where Ambition Meets Innovation**
+At LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one noble purpose: empowering financial advisors to deliver personalized advice for all who need it. We’re proud to be expanding and reaching new heights in Hyderabad.
+  
+  
+Join us as we create something extraordinary together.
+  
+  
+Are you passionate about driving positive outcomes through effective technology? Do you thrive on complex initiatives and bringing new ideas to life? Excited to learn more? If so, then this could be the role for you!
+  
+  
+LPL Financial (Nasdaq: LPLA) was founded on the principle that the firm should work for the advisor, and not the other way around. Today, LPL is a leader\* in the markets we serve, supporting more than 18,000 financial advisors, 800 institution-based investment programs and 450 independent RIA firms nationwide. We are steadfast in our commitment to the advisor-centered model and the belief that Americans deserve access to personalized guidance from a financial advisor. At LPL, independence means that advisors have the freedom they deserve to choose the business model, services, and technology resources that allow them to run their perfect practice. And they have the freedom to manage their client relationships because they know their clients best. Simply put, we take care of our advisors, so they can take care of their clients.
+  
+  
+**What are we looking for?**
+We are seeking highly skilled individuals to join our Corporate Systems engineering team, capable of delivering outstanding client experiences. This role requires close collaboration with our platform technical lead, Architects, DBA and Release Management to deliver testing solutions that align with business requirements. The Corporate Systems engineering team is committed to providing high-quality solutions and data to its users on a large scale. Ideal candidates should possess relevant practical experience and demonstrate proficiency in working within an enthusiastic team environment. Ideal candidate should be dynamic, continuous learners who exhibit curiosity and strive for success in a fast-paced setting, emphasizing results, teamwork, innovation, and continuous improvement.
+  
+  
+**Engineer II, Software Dev Test QE**
+As a Quality Engineer, you will be responsible for comprehensive testing, coordinating releases, and providing outstanding support to meet business needs. Collaborating with the Corporate Systems Tech Lead, Architects, QA, and Release Management teams, you'll contribute to developing an application that supports our business objectives. Our department focuses on delivering robust, large-scale data integration and innovative home office solutions. We seek candidates with practical experience, a commitment to ongoing learning, and a passion for teamwork and excellence.
+  
+  
+**Primary Duties And Responsibilities**
+
+* Design, develop and execute manual and automated test cases for custom web-based application, APIs and ETLs.
+* Ensure end-to-end quality by implementing testing strategies, automation frameworks, and best practices.
+* Work closely with developers, product owners and business stakeholders to align testing efforts with project requirements.
+* Collaborate in Agile environments, actively participating in requirements gathering, sprint planning, and daily stand-ups.
+* Continuously improve testing processes, identify gaps and implement automation where feasible.
+* Communicate on team's behalf to both technical and non-technical audiences.
+* Work in an agile environment with various scrum teams, using test management tools such as Zephyr.
+* Support planned change requests and releases.
+
+**Knowledge & Experience**
+
+* 4+ years of experience in information technology/software development with a proven ability to ensure high quality results and with expertise in test automation, agile methodologies and QA best practices.
+* 4+ years of hands-on experience in Selenium, TestNG, Cucumber and PowerShell for automation.
+* 2+ years in SQL development.
+* Solid knowledge of QA methodologies, test planning, system dependencies, and product integration phases
+* Experience with Atlassian tool set, JIRA, Confluence, etc.
+* Experience with AI in software testing/development.
+* Experience with root cause analysis and problem solving.
+
+**Core Competencies**
+
+* C#, .Net, Java, SQL, Cursor AI, GitHub CoPilot, Test Automation Tool, PowerShell, and Linux
+* Strong analytical and problem-solving skills.
+* Tumbleweed, Octopus, Sonar, Git, Swagger, Postman, and AWS.
+* Experience with Waterfall and Agile development process.
+* Excellent verbal and written communication skills.
+
+**Preferences**
+
+* Bachelor’s degree in computer science, or a related field
+* Experience with Snowflake, Oracle Autonomous Data Warehouse, Tableau or Power BI is a plus.
+* Familiar with FinOps.
+* Experience with Data analytic processes and tools is a plus.
+* Excellent knowledge of OOP concepts, data modeling and design patterns/frameworks.
+
+LPL Global Business Services, LLP - PRIVACY POLICY",Financial Services,https://in.linkedin.com/company/lpl-global-capability-center,https://media.licdn.com/dms/image/v2/D560BAQEi-aEzNIf1Xg/company-logo_100_100/B56ZsIv6GbLMAQ-/0/1765378335541/lpl_global_business_service_logo?e=2147483647&v=beta&t=F56AZul-6XhgXa2_Ti-3gWxEs-7hnGP_v6TitUEmqRA,,,,,,,,,,,
+li-4472120906,linkedin,https://www.linkedin.com/jobs/view/4472120906,,Automation Test Lead,Birlasoft,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"Experience- 7- 10 years
+
+Location- Hyderabad-
+
+Notice period- Immediate
+
+JD-
+
+Strong experience in software quality engineering, test strategy, test planning, and QA leadership across enterprise applications.
+
+Expertise in UI automation testing using Selenium and Playwright or equivalent frameworks.
+
+Experience designing and implementing test automation frameworks using Java, Python, JavaScript, or similar technologies.
+
+Strong experience in functional, integration, regression, system, and end-to-end testing.
+
+Strong knowledge of Agile/Scrum, Shift-Left Testing, Continuous Testing, and Quality Engineering practices.
+
+Strong understanding of JSON, XML, REST APIs, SOAP, web services, and microservices architectures.
+
+Strong experience with cloud environments, preferably Pivotal Cloud Foundry and/or AWS/Azure/GCP.
+
+Knowledge of Splunk or equivalent production monitoring tools for log analysis, troubleshooting, and root-cause identification.
+
+Experience establishing QA metrics, quality gates, defect management, test coverage, and release-readiness criteria.
+
+Ability to lead test automation strategy and framework modernization, reducing manual testing and improving release velocity.
+
+Strong experience in AI-led Quality Engineering, leveraging AI/GenAI capabilities to improve test planning, test design, automation, execution, defect analysis, and overall software quality.
+
+Preferably generating test case and script creation using copilot.
+
+Experience using AI-assisted test generation and automation tools to generate test scenarios, test cases, automation scripts, regression suites, and test data.
+
+Experience leveraging AI/GenAI for defect analysis, root-cause analysis, log analysis, failure prediction, and intelligent test prioritization.
+
+Experience evaluating and adopting AI-powered QA/testing tools to improve testing efficiency, coverage, productivity, and quality.
+
+Hands-on experience with AI development/productivity tools such as GitHub Copilot or equivalent AI tools, with the ability to apply them effectively in QA automation and Quality Engineering activities.
+
+Ability to identify opportunities where AI can replace or augment repetitive manual QA activities and drive measurable improvements in automation and productivity.
+
+Understanding of AI/ML application testing, including validation of AI-driven functionality, data quality, model behavior, accuracy, reliability, and edge cases, where applicable.
+
+Experience mentoring QA engineers and providing technical leadership across distributed and cross-functional teams.
+
+Strong collaboration skills with Development, Product, Architecture, DevOps, and Business teams.
+
+Excellent technical communication skills with the ability to communicate effectively with technical and non-technical stakeholders.
+
+Strong analytical and problem-solving skills with the ability to identify root causes, assess impact, define action plans, and drive issues to closure.
+
+Experience delivering quality solutions in financial/banking applications is preferred.
+
+Strong attention to detail and ability to work effectively in a dynamic, fast-paced environment.",IT Services and IT Consulting,https://in.linkedin.com/company/birlasoft,https://media.licdn.com/dms/image/v2/C4E0BAQFJ26tVfkJeKg/company-logo_100_100/company-logo_100_100/0/1630606173796/birlasoft_logo?e=2147483647&v=beta&t=iaT7yVn_DWZQyGzWSDPqxwt036SzCaLx0njfaMz4uKA,,,,,,,,,,,
+li-4473773892,linkedin,https://www.linkedin.com/jobs/view/4473773892,,PQE II,Phenom,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**Job Requirements**
+**Role Overview**
+We are looking for a highly skilled
+**Senior SDET (PQE II)**
+with strong expertise in
+**Automation Testing using Playwright with Java/Python**
+. The ideal candidate will be responsible for building scalable automation frameworks, driving quality engineering best practices, and mentoring junior QA engineers.
+  
+  
+This role requires deep understanding of test automation architecture, CI/CD integration, API testing, and performance validation within Agile environments.
+  
+  
+**Key Responsibilities**
+
+* Design, develop, and maintain robust automation frameworks using Playwright (Java or Python)
+* Build scalable, reusable, and maintainable test automation suites for Web and API applications
+* Integrate automation pipelines with CI/CD tools (Jenkins/GitHub Actions/Azure DevOps)
+* Develop automation for REST APIs using tools like RestAssured / PyTest
+* Work closely with developers and product teams to define acceptance criteria and test strategies
+* Perform root cause analysis and identify automation gaps
+* Improve test execution performance and optimize framework stability
+* Participate in sprint planning, grooming, and release validation
+
+**Technical Skills Required**
+**Mandatory Skills**
+
+* 4+ years of experience in QA Automation / SDET role
+* Strong hands-on experience in Selenium WebDriver
+* Strong hands-on experience in Playwright
+* Proficiency in Java or Python (OOPS concepts mandatory)
+* Experience in building automation frameworks from scratch (Hybrid / POM / BDD)
+* Experience in API automation testing
+* CI/CD integration experience
+* Strong SQL knowledge
+* Experience working in Agile/Scrum environments
+
+**Good to Have**
+
+* Experience with Docker/Kubernetes
+* Performance testing exposure (JMeter / Gatling)
+* Cloud platform exposure (AWS/Azure/GCP)
+* Security testing basics
+* Experience with Test Management tools (Jira, Zephyr, TestRail)
+
+**Behavioral Competencies**
+
+* Strong analytical and problem-solving skills
+* Excellent communication and stakeholder management
+* Ownership mindset with high accountability
+* Ability to drive quality improvements independently
+
+**What We Expect From PQE III Level**
+
+* Ability to independently design automation strategy
+* Mentor team members and review automation code
+* Identify quality risks early and provide mitigation plans
+* Contribute to engineering best practices and reusable components",Software Development,https://www.linkedin.com/company/phenomai,https://media.licdn.com/dms/image/v2/D4E0BAQGYJGTOcbuX3g/company-logo_100_100/company-logo_100_100/0/1688389018333/phenomtxm_logo?e=2147483647&v=beta&t=zDTH7mPH5XxAROwNTRzBWQ-_FXunyBM1i6upnk7J6gc,,,,,,,,,,,
+li-4460602935,linkedin,https://www.linkedin.com/jobs/view/4460602935,,Senior Quality Assurance Automation Engineer,Zapcom Group Inc,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**Role: QA Automation Engineer**
+
+**Location: Hyderabad/Bangalore, India**
+
+**Work Type: Onsite**
+
+**Minimum experience required is 8+ Years**
+
+The client is looking for strong QA Automation candidates with hands-on experience in test automation and modern testing frameworks.
+
+Key expectations:
+
+* Strong experience in QA Automation testing
+* Experience designing and maintaining automation frameworks
+* Hands-on experience with Selenium, Cypress, Playwright, or similar automation tools
+* Programming knowledge in Java, Python, or JavaScript
+* Experience with API testing (Postman, Rest Assured, etc.)
+* Strong understanding of Software Testing Life Cycle (STLC) and Agile methodologies
+* Experience writing and executing automated test cases
+* Knowledge of regression, functional, integration, and end-to-end testing
+* Experience with CI/CD tools such as Jenkins, GitHub Actions, or similar
+* Strong debugging and defect tracking skills
+* Experience using tools like JIRA, TestRail, or similar
+* Database testing and SQL knowledge preferred
+* Good communication skills and ability to work closely with developers and business teams
+
+Please focus on strong hands-on automation experience and can clearly explain the frameworks, tools, and automation solutions they have implemented in their projects.
+
+**About Us Zapcom**
+
+Zapcom is a global technology services company focused on crafting meaningful digital solutions that transform businesses. Driven by agility, innovation, and a customer-first mindset, we work with clients across the
+**US, India, Europe, Canada, and the MENA region**
+.
+
+We specialize in building modern platforms and digital products for industries such as
+**airlines, travel, hospitality, BFSI, retail, and healthcare**
+. Our
+**product-first approach**
+means we think like product owners, design like architects, and test like customers—ensuring scalable, high-quality solutions.
+
+Our
+**builder-led culture**
+and
+**dual-factory delivery model**
+enable us to deliver impact at speed, grounded in ownership, transparency, and focused execution. At Zapcom, you’re trusted to lead, encouraged to take initiative, and empowered to shape solutions that are used by millions worldwide. If you’re someone who thrives on responsibility, enjoys solving real-world problems, and steps up when it matters, you’ll feel right at home here.
+**Join us and help shape products and experiences that make a global impact.**",Information Technology & Services,https://www.linkedin.com/company/zapcom-solutions-pvt-ltd-,https://media.licdn.com/dms/image/v2/C4D0BAQG0IRPO8G4YIg/company-logo_100_100/company-logo_100_100/0/1657183311317/zapcom_solutions_pvt_ltd__logo?e=2147483647&v=beta&t=T2t6hBNIzBfaoWXrzWyPAbw6E-OzqWG9UPTokvgUZKY,,,,,,,,,,,
+li-4398152163,linkedin,https://www.linkedin.com/jobs/view/4398152163,,Quality Engineer I (Automation ),Seismic,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**About Us:**
+Seismic is the Go-To-Market Performance company, driving how organizations turn their strategy into revenue. Seismic brings together signals from customer conversations, buyer engagement, governed content, coaching and seller behavior to turn intelligence into winning action. Through its AI revenue execution platform, the company equips customer-facing teams with the insights, governance, and contextual guidance they need to execute with confidence and deliver measurable business outcomes. Trusted by 2,500 organizations and over 3.5 million users around the globe, Seismic is headquartered in San Diego with offices across North America, Europe and Asia-Pacific. Learn more at seismic.com.
+  
+  
+Seismic is committed to building an inclusive workplace that ignites growth for our employees and creates a culture of belonging that allows all employees to be seen and valued for who they are. Learn more about DEI at Seismic here.
+  
+  
+**Overview:**
+Seismic is seeking a Software Engineer with 4+ years in Test with expertise in Python (or similar) to join our dynamic and innovative team.  As a key member of the Quality Engineering department, you will be responsible for ensuring the quality and reliability of our software products through the design, implementation, and execution of automated test suites and supporting test infrastructure and libraries. You will collaborate closely with developers, product managers, SRE, infrastructure, and delivery engineers to drive the development of scalable and robust software testing solutions.
+  
+  
+**Who you are:**
+
+* Bachelor’s or Master’s degree in Computer Science or equivalent experience
+* 4+ years of experience in software testing / quality engineering
+* Strong experience in test automation
+* Python preferred (Java or JavaScript automation experience also acceptable)
+* Hands-on experience with Selenium or similar automation tools
+* Strong understanding of testing principles, methodologies, and QA best practices
+* Experience working with CI/CD pipelines (e.g., Jenkins, GitHub Actions)
+* Experience with version control systems (GitHub)
+* Exposure to tools like Jira, BrowserStack (or similar)
+* Basic understanding or awareness of AI in testing (no deep ML expertise required)
+* Good communication and collaboration skills
+
+**Nice to have:**
+
+* Experience working in product-based companies
+* Exposure to API or performance testing
+* Familiarity with tools like New Relic, LaunchDarkly
+* Understanding of Agile/Scrum methodologies
+
+**What you’ll be doing:**
+
+* Design, develop, and maintain automated test scripts and frameworks (Python preferred)
+* Perform functional testing across UI, API, and data layers
+* Execute automated tests and analyze results to identify defects and areas for improvement
+* Write test plans and test scenarios, and perform manual testing where required
+* Collaborate with cross-functional teams to define test strategies and acceptance criteria
+* Participate in design and coverage reviews to identify gaps and provide feedback
+* Support defect triaging, debugging, and resolution
+* Contribute to continuous improvement of testing processes and automation practices
+* Leverage AI-assisted tools (e.g., Copilot or similar) to improve testing efficiency
+
+**What we have for you:**
+At Seismic, we’re committed to providing benefits and perks for the whole self. To explore our benefits available in each country, please visit the Global Benefits page.
+  
+  
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the application or recruiting process, please click here.
+  
+  
+Seismic is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to gender, age, race, religion, or any other classification which is protected by applicable law.
+  
+  
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+  
+  
+Please be aware we have noticed an increase in hiring scams potentially targeting Seismic candidates. Read our full statement on our Careers page.",Software Development,https://www.linkedin.com/company/seismic,https://media.licdn.com/dms/image/v2/D560BAQFncZnc23HHQg/company-logo_100_100/B56Z85REdwGsAI-/0/1783372204085/seismic_logo?e=2147483647&v=beta&t=Omaw7EbBmGd1mS61QKPSkiFtQHpb07NoC800XA4s3FY,,,,,,,,,,,
+li-4473946023,linkedin,https://www.linkedin.com/jobs/view/4473946023,,"Senior Testing Lead - Automation, Performance, Security & Functional QA",PETADATA,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,pavanm@petadata.ai,"**Position: Senior Testing Lead - Automation, Performance, Security & Functional QA**
+**Location: Hyderabad ( 8 PM to 5 AM IST)**
+**Work Type: Full-Time/Onsite**
+**Experience: 8+ Years**
+**PETADATA is looking for a highly experienced Senior Testing Lead with 8+ years of experience to own the overall quality strategy, build and scale test automation, and lead functional, performance, security, API, and data-validation testing for a data migration platform operating across cloud and on-premise environments.**
+**Roles & Responsibilities**
+**Quality Strategy & Leadership**
+
+* Own and define the overall QA and testing strategy across functional, automation, performance, security, and data-integrity testing.
+* Establish quality gates, release criteria, testing standards, metrics, and reporting.
+* Identify and prioritize testing efforts based on business and technical risk, especially data-correctness risks.
+* Build and manage the quality function with minimal supervision.
+* Mentor developers and QA engineers and promote a quality-first engineering culture.
+* Partner closely with Engineering, DevOps, Architecture, Security, and Implementation teams.
+
+**Test Automation**
+
+* Design and build test automation frameworks from scratch.
+* Develop automated UI, API, integration, and regression testing solutions.
+* Use tools such as Playwright, Cypress, Selenium, and REST/API automation frameworks.
+* Integrate automated testing into CI/CD pipelines.
+* Build scalable regression suites that improve release velocity and confidence.
+* Use programming languages such as Python, JavaScript/TypeScript, or Java for automation.
+
+**Functional & Migration Testing**
+
+* Own end-to-end functional testing across supported CRM platforms and migration scenarios.
+* Test standard and custom objects, relationships, transformations, mappings, and edge cases.
+* Design test scenarios based on real-world customer data migration use cases.
+* Validate migration correctness from source to destination.
+* Test multi-tenant behavior, configuration, and tenant data isolation.
+* Identify defects and ensure issues are properly investigated, resolved, and prevented from recurring.
+
+**Data Validation & Integrity**
+  
+  
+
+* Build automated source-to-target data validation frameworks.
+* Validate:
+
++ Record counts
++ Field-level accuracy
++ Data mappings
++ Relationships and associations
++ Transformations
++ Deduplication
++ Overall data integrity
+
+* Use SQL and programmatic validation techniques to verify migration results.
+* Ensure migrated customer data remains complete, accurate, and consistent.
+
+**Performance Testing**
+
+* Design and execute load, stress, scalability, and performance testing.
+* Test large data volumes and high numbers of concurrent migrations.
+* Establish performance baselines, benchmarks, and SLAs.
+* Identify performance bottlenecks and work with Engineering and Architecture teams to resolve them.
+* Use tools such as k6, JMeter, Gatling, or Locust.
+* Integrate appropriate performance testing into the CI/CD pipeline.
+
+**Security Testing**
+
+* Perform and coordinate security testing across the application and platform.
+* Test tenant isolation and ensure no cross-tenant data access is possible.
+* Validate authentication and authorization controls.
+* Perform input validation and abuse-case testing.
+* Integrate SAST, DAST, and vulnerability scanning into CI/CD.
+* Coordinate penetration testing with internal security teams and external security vendors.
+* Support security and compliance requirements such as SOC 2 and ISO 27001 through appropriate testing evidence.
+
+**Technical Quality & Delivery**
+
+* Ensure software is secure, scalable, reliable, and production-ready.
+* Establish automated quality checks throughout the development lifecycle.
+* Collaborate with developers to identify defects early.
+* Review testing approaches and improve overall engineering quality.
+* Support both cloud and on-premise deployments.
+* Help establish reliable test environments using cloud, containers, and infrastructure automation.
+
+**Note: Should be highly self-directed, comfortable building the QA function from the ground up, and able to work effectively with distributed engineering teams across required time zones.**
+**Note: Should be able to work independently and work in USA time zones**
+**Required Skills**
+
+* 8+ years of professional QA / Test Engineering experience.
+* Strong experience leading QA strategy and quality engineering for software products.
+* Strong hands-on experience building test automation frameworks from scratch.
+* Proficiency with Playwright, Cypress, and/or Selenium.
+* Strong API and REST testing experience.
+* Strong programming experience with Python, JavaScript/TypeScript, or Java.
+* Hands-on experience integrating automated testing into CI/CD pipelines.
+* Experience with functional, integration, regression, and end-to-end testing.
+* Strong experience with performance/load testing using JMeter, k6, Gatling, Locust, or similar tools.
+* Working knowledge of security testing, including OWASP, authentication, authorization, tenant isolation, SAST, DAST, and vulnerability scanning.
+* Strong SQL and data-validation experience.
+* Experience validating source-to-target data integrity across multiple systems.
+* Strong understanding of data migration, ETL, integration, or data-intensive applications.
+* Experience testing multi-tenant SaaS applications.
+* Experience with cloud platforms such as AWS, Azure, or GCP.
+* Experience with on-premise/customer-deployed software is preferred.
+* Experience with Salesforce, HubSpot, Zoho, or similar CRM platforms is a plus.
+* Familiarity with Docker, containers, and IaC is a plus.
+* Exposure to chaos/resilience testing or contract testing is a plus.
+* Experience supporting SOC 2 / ISO 27001 or other compliance audits is preferred.
+* Strong problem-solving, communication, leadership, ownership, and decision-making skills.
+* Ability to independently establish testing processes, frameworks, quality standards, and release criteria.
+
+**Education**
+**Bachelor s degree in Computer Science, Information Technology, Engineering, or a related field is preferred.**
+**Candidates must attend phone/video calls and in-person interviews as required. After selection, candidates will undergo background checks on Education and Experience.**
+**Please email your resume to pavanm@petadata.ai**
+**After carefully reviewing your experience and skills, one of our HR team members will contact you about the next steps.**","Technology, Information and Internet",https://www.linkedin.com/company/petadata,https://media.licdn.com/dms/image/v2/D560BAQFsYGtaiOhCAw/company-logo_100_100/B56ZWMTfFzHQAQ-/0/1741815675083/petadata_logo?e=2147483647&v=beta&t=qMyQmcg0I-6pSPPFhchAtFueGoFtKAv9qkJVUjrndW8,,,,,,,,,,,
+li-4437024311,linkedin,https://www.linkedin.com/jobs/view/4437024311,,Principal Engineer - Test Automation (CDMS),Veeva Systems,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead.
+  
+  
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+  
+  
+Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
+  
+  
+**The Role**
+Do you dream about being part of a team with the talent, passion, and financial backing to build top-notch, industry-changing, cloud-based applications and platforms? At Veeva, we build enterprise cloud technology that powers the biggest names in pharmaceuticals, biotech, consumer goods, chemical & cosmetics industries. Our customers make vaccines, life-saving medicines, and life-enhancing products that make a difference in everyday lives. Our technology has transformed these industries, enabling them to get critical products and services to market faster. Our products empower our customers in the fight against global pandemics like COVID-19.
+  
+  
+**What You'll Do**
+
+* Learn and understand features of Veeva Vault platform and applications
+* Work on CI/CD tools (Git, Jenkins, JIRA) on a daily basis
+* Develop and maintain automation scripts (API and UI)
+* Communicating status and working effectively with onshore/offshore managers
+* Troubleshoot day to day technical issues related to test automation
+* Perform code reviews and be a technical mentor to team members
+* Work with managers to arrive at metrics for measuring the code quality for test automation suite
+* Work closely with scrum masters on sprint plannings and backlog grooming
+* Be a key player for the growth of Veeva Hyderabad by contributing to recruiting initiatives
+
+**Requirements**
+
+* 10+ years of experience in software test automation
+* Strong technical leadership abilities and project management experience
+* Provide a practical approach to complex testing, specifically in the areas of the automation of test cases for the purposes of regression testing
+* Proficient in QA process & methodologies, tools, and different testing approaches
+* Strong experience in Java, Object-Oriented Methodologies
+* Strong experience with automated test frameworks (e.g., Selenium, Cucumber)
+* Strong experience in testing Restful API & HTTP web services, JSON/XML, and Web-based applications
+* Good working knowledge of CI/CD tools (Git, Jenkins, JIRA)
+* Experience in Mobile Testing and Automation – Appium, XCUI, Espresso, KI
+* Experience in Mobile Apps Development (Android/iOS)
+* Experience with data analytics and log analysis tools such as Kibana, Elasticsearch, etc.
+* Able to lead multiple implementations
+* Collaborate to gather automation requirements, design automated tests and implement scalable test automation solutions
+* Design, develop and manage automated testing artifacts
+* Comfortable debugging and working with object-oriented programming
+* Experience with Agile/Scrum development methodologies (preferably in an onshore /offshore model)
+* Experience working for a product-based company
+* Excellent team collaboration and effective communication skills
+* Experience playing a technical mentor role to the team and performing code reviews
+* Experience leading automation projects in a technical role and actively participating in overall program/project management activities
+* Experience with applicable software and programs, including Kotlin, Swift, JAVA, and React
+* Fluency in interfacing and functional testing
+* A natural problem solver and critical thinker
+* Knowledge of modern best practices for software development, including IDE, source control, build processes, release management, and deployment
+* Bachelor’s or Master’s Degree in Computer Engineering, Computer Science, Electrical Engineering, or similar
+
+****Nice to Have****
+
+* Experience with Android and Mac platforms
+
+**Perks & Benefits**
+
+* Health insurance with generous coverage limits
+* Fixed bonus
+* Allowance for wellness & fitness programs
+* Winter break
+
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+  
+  
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.","Software Development, IT Services and IT Consulting, and Pharmaceutical Manufacturing",https://www.linkedin.com/company/veeva-systems,https://media.licdn.com/dms/image/v2/C4E0BAQHW29Wyz9Q11w/company-logo_100_100/company-logo_100_100/0/1631340331617?e=2147483647&v=beta&t=K7R_qLvWu1edjFLP8vp806fVq6d3Tv5aGbhOMZo_qoE,,,,,,,,,,,
+li-4448383238,linkedin,https://www.linkedin.com/jobs/view/4448383238,,Test Automation Engineer,Accenture in India,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**Project Role :**
+Test Automation Engineer
+  
+  
+**Project Role Description :**
+Use quality processes, automation tools, and methodologies to transform testing products and solutions. Run end-to-end quality engineering function with a focus on automation to improve control, accuracy and integrity.
+  
+  
+**Must have skills :**
+Selenium
+  
+  
+**Good to have skills :**
+NA
+  
+  
+**Minimum 3 Year(s) Of Experience Is Required**
+**Educational Qualification :**
+15 years full time education
+  
+  
+Summary:
+  
+  
+As a Test Automation Engineer, a typical day involves applying quality processes and leveraging automation tools and methodologies to enhance testing products and solutions. The role centers on managing the entire quality engineering function with a strong emphasis on automation, aiming to elevate control, accuracy, and integrity throughout the testing lifecycle. This position requires continuous engagement with evolving testing strategies to ensure robust and reliable software delivery.
+  
+  
+Roles & Responsibilities:
+  
+  
+
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with cross-functional teams to identify automation opportunities and optimize testing workflows.
+* Maintain and enhance existing automation frameworks to support evolving project requirements.
+* Assist junior team members by sharing knowledge and providing guidance on automation best practices.
+
+Professional & Technical Skills:
+  
+  
+
+* Must To Have Skills: Proficiency in Selenium.
+* Strong experience in designing, developing, and maintaining automated test scripts.
+* Familiarity with continuous integration and continuous deployment pipelines to support automated testing.
+* Ability to analyze test results and troubleshoot issues effectively.
+* Knowledge of software development lifecycle and quality assurance methodologies.
+* Experience with scripting languages and test management tools to support automation efforts.
+
+Additional Information:
+  
+  
+
+* The candidate should have minimum 3 years of experience in Selenium.
+* This position is based at our Hyderabad office.
+* A 15 years full time education is required.",IT Services and IT Consulting,https://in.linkedin.com/company/accentureindia,https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw,,,,,,,,,,,
+li-4473722407,linkedin,https://www.linkedin.com/jobs/view/4473722407,,AI – Junior/Mid QA Manual + Automation Engineer,Stackular,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**Job Title:**
+AI – Junior/Mid QA Manual + Automation Engineer
+  
+  
+**Experience:**
+3 - 4 Years
+  
+  
+**Location:**
+Raidurg Main Road, Hyderabad.
+  
+  
+**Work Mode:**
+On-site
+  
+  
+**Work Hours:**
+2-11 PM
+  
+  
+**Notice Period:**
+Immediate Joiner (15-30 days)
+  
+  
+**About us:**
+At Stackular, we are more than just a team – we are a product development community driven by a shared vision. Our values shape who we are, what we do, and how we interact with our peers and our customers. We're not just seeking any regular engineer; we want individuals who identify with our core values and are passionate about software development.
+  
+  
+**About The Role**
+We are looking for an experienced an
+**AI – Junior/Mid QA Manual & Automation Engineer**
+with expertise in automation engineering, AI-assisted testing, UX validation, and Agile delivery, who can work independently, take ownership, identify requirement gaps and risks, and collaborate effectively with stakeholders to ensure high-quality software delivery.
+  
+  
+**Key Responsibilities**
+
+* Design and maintain automation frameworks and reusable test scripts.
+* Create test cases, test scenarios, and test plans based on business requirements.
+* Execute manual and automated testing using Playwright (preferred), Selenium, or similar tools.
+* Leverage AI-assisted testing tools for test generation, validation, and defect analysis.
+* Perform functional, regression, integration, API, and end-to-end testing.
+* Conduct UX testing to ensure usability, accessibility, and a seamless user experience.
+* Identify, document, and track defects, ensuring timely resolution.
+* Collaborate with Product, Development, Design, and DevOps teams throughout the SDLC.
+* Integrate automated tests into CI/CD pipelines.
+* Proactively identify requirement gaps, ambiguities, and risks, and work with stakeholders to resolve them.
+
+**Required Qualifications**
+
+* Bachelor's degree in Computer Science, Engineering, or a related field.
+* 3–4 years of experience in QA Automation and Software Testing.
+* Strong experience in manual testing and automation scripting.
+* Hands-on experience with Playwright (preferred), Selenium, or similar frameworks.
+* Proficiency in Python, TypeScript, or C#.
+* Experience with AI-assisted testing tools and techniques.
+* Knowledge of API testing tools such as Postman or Swagger.
+* Familiarity with Git and CI/CD tools such as Jenkins, GitHub Actions, or GitLab.
+* Strong understanding of Agile/Scrum methodologies.
+
+**Preferred Qualifications**
+
+* Experience testing AI-powered applications.
+* Exposure to AWS or Azure.
+* Knowledge of performance testing tools.
+* Experience with Appium or mobile automation testing.
+
+**What We're Looking For**
+
+* Strong ownership and accountability.
+* Ability to work independently in an Agile environment.
+* Attention to detail and a user-focused mindset.
+* Excellent communication and collaboration skills.
+* Passion for automation, quality engineering, and AI-driven testing.",IT Services and IT Consulting,https://www.linkedin.com/company/stackular,https://media.licdn.com/dms/image/v2/D4E0BAQEooMcs3hZ9eQ/company-logo_100_100/company-logo_100_100/0/1681303136927/stackular_logo?e=2147483647&v=beta&t=YX6HVZM0NrrrqjanlEwBRX5hV_slbV5WQoFyx-IapjE,,,,,,,,,,,
+li-4473731826,linkedin,https://www.linkedin.com/jobs/view/4473731826,,Playwright Automation Lead,Capgemini Engineering,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.
+  
+  
+**Your Role**
+
+* Design, develop, and maintain robust test automation frameworks using Playwright (TypeScript/JavaScript), Core Java, and Selenium.
+* Build scalable automation solutions for web applications with a strong focus on quality, reliability, and performance.
+* Create reusable automation components, libraries, and utilities following framework design principles.
+* Develop and execute automated UI, API, and end-to-end test cases.
+* Participate in requirement analysis, test strategy preparation, and automation planning.
+* Integrate automation suites with CI/CD pipelines for continuous testing.
+
+**Your Profile**
+
+* 6+ yrs of IT experience & min of 2 yrs hands-on expertise in Playwright using TypeScript or JavaScript.
+* Strong coding experience in Core Java.
+* Extensive experience in Selenium WebDriver automation.
+* Proven experience in designing and developing automation frameworks from scratch (Hybrid, Page Object Model, Data-Driven, Keyword-Driven, BDD, etc.).
+* Strong understanding of OOP concepts, collections, exception handling, and Java programming standards.
+* Experience with test runners and frameworks such as TestNG, JUnit, Cucumber, or BDD frameworks.
+* Good exposure to API Testing (REST Assured/Postman/Karate is preferred).
+* Experience with source control tools such as Git/GitHub/Bitbucket.
+* Hands-on experience with CI/CD tools such as Jenkins, Azure DevOps, or GitLab CI.
+
+**What will you love working at Capgemini?**
+
+* Opportunity to work on cutting‑edge automation frameworks with modern tools like Playwright, Selenium, and Rest Assured.
+* Exposure to global Agile delivery teams and enterprise‑level automation pipelines.
+* Structured learning programs, certifications, and continuous upskilling opportunities.
+* Collaborative and innovation-led culture focused on engineering excellence and quality‑first delivery.
+
+Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2024 global revenues of €22.1 billion.
+  
+  
+Make it real | www.capgemini.com",Engineering Services,https://fr.linkedin.com/company/capgemini-engineering,https://media.licdn.com/dms/image/v2/D4E0BAQF65j53YY6XWA/company-logo_100_100/B4EZqB8jt5GUAQ-/0/1763116728049/capgemini_engineering_logo?e=2147483647&v=beta&t=mL00_jBY2TJhTyB4Ge-jt1Ln1UO7kKZyip6Ro_t8JiM,,,,,,,,,,,
+li-4473765293,linkedin,https://www.linkedin.com/jobs/view/4473765293,,Advanced Software Engr,Honeywell Technologies,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,mid-senior level,,,,"**Responsibilities**
+**EXPERIENCE PREFERRED:**
+Around 6+ years of V&V experience required as below:
+  
+  
+
+* Essential Competencies:
+
++ Competent in test execution for functional, Integration, and system testing
++ Strong Experience in designing Automation frameworks using Tools like Selenium, Appium, ReadyAPI, Cypress, Playwright, JMeter etc
++ Must have strong expertise in testing web-based, RESTful API calls and mobile (Android & iOS) applications
++ Work closely with agile development team on assigned test projects and help in delivering quality software
++ Contributes ideas on product and process improvements
++ Experience working in agile environment and methods
++ Flexible working on manual testing and automation based on business needs
+
+* Desirable Competencies:
+
++ Experience with test automation frameworks development, and understanding of security testing concepts
++ Familiarity with CI/CD pipelines
++ Interact with different functions like Firmware/Hardware / Software team to resolve system-level issues
++ Interact with local and global teams in resolving the issues.
++ Passionate to work on POCs for technology research efforts that result in prototypes for concept evaluation
+
+Working knowledge on Agile tools
+  
+  
+**About Us**
+Honeywell Technologies is a global, pure-play automation company with a legacy of innovating to help solve the world’s most mission-critical challenges, enhancing the quality of life for people and communities around the world. We serve the building, industrial and process sectors with a broad portfolio of services, solutions and products, underpinned by our Honeywell Technologies Accelerator operating system and Honeywell Technologies Forge intelligence layer. By combining the deep domain expertise of our more than 50,000 employees with decades of data from our global installed base, we are uniquely positioned to lead the industrial sector’s transition from automation to autonomy.",Automation Machinery Manufacturing,https://www.linkedin.com/company/honeywell,https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo,,,,,,,,,,,
+li-4473949836,linkedin,https://www.linkedin.com/jobs/view/4473949836,,"Software Engineer II - Java, Selenium, Cucumber, JMeter, BlazeMeter",JPMorganChase,"Hyderabad, Telangana, India",2026-09-30,fulltime,,,,,,False,not applicable,,,,"**Job Description**
+You're ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.
+  
+  
+As a Software Engineer II at JPMorganChase within Commercial & Investment Bank- Payments Technology team, you are part of an agile team that works to enhance, design, and deliver the software components of the firm's state-of-the-art technology products in a secure, stable, and scalable way.
+  
+  
+**Job Responsibilities**
+
+* Executes standard software solution, design, development, and technical troubleshooting
+* Writes secure and high-quality code using the syntax of at least one programming language with limited guidance
+* Leverages enterprise-authorized AI coding assist tools within the work environment to improve code quality, delivery speed, and productivity (e.g., code generation/refactoring, unit test creation, documentation), while validating outputs through peer review, automated testing, and secure coding standards.
+* Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications
+* Applies knowledge of tools within the Software Development Life Cycle toolchain, including enterprise-authorized AI-assisted development and automation capabilities, to improve the value realized by automation
+* Applies technical troubleshooting to breakdown solutions and solve technical problems of basic complexity
+* Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision-making in service of secure, stable application development
+* Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems
+
+**Required Qualifications, Capabilities, And Skills**
+
+* Formal training or certification on software engineering concepts and 2+ years applied experience
+* Hands-on practical experience in Automation and Performance Testing
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+* Hands-on experience using enterprise-authorized AI-assisted software development tools within the work environment (e.g., for coding, testing, troubleshooting, or documentation) with demonstrated ability to critically evaluate and validate AI-generated outputs.
+* Understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations.
+* Experience across the whole Software Development Life Cycle
+* Exposure to agile methodologies such as CI/CD, Application Resiliency, and Security
+
+**Preferred Qualifications, Capabilities, And Skills**
+
+* Backend developer experience in enterprise application development
+* Strong experience in SDLC delivery in Agile methodologies
+* Experience developing microservices, packaged into AWS Elastic Kubernetes Service and/or Elastic Container Service, and deployed to EC2 instances
+* Experience writing Terraform scripts and deploying in AWS production environment
+* Experience in at least one relational database management system (preferably Oracle or PostgreSQL)
+
+**ABOUT US**",Financial Services,https://www.linkedin.com/company/jpmorganchase,https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI,,,,,,,,,,,
+li-4452728211,linkedin,https://www.linkedin.com/jobs/view/4452728211,,Senior Quality Assurance Engineer 1,ModMed India,"Hyderabad, Telangana, India",2026-09-29,fulltime,,,,,,False,mid-senior level,,,"first.lastname@modmed.com, hrcompliance@modmed.com","**Join the Team Modernizing Medicine**
+At
+**ModMed**
+, we’re not just building software—we’re reimagining the healthcare experience. Founded in 2010 by a practicing physician and a successful tech entrepreneur, we took a radically different approach:
+**we hired doctors and taught them how to code.**
+This ""for doctors, by doctors"" philosophy has allowed us to create an AI-enabled, specialty-specific cloud platform that places patients at the center of care.
+  
+  
+**A Culture of Excellence**
+When You Join ModMed, You’re Joining An Award-winning Team Recognized For Innovation And Employee Satisfaction. From Our Global Headquarters In Boca Raton Florida, And Extensive Employee Base In Hyderabad India, We Are a Team Of 4,500+ Passionate Problem-solvers On a Mission To Increase Medical Practice Success And Improve Patient Outcomes
+  
+  
+
+* **Consistently ranked as a Top Place to Work**
+* **2025 Globee Business Awards:**
+  Gold Globee for “Technology Team of the Year”
+* **2025 Black Book Awards:**
+  Ranked #1 EHR in 11 Specialties
+* **Florida Venture Forum:**
+  Venture-Backed Company of the Year
+
+We are growing fast, thinking big, and we are just getting started.
+  
+  
+**Ready to modernize medicine with us?**
+**Job Description Summary:**
+**Summary**
+Responsible for ensuring the quality of all products developed by Modmed Global Engineering team in terms of performance, security, reliability, scalability, usability and compatibility across various environments and devices.
+  
+  
+**Primary Duties**
+
+* Ensure quality throughout the software development lifecycle, including design, implementation, testing and deployment
+* Conduct regular code reviews to ensure compliance with coding standards and identify any issues or vulnerabilities
+* Perform manual and automated testing on web applications to verify functionality, performance and usability
+* Collaborate with cross-functional teams to address product defects and implement improvements
+* Work closely with developers to provide feedback and recommendations on code quality and best practices
+* Stay up-to-date with industry trends and emerging technologies related to web application development
+* Participate in Agile Scrum ceremonies such as sprint planning, daily stand-ups, retrospectives and sprint demos
+* Help define project scope, schedule and resource requirements
+* Create and maintain documentation related to testing processes and results
+
+**Qualifications**
+
+* Bachelor’s degree in Computer Science, Information Technology or equivalent experience
+* Proven track record of working as a QA engineer in a fast-paced agile environment
+* Strong knowledge of web application development technologies such as HTML5, CSS3, JavaScript and frameworks like React or Angular
+* Experience with continuous integration and continuous deployment (CI/CD) pipelines using tools like Jenkins or Docker
+* Proficiency in version control systems such as Git
+* Excellent communication skills and ability to work collaboratively with cross-functional teams
+* Detail-oriented mindset with a focus on quality assurance principles
+* Familiarity with testing tools such as Selenium or Postman
+* Ability to work independently and take ownership of assigned tasks
+* Knowledge of security best practices and testing methodologies for web applications
+* bold\*ModMed Benefits Highlight: At ModMed, we believe it’s important to offer a competitive benefits package designed to meet the diverse needs of our growing workforce. Eligible Modernizers can enroll in a wide range of benefits:
+* Meals & Snacks: Enjoy complimentary office lunches & dinners on select days and healthy snacks delivered to your desk,
+* Insurance Coverage: Comprehensive health, accidental, and life insurance plans, including coverage for family members, all at no cost to employees,
+* Allowances: Annual wellness allowance to support your well-being and productivity,
+* Earned, casual, and sick leaves to maintain a healthy work-life balance,
+* Bereavement leave for difficult times and extended medical leave options,
+* Paid parental leaves, including maternity, paternity, adoption, surrogacy, and abortion leave,
+* Celebration leave to make your special day even more memorable, and company-paid holidays to recharge and unwind.
+* bold\*PHISHING SCAM WARNING: ModMed is among several companies recently made aware of a phishing scam involving imposters posing as hiring managers recruiting via email, text and social media. The imposters are creating misleading email accounts, conducting remote ""interviews,"" and making fake job offers in order to collect personal and financial information from unsuspecting individuals. Please be aware that no job offers will be made from ModMed without a formal interview process, and valid communications from our hiring team will come from our employees with a ModMed email address (first.lastname@modmed.com). Please check senders’ email addresses carefully. Additionally, ModMed will not ask you to purchase equipment or supplies as part of your onboarding process. If you are receiving communications as described above, please report them to the FTC website.
+* bold\*ModMed Technologies India Private Limited follows a strict, merit-based and transparent recruitment process conducted only through official and authorized channels.
+
+**We do not:**
+
+* Charge any fees, processing charges, or amount by any nomenclature, whether as a fee or deposit at any stage of the recruitment process;
+* Authorise any individual, employee, or third party to collect any such payments (regardless of nomenclature) to offer or facilitate or recruitment opportunities; or
+* Conduct hiring via informal messaging apps or personal email IDs.
+
+All official communication is made only through verified channels, our website, and recognised recruitment platforms.
+  
+  
+We strongly advise candidates not to share personal/financial information or make any payments in response to suspicious communications. Any such instances may be reported to us at hrcompliance@modmed.com .
+  
+  
+
+* bold\*ModMed Technologies India Private Limited will not be responsible for any loss arising from fraudulent or unauthorised communications.",Software Development,https://in.linkedin.com/company/modmed-india,https://media.licdn.com/dms/image/v2/D4D0BAQFfzRO-Z3Qymg/company-logo_100_100/B4DaD2jClfKIAM-/0/1790842776095/modmed_india_logo?e=2147483647&v=beta&t=lX4jjpNv0ayB0af9BOitpinJTBkKYbTWDwabP9D8SUg,,,,,,,,,,,

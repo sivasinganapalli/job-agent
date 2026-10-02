@@ -1,0 +1,54 @@
+candidate:
+  name: "Siva"
+
+experience:
+  years: 5
+  maximum_years: 8
+
+roles:
+  - SDET
+  - SDET II
+  - QA Automation Engineer
+  - Automation Test Engineer
+  - Test Automation Engineer
+  - Software Test Engineer
+  - Quality Engineer
+  - QA Engineer
+
+locations:
+  - Hyderabad
+  - Bengaluru
+  - Chennai
+  - Pune
+  - Remote India
+
+high_priority_skills:
+  - Java
+  - Selenium
+  - TestNG
+  - REST Assured
+  - API Testing
+  - Playwright
+  - Python
+  - pytest
+
+additional_skills:
+  - Jenkins
+  - Git
+  - GitHub
+  - Maven
+  - SQL
+  - Docker
+  - Cucumber
+  - BDD
+  - CI/CD
+  - PostgreSQL
+  - MySQL
+
+exclude_keywords:
+  - internship
+  - intern
+  - trainee
+  - manual testing only
+
+preferred_job_age_days: 3
