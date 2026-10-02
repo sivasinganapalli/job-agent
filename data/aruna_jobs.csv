@@ -1,0 +1,440 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
+in-ce56c0436c8ac766,indeed,https://in.indeed.com/viewjob?jk=ce56c0436c8ac766,https://careers.hcltech.com/job/Track-Manager-High-Performance-Computing%2C-Red-Hat-Enterprise-Linux/176031-en_US,"Track Manager - High Performance Computing, Red Hat Enterprise Linux",HCLTech,"TS, IN",2026-01-10,,,,,,,False,,,,,"Track Manager - High Performance Computing, Red Hat Enterprise Linux
+
+Hyderabad, Telangana
+
+**Job Summary**
+---------------
+
+This role oversees end-to-end operations for complex, large-scale high-performance computing environments, ensuring robust service delivery, process innovation, and continuous improvement. The position drives operational excellence, empowers technical teams, and ensures alignment with client service levels by leveraging advanced expertise in NetApp storage, RedHat Linux, and HPC platforms.
+
+**Key Responsibilities**
+------------------------
+
+1. Lead operational management of HPC environments utilizing NetApp storage systems and RedHat Linux, ensuring high availability, performance, and data integrity across critical workloads.
+  
+2. Architect and implement advanced storage solutions using NetApp ONTAP, integrating with RedHat Linux and Azure Cloud to support evolving business and client requirements.
+  
+3. Oversee deployment, configuration, and optimization of Load Sharing Facility (LSF) for seamless scheduling and resource allocation, maximizing computational efficiency.
+  
+4. Drive continuous improvement initiatives by analyzing operational workflows and leveraging automation tools within NetApp, RedHat Linux, and Azure Cloud platforms.
+  
+5. Mentor and guide support teams in troubleshooting complex issues related to storage, compute, and HPC operations, fostering technical growth and knowledge sharing.
+  
+6. Ensure adherence to client SLAs by proactively monitoring system health, conducting root cause analysis, and implementing preventive measures across NetApp and Linux environments.
+  
+7. Collaborate within the team to introduce innovative solutions, streamline support processes, and enhance overall organizational performance in HPC operations.
+  
+8. Champion best practices for security, compliance, and backup strategies in line with industry standards for NetApp storage and RedHat Linux deployments.
+
+**Skill Requirements**
+----------------------
+
+1. Excellent Knowledge Of Redhat Linux Systems, Advanced Troubleshooting, Security Hardening, And Automation (Ansible/Shell Scripting).
+  
+2. Expert Experience With Hpc Environments, Including Load Sharing Facility (Lsf) For Job Scheduling And Resource Management.
+  
+3. Solid Understanding Of Azure Cloud Integration With Storage And Compute Resources In Hybrid Hpc Setups.
+  
+4. Excellent Ability To Lead, Mentor, And Empower Technical Teams In HighPressure Operational Settings.
+  
+5. Advanced Proficiency In Process Improvement, Incident Management, And Implementing Operational Best Practices.
+
+**Other Requirements**
+----------------------
+
+1. NetApp Certified Implementation Engineer (NCIE) Ã¯Â¿Â½ optional but highly valuable.
+  
+2. Red Hat Certified Engineer (RHCE) Ã¯Â¿Â½ optional but highly valuable.
+  
+3. Microsoft Certified: Azure Administrator Associate Ã¯Â¿Â½ optional but recommended",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=ce56c0436c8ac766,64,,"Linux, Red Hat Enterprise Linux, Red Hat, Shell Scripting, Shell, Ansible, Root Cause Analysis, Incident Management","OCI, Backup, SLA, Incident Management, High Availability",,"ansible, shell scripting, shell, automation",storage,oci,0,True,False
+in-758459d1896427e5,indeed,https://in.indeed.com/viewjob?jk=758459d1896427e5,https://careers.hcltech.com/job/Sr-Administrator-%28Support-&-Operations%29/175864-en_US,Sr Administrator (Support & Operations),HCLTech,"TS, IN",2026-01-10,fulltime,,,,,,False,,,,,"Sr Administrator (Support & Operations)
+
+Hyderabad, Telangana
+
+**Job Summary**
+---------------
+
+Job Description – Linux Administrator
+
+**Key Responsibilities**
+------------------------
+
+Key Responsibilities: Target Cloud Provisioning: Deploy and configure target cloud infrastructure (Azure Virtual Machines, GCP Compute Engine, Virtual Networks, and Managed Disks) to receive migrating Linux workloads. Migration Execution: Install, configure, and troubleshoot replication mobility agents on source Linux servers using tools like Azure Migrate, ASR, or GCP Migrate for Compute. Pre-Migration OS Preparation: Audit and prepare source Linux operating systems (e.g., verifying LVM layouts, validating GRUB boot configurations, checking disk space, and ensuring compatible kernel versions). Post-Migration OS Remediation: Execute critical post-cutover tasks, including uninstalling legacy on-premises hypervisor tools (VMware Tools), updating network interface cards (NICs), rebuilding initramfs, and configuring cloud-native VM agents. L2 Incident Troubleshooting: Diagnose and resolve post-migration Linux boot failures, network configuration anomalies, and disk mounting (FSTAB) issues. Storage & Volume Management: Administer Logical Volume Manager (LVM), partitioning, and mounting of NFS/CIFS network file systems post-migration. Patching & Upgrades: Apply routine OS patching, security updates, and packages during migration prep windows utilizing Red Hat Satellite or SUSE Manager.
+
+**Skill Requirements**
+----------------------
+
+4+ years of dedicated experience in enterprise Linux Administration (RHEL and SUSE). 2+ years of hands-on experience deploying and administering Linux instances inside Microsoft Azure or GCP. Proven hands-on experience executing server migrations using Azure Migrate, Azure Site Recovery (ASR), or similar replication tools. Strong working knowledge of Linux Volume Management (LVM), GRUB/GRUB2 bootloaders, and system initialization (systemd/SysVinit). Proficiency in writing and debugging Bash scripts to automate repetitive post-migration cleanup and validation tasks. Solid understanding of standard networking concepts (TCP/IP routing, DNS configuration, and SSH key management). Non-Technical Technical Runbook Discipline: Exceptional attention to detail when executing step-by-step technical migration runbooks during strict maintenance windows. ITSM & ServiceNow Operations: Practical experience adhering to Change, Incident, and Problem Management workflows in ServiceNow. Support & Collaboration: Strong team player who coordinates effectively with Storage, Network, and Database teams during complex application migration cutovers. Documentation: Ability to draft clear, technical standard operating procedures (SOPs) and post-migration validation checks.
+
+**Other Requirements**
+----------------------
+
+Good to Have Skills: Basic understanding of Infrastructure as Code (IaC) tools like Terraform or Ansible. Familiarity with containerized environments (Docker/Podman) running on Linux. Experience with multi-pathing configurations and SAN/NAS storage attachments. Soft Skills: Structured Problem Solving: Methodical, logical approach to diagnosing kernel crashes, network interface drops, or disk-mount errors. Adaptability: Resilience and flexibility to support weekend or off-hour migration cutover bridges. Clear Communication: Ability to communicate technical roadblocks and resolution statuses clearly to the Migration Lead. Certifications: RHCSA (Red Hat Certified System Administrator) or SUSE Certified Administrator, AZ-104 OR GCP Associate Cloud Engineer, ITIL v4 Foundation. Overview Role – Linux Administrator L2 Experience Level – 4-8 years Job Location – Bengaluru / Hyderabad Job Type – Full-Time Support type - 24x7 Operational Support & Project Engagements",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=758459d1896427e5,60,,"Linux, Linux Administration, RHEL, Red Hat, OS Patching, Red Hat Satellite, LVM, Logical Volume Manager, NFS, CIFS, Bash, Ansible","VMware, OCI, GCP, TCP/IP, TCP IP, DNS, SSH, Networking, NFS, DNS, Tar, Recovery, ServiceNow, ITIL, Server Migration","patching, os patching, red hat satellite","ansible, bash","lvm, logical volume manager, file system, nfs, cifs, storage","oci, gcp, vmware",1,True,False
+in-46442e95f0e60450,indeed,https://in.indeed.com/viewjob?jk=46442e95f0e60450,https://qualys.wd5.myworkdayjobs.com/en-US/Careers/job/Pune/System-Administrator_R0005149,System Administrator,Qualys,"MH, IN",2026-10-01,fulltime,,,,,,False,,,,,"Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+
+**Job Description**  
+Manage, secure, and optimize the organization's on-premises and cloud server infrastructure, including Nutanix AHV, Windows and Linux servers, Active Directory, Veeam backup, infrastructure monitoring, and Microsoft Azure. The role focuses on reliable day-to-day operations, backup and disaster recovery readiness, security hardening, and automation of routine tasks using PowerShell or Python in an ITIL-driven environment.
+
+**Responsibilities**
+
+* Administer Nutanix AHV clusters, including VM provisioning, patching, capacity planning, and cluster health.
+* Manage Windows Server (2016/2019/2022) and Active Directory, including server builds, patching, GPOs, DNS/DHCP, and replication health.
+* Install, configure, and troubleshoot Linux servers running RHEL, CentOS, or Ubuntu.
+* Own Veeam backup and restore operations, including job configuration, restore testing, retention, and DR readiness.
+* Manage Azure infrastructure, including VMs, storage, networking, backup, and cost governance, and support a small Azure Virtual Desktop (AVD) footprint.
+* Maintain infrastructure monitoring in PRTG, including sensors, thresholds, alerting, and dashboards.
+* Automate provisioning, patching, and reporting using PowerShell or Python.
+* Manage incidents, requests, changes, and problems in line with ITIL practices and agreed SLAs, and maintain runbooks and documentation.
+* Participate in maintenance windows, upgrades, and the on-call rotation.
+* Support security hardening and vulnerability remediation across server and cloud infrastructure.
+
+**Required Qualifications**
+
+* 3–6 years of hands-on experience in server and cloud infrastructure administration.
+* Production experience with Nutanix AHV.
+* Strong Windows Server and Active Directory administration skills.
+* Working knowledge of Linux server administration.
+* Hands-on experience with Veeam Backup & Replication, including restores and DR drills.
+* Monitoring experience with PRTG or an equivalent tool.
+* Demonstrated experience managing Azure infrastructure, including compute, storage, networking, and backup.
+* Scripting skills in PowerShell or Python.
+* ITIL certification and experience working in an ITIL-aligned environment.
+
+**Preferred Qualifications**
+
+* Exposure to Azure Virtual Desktop (AVD) or Citrix.
+* Exposure to VMware, OCI, or cloud migration projects.
+* Experience with FreshService or similar ITSM platforms.
+* Certifications such as Microsoft Azure Administrator (AZ-104), Nutanix Certified Professional (NCP), Red Hat Certified System Administrator (RHCSA), or Veeam Certified Engineer (VMCE).
+
+**Educational Qualification:** BE/B.Tech/BCA/MCA, preferably in Computer Science, Information Technology, or a related field, or equivalent experience.",,https://in.indeed.com/cmp/Qualys,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/822276fa8b6c06360b69727f8cef101a,http://www.qualys.com,"Foster City, CA","1,001 to 5,000",$100M to $500M (USD),Qualys helps organizations streamline and consolidate their security and compliance solutions in a single platform and build security.,,,,,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=46442e95f0e60450,58,,"Linux, Linux Server Administration, RHEL, Red Hat, CentOS, Shell","CentOS, VMware, OCI, DNS, DHCP, Networking, DHCP, DNS, Infrastructure Monitoring, Backup, Recovery, Disaster Recovery, ITIL, SLA",patching,"shell, automation",storage,"oci, vmware",1,False,False
+in-8ceb5fd4ef11e440,indeed,https://in.indeed.com/viewjob?jk=8ceb5fd4ef11e440,https://careers.hcltech.com/job/Sr-Administrator-%28Support-&-Operations%29/175839-en_US,Sr Administrator (Support & Operations),HCLTech,"TS, IN",2026-01-10,fulltime,,,,,,False,,,,,"Sr Administrator (Support & Operations)
+
+Hyderabad, Telangana
+
+**Job Summary**
+---------------
+
+Linux L2 - RHEL, SUSE, CentOS, Hybrid Cloud / Cloud Business Unit Infrastructure, Shell/Bash Scripting, Ansible, VMware, Storage Integration, LVM, Clustering, Network Protocols, Monitoring Tools.
+
+**Key Responsibilities**
+------------------------
+
+Linux HCBU (L3) Key Responsibilities: Linux System Operations & Administration: Perform day-to-day administration, installation, configuration, user access management, patch updates, and system maintenance for RHEL/CentOS/SUSE environments across hybrid cloud environments. Storage & LVM Management: Configure and manage Logical Volume Management (LVM), perform file system expansion, volume creation, disk provisioning, and mount point management attached to SAN/NAS storage. Troubleshooting & Incident Resolution: Perform initial triage, system diagnostics, performance tuning, and resolution for OS-level crashes, kernel panics, CPU/Memory bottlenecks, and high-priority infrastructure tickets. Automation & Scripting: Develop and maintain Shell/Bash scripts and Ansible playbooks to automate routine administrative tasks, patching cycles, user management, and compliance checks. Hybrid Cloud & Infrastructure Integration: Support host connectivity, network configuration (bonding, VLANs, route setup), and baseline integration with Cloud Business Unit (HCBU) virtualized and enterprise compute platforms. System Backup & Recovery: Execute regular baseline system backups, system image restore operations, and participate in Disaster Recovery (DR) drills and failover testing. Compliance & Security Maintenance: Implement Linux security hardening guidelines (CIS benchmarks), access controls (Sudo, SSH keys), patch management, and vulnerability remediation across assigned servers.
+
+**Skill Requirements**
+----------------------
+
+Technical: Linux Administration: 3–5 years of dedicated hands-on experience administering enterprise Linux operating systems (RHEL 7/8/9, CentOS, or SUSE). Logical Volume Manager (LVM) & Filesystems: Core expertise in managing LVM, EXT4/XFS filesystems, disk partition layouts, and storage attachment. Automation & Scripting: Proficiency in writing Shell/Bash scripts and baseline exposure to Ansible for configuration automation. Networking & Protocols: Solid grasp of TCP/IP networking, DNS, DHCP, NFS, CIFS, SSH, FTP, and bonding/teaming configurations. User & Access Management: Strong knowledge of SSH key authentication, sudoers policies, user accounts, and Active Directory / LDAP integration. Non-Technical Strong analytical problem-solving skills for complex system diagnostics and OS performance issues. Effective operational communication skills for working with cross-functional IT and infrastructure teams. Proven ability to manage L2 incident tickets independently within defined SLA boundaries. Good to Have Skills: Basic experience managing virtualized compute environments on VMware vSphere or KVM. Exposure to cloud infrastructure platforms (AWS, Azure, or private cloud environments). Understanding of container technology fundamentals (Docker/Podman). Soft Skills: Clear written and verbal communication for logging ticket notes, root cause analysis (RCA), and operational handovers. High adaptability and responsiveness under incident triage or emergency maintenance windows. Strong team-player attitude with focus on standard operating procedures (SOPs).
+
+**Other Requirements**
+----------------------
+
+Certifications: Red Hat Certified System Administrator (RHCSA) (Highly Preferred) , Red Hat Certified Engineer (RHCE) or AWS/Azure Fundamentals (Good to have), ITIL v3/v4 Foundation (Preferred) Overview Role – Linux HCBU L2 Experience Level – 3-5 years Job Location – Bengaluru / Hyderabad Job Type – Full-Time Support type - 24x7 Operational Support & Project Engagements",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=8ceb5fd4ef11e440,58,,"Linux, Linux Administration, RHEL, Red Hat, CentOS, LVM, Logical Volume Manager, NFS, CIFS, Bash, Shell, Ansible, Root Cause Analysis, RCA","RHEL 7, CentOS, VMware, VMware vSphere, vSphere, AWS, TCP/IP, TCP IP, DNS, DHCP, SSH, Networking, FTP, NFS, DHCP, DNS, iLO, Backup, Recovery, Disaster Recovery, User Management, ITIL, SLA, Linux Security",patching,"ansible, bash, shell, automation","lvm, logical volume manager, filesystem, file system, nfs, cifs, storage","aws, vmware, vsphere",1,True,False
+in-f1d2ec4e5ae61fe4,indeed,https://in.indeed.com/viewjob?jk=f1d2ec4e5ae61fe4,https://careers.amgen.com/en/job/hyderabad/senior-associate-storage-and-backup-operation-engineer/87/101389913040,Senior Associate Storage & Backup Operation Engineer,Amgen,"TS, IN",2026-10-01,,,,,,,False,,,,,"India - Hyderabad
+
+JOB ID: R-256188 LOCATION: India - Hyderabad WORK LOCATION TYPE: On Site DATE POSTED: Oct. 01, 2026 CATEGORY: Information Systems
+
+**About the role:**
+
+**Role Description:** Amgen is seeking a Senior Associate Storage & Backup operation Engineer who, along with daily systems management tasks, will support Infrastructure Operations, having primary responsibility for activities related to ongoing Enterprise Storage & Backup support, automation, configuration, and operations management. While responsible for ongoing improvement of processes and applying best practices for the environment, the incumbent Sr Associate will work on Storage & Backup related technologies that will be introduced into the Amgen environment containing NetApp, Isilon, Rubrik & Netbackup Technologies.
+
+  
+  
+
+Please note, this is an on-site role based in Hyderabad.
+
+  
+  
+
+**Roles & Responsibilities:**
+
+* Support the Operations lead in the support, delivery, and continuous improvement of the technology services
+* Ensures services are aligned with the key principles of service ownership which includes - meeting the needs of the business, scalability, compliance, reliability, resilience & security
+* Assist Service Owner and Architect in detailed resource planning for vendors and IT teams based on the prioritized project list
+* Perform necessary storage & backup infrastructure maintenance in accordance with Dell, NetApp & Rubrik best practices and Company Change Management policies
+* Contribute to SOP & Runbook Design, Development, and ongoing updates
+* Contribute to ongoing recommendations and best practices in Business Continuity, Migration, High Availability, Backup, Recovery, and Archiving
+* Investigate and resolve storage & backup related technical issues. Participate in rotational 24x7 On-Call Support at the SME level and assist/lead Root Cause Analysis reviews
+* Handling and monitor data replication, using Dell, NetApp & Rubrik replication technologies within strong understanding of RPO/RTO compliance parameters
+* Help build AI-agentic solutions and flows to automate manual storage and backup tasks using skills on Powershell, Python, REST APIs and preferably over ServiceNow workflows
+* Work directly with users to resolve support issues within product team responsibilities
+  
+
+  
+
+**Basic Qualifications:**
+
+* Master’s degree and 3/3+ years of Information Systems ie. Storage, Backup and/or Java Hosting/Web Hosting/Linux administration & one or more of Ansible, Python, Bash scripting or
+* Bachelor’s degree and 5+ years of Information Systems ie. Storage/Backup and/or Java Hosting/Web Hosting/Linux administration & one or more of Ansible, Python, Bash scripting, or
+* Preferred Domain-specific technical Skills & Experience:
+* 5+ years’ experience with NetApp, DellEMC Isilon and DR/BCM replication technologies
+* 3+ years’ experience in on-prem storage, backup and archiving solutions, and off-premise public cloud backup, archiving, and DR solutions (preferably AWS else Azure)
+* 2-3 years’ experience handling backup/data protection technologies, preferably Rubrik and its replication cluster setup
+* Demonstrated hands-on experience with installing and managing NetApp and DELL Isilon with local and remote replication using SyncIQ, Snapmirror & Snapvault
+* Proficiency in Provisioning, Configuring and Administering zero RPO and low RTO for enterprise mission critical applications
+* Good understanding of S3 protocol, buckets, objects, versioning, lifecycle and object-lock/WORM concepts.
+* Basic experience in operating access management, ILM policies, including copy placement, retention, replication, and erasure codes
+* Familiarity with StorageGRID networking: admin/grid/client networks, DNS, load balancers, certificates, firewall ports, and endpoint configurations
+* Ability to troubleshoot with appropriate storage management tools complex database performance and trend analyzing issues
+* Good scripting skills with data-driven problem solving and analytical skills
+  
+
+  
+
+**Professional Certifications (preferred):**
+
+* NCDA (NetApp Certified Data Administrator, ONTAP)
+* Rubrik Certified System Administrator (RCSA)
+  
+
+  
+
+**Preferred Infrastructure Skills and operations experience:**
+
+* Demonstrated experience as part of a high-performance team, skilled in persuasion, and negotiation of critical issues, along with a background of solid systems administration processes and procedures
+* Collaborate with Infrastructure teams and Business Units to build strong solutions that meet the requirements Demonstrated experience with Windows/UNIX/Linux Operating systems
+* ITIL experience and managing regulated systems within Life Sciences sector is a plus
+* Working knowledge of Application Server Clustering and HA configurations
+* Good grasp of TCP/IP networking fundamentals
+  
+
+  
+
+**Soft Skills:**
+
+* Excellent troubleshooting and analytical abilities
+* Strong communication skills, both written and verbal
+* Ability to work in a fast-paced environment
+* Strong organizational and time management skills
+* Problem-solving and critical thinking capabilities
+* Team collaboration and knowledge sharing
+* Adaptability to changing priorities and technologies
+* Ability to follow procedures accurately.
+* Willingness to learn and grow.
+  
+
+  
+
+**Shift Information:**
+
+This position is an on-site role and may require working during later hours to align with business hours. Candidates must be willing and able to work outside of standard hours as required to meet business needs.
+
+  
+  
+
+As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease.
+
+  
+  
+
+**EQUAL OPPORTUNITY STATEMENT**
+
+Amgen is an Equal Opportunity employer and will consider you without regard to your race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+
+  
+  
+
+We will ensure that individuals with disabilities are provided with reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request any accommodation required.",,https://in.indeed.com/cmp/Amgen,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e858654aaf2bd361578aeac82b39bd9b,http://www.amgen.com,"Thousand Oaks, CA","10,000+",more than $10B (USD),"Amgen, a biotechnology pioneer, discovers, develops and delivers innovative human therapeutics.",,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=f1d2ec4e5ae61fe4,51,,"Linux, Linux Administration, Unix, Storage Management, Bash, Shell, Ansible, Root Cause Analysis","AWS, OCI, TCP/IP, TCP IP, DNS, Firewall, Networking, DNS, iLO, Backup, Recovery, ServiceNow, ITIL, Change Management, Infrastructure Operations, High Availability",,"ansible, bash, shell, automation",storage,"aws, oci",1,True,False
+nk-300926503345,naukri,https://www.naukri.com/job-listings-red-hat-linux-administrator-neev-systems-bengaluru-7-to-12-years-300926503345,,Red Hat Linux Administrator,Neev Systems,"Bengaluru, India",2026-09-30,,,,,,,False,,,,,,,https://www.naukri.com/neev-systems-jobs-careers-124682384,https://img.naukimg.com/logo_images/groups/v1/7297911.gif,,,,,,"VMware, Automation, LDAP, Information security, Configuration management, Active directory, DNS, RHCE",7-12 Yrs,3.9,36.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-red-hat-linux-administrator-neev-systems-bengaluru-7-to-12-years-300926503345,51,"Linux Administrator, Red Hat Linux Administrator","Linux, Red Hat",,,,,,0,True,False
+in-2d73912ff1484546,indeed,https://in.indeed.com/viewjob?jk=2d73912ff1484546,https://careers.amgen.com/en/job/hyderabad/senior-associate-is-engineer-storage-and-backup-operations/87/101384853712,Senior Associate IS Engineer – Storage & Backup Operations,Amgen,"TS, IN",2026-10-01,,,,,,,False,,,,,"India - Hyderabad
+
+JOB ID: R-256189 LOCATION: India - Hyderabad WORK LOCATION TYPE: On Site DATE POSTED: Oct. 01, 2026 CATEGORY: Information Systems
+
+**About the role:**
+===================
+
+**Role Description:** Amgen is seeking a Senior Associate Storage & Backup operation Engineer who, along with daily systems management tasks, will support Infrastructure Operations, having primary responsibility for activities related to ongoing Enterprise Storage & Backup support, automation, configuration, and operations management. While responsible for ongoing improvement of processes and applying best practices for the environment, the incumbent Sr Associate will work on Storage & Backup related technologies that will be introduced into the Amgen environment containing NetApp, Isilon, Rubrik & Netbackup Technologies.
+
+Please note, this is an on-site role based in Hyderabad.
+
+**Roles & Responsibilities:**
+=============================
+
+* Support the Operations lead in the support, delivery, and continuous improvement of the technology services
+* Ensures services are aligned with the key principles of service ownership which includes - meeting the needs of the business, scalability, compliance, reliability, resilience & security
+* Assist Service Owner and Architect in detailed resource planning for vendors and IT teams based on the prioritized project list
+* Perform necessary storage & backup infrastructure maintenance in accordance with Dell, NetApp & Rubrik best practices and Company Change Management policies
+* Contribute to SOP & Runbook Design, Development, and ongoing updates
+* Contribute to ongoing recommendations and best practices in Business Continuity, Migration, High Availability, Backup, Recovery, and Archiving
+* Investigate and resolve storage & backup related technical issues. Participate in rotational 24x7 On-Call Support at the SME level and assist/lead Root Cause Analysis reviews
+* Handling and monitor data replication, using Dell, NetApp & Rubrik replication technologies within strong understanding of RPO/RTO compliance parameters
+
+* Help build AI-agentic solutions and flows to automate manual storage and backup tasks using skills on Powershell, Python, REST APIs and preferably over ServiceNow workflows
+
+* Work directly with users to resolve support issues within product team responsibilities
+
+**Basic Qualifications:**
+=========================
+
+* Master’s degree and 3/3+ years of Information Systems ie. Storage, Backup and/or Java Hosting/Web Hosting/Linux administration & one or more of Ansible, Python, Bash scripting or
+* Bachelor’s degree and 5+ years of Information Systems ie. Storage/Backup and/or Java Hosting/Web Hosting/Linux administration & one or more of Ansible, Python, Bash scripting, or
+
+**Preferred Domain-specific technical Skills & Experience:**
+============================================================
+
+* 5+ years’ experience with NetApp, DellEMC Isilon and DR/BCM replication technologies
+* 3+ years’ experience in on-prem storage, backup and archiving solutions, and off-premise public cloud backup, archiving, and DR solutions (preferably AWS else Azure)
+* 2-3 years’ experience handling backup/data protection technologies, preferably Rubrik and its replication cluster setup
+* Demonstrated hands-on experience with installing and managing NetApp and DELL Isilon with local and remote replication using SyncIQ, Snapmirror & Snapvault
+* Proficiency in Provisioning, Configuring and Administering zero RPO and low RTO for enterprise mission critical applications
+* Good understanding of S3 protocol, buckets, objects, versioning, lifecycle and object-lock/WORM concepts.
+* Basic experience in operating access management, ILM policies, including copy placement, retention, replication, and erasure codes
+* Familiarity with StorageGRID networking: admin/grid/client networks, DNS, load balancers, certificates, firewall ports, and endpoint configurations
+* Ability to troubleshoot with appropriate storage management tools complex database performance and trend analyzing issues
+* Good scripting skills with data-driven problem solving and analytical skills
+
+**Professional Certifications (preferred):**
+
+* NCDA (NetApp Certified Data Administrator, ONTAP)
+* Rubrik Certified System Administrator (RCSA)
+
+**Preferred Infrastructure Skills and operations experience:**
+
+* Demonstrated experience as part of a high-performance team, skilled in persuasion, and negotiation of critical issues, along with a background of solid systems administration processes and procedures
+* Collaborate with Infrastructure teams and Business Units to build strong solutions that meet the requirements Demonstrated experience with Windows/UNIX/Linux Operating systems
+* ITIL experience and managing regulated systems within Life Sciences sector is a plus
+* Working knowledge of Application Server Clustering and HA configurations
+* Good grasp of TCP/IP networking fundamentals
+
+**Soft Skills:**
+================
+
+* Excellent troubleshooting and analytical abilities
+
+* Strong communication skills, both written and verbal
+
+* Ability to work in a fast-paced environment
+
+* Strong organizational and time management skills
+
+* Problem-solving and critical thinking capabilities
+
+* Team collaboration and knowledge sharing
+
+* Adaptability to changing priorities and technologies
+
+* Ability to follow procedures accurately.
+* Willingness to learn and grow.
+* undefined**Shift Information:**  
+  This position is an on-site role and may require working during later hours to align with business hours. Candidates must be willing and able to work outside of standard hours as required to meet business needs.As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease.",,https://in.indeed.com/cmp/Amgen,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e858654aaf2bd361578aeac82b39bd9b,http://www.amgen.com,"Thousand Oaks, CA","10,000+",more than $10B (USD),"Amgen, a biotechnology pioneer, discovers, develops and delivers innovative human therapeutics.",,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=2d73912ff1484546,51,,"Linux, Linux Administration, Unix, Storage Management, Bash, Shell, Ansible, Root Cause Analysis","AWS, OCI, TCP/IP, TCP IP, DNS, Firewall, Networking, DNS, iLO, Backup, Recovery, ServiceNow, ITIL, Change Management, Infrastructure Operations, High Availability",,"ansible, bash, shell, automation",storage,"aws, oci",1,True,False
+in-409cfa1d90f912f5,indeed,https://in.indeed.com/viewjob?jk=409cfa1d90f912f5,https://careers.dhl.com/global/en/job/DPDHGLOBALAV381719ENGLOBALEXTERNAL/Senior-Application-Support-Specialist?utm_source=indeed&utm_medium=phenom-feeds&utm_campaign=organic_indeed,Senior Application Support Specialist,DHL,"TN, IN",2026-09-30,,,,,,,False,,,,,"**Your IT Future, Delivered**
+
+**Senior Application Support Specialist (Blue Yonder WMS)**
+
+With a global team of 5600+ IT professionals, DHL IT Services connects people and keeps the global economy running by continuously innovating and creating sustainable digital solutions. We work beyond global borders and push boundaries across all dimensions of logistics. You can leave your mark shaping the technology backbone of the biggest logistics company in the world. Our offices in Cyberjaya, Prague, and Chennai have earned #GreatPlaceToWork certification, reflecting our commitment to exceptional employee experiences.
+
+**Application Support. Simply delivered.**
+
+At DHL IT Services, we are passionate about technology and operational excellence. Our Application Support and Warehouse Management Systems team is continuously expanding. We are seeking a highly skilled **Senior Application Support Specialist (Blue Yonder WMS)** to drive production stability, operational reliability, problem management, and continuous service improvement for mission-critical warehouse management applications supporting global logistics operations. This role combines deep technical expertise, functional understanding, and leadership capabilities to ensure seamless warehouse operations and exceptional customer experiences.
+
+*#DHL #DHLITServices #GreatPlaceToWork #ApplicationSupport #BlueYonder #WarehouseManagement #ProductionSupport #ITOperations*
+
+**Grow together**
+
+As a **Senior Application Support Specialist (Blue Yonder WMS)**, you will be responsible for providing advanced L2/L3 production support for Blue Yonder Warehouse Management Systems and related enterprise applications. You will own incidents, service requests, defects, recurring problems, and service reliability initiatives while ensuring business continuity across critical warehouse operations.
+
+You will collaborate closely with business stakeholders, warehouse operations teams, infrastructure teams, database administrators, development teams, vendors, and integration teams to investigate and resolve complex production issues efficiently while maintaining agreed service levels.
+
+**In this role, you will:**
+
+* Provide end-to-end L2/L3 support for Blue Yonder WMS and integrated warehouse applications.
+
+* Troubleshoot incidents across application, database, middleware, integration, and infrastructure layers.
+* Analyze transaction failures, workflow disruptions, interface issues, batch job failures, and performance bottlenecks.
+* Support Blue Yonder WMS technical components including MOCA, Integrator interfaces, Task Manager jobs, RF transactions, web services, and label-printing integrations.
+* Lead root cause analysis activities and drive permanent corrective actions to eliminate recurring incidents.
+* Develop automation solutions using shell scripting to improve operational efficiency and reduce manual intervention.
+* Perform SQL and PL/SQL-based investigations, validations, reconciliations, and controlled data corrections.
+* Troubleshoot integration issues involving IBM MQ, SFTP, REST APIs, SOAP services, JSON/XML payloads, and message processing workflows.
+* Improve monitoring, observability, alerting, and proactive service management capabilities.
+* Participate in releases, deployments, upgrades, patching activities, disaster recovery exercises, and operational readiness assessments.
+* Coordinate major incident management activities, technical bridges, stakeholder communications, and recovery efforts.
+* Mentor junior engineers and drive knowledge-sharing and operational excellence initiatives.
+
+  
+
+**Ready to embark on the journey? Here's what we are looking for:**
+
+As a **Senior Application Support Specialist (Blue Yonder WMS)**, deep expertise in warehouse management systems, production support, troubleshooting, automation, and service reliability is essential. Strong knowledge of Blue Yonder WMS technologies and enterprise integration landscapes will be a significant advantage.
+
+**Required Qualifications & Experience**
+
+* 5 to 10 years of enterprise application support experience.
+* Minimum 3 years of hands-on production support experience with Blue Yonder (JDA/RedPrairie) WMS.
+* Strong functional knowledge of warehouse management processes including inbound, outbound, inventory, replenishment, wave management, RF operations, picking, packing, shipping, and warehouse integrations.
+* Experience supporting Blue Yonder WMS technical components including MOCA and interface troubleshooting.
+* Strong Unix/Linux administration and troubleshooting skills.
+* Expertise in Shell Scripting (Bash/KornShell) for automation and operational support.
+* Advanced Oracle SQL and PL/SQL knowledge for investigations, validations, troubleshooting, and performance analysis.
+* Experience troubleshooting IBM MQ or equivalent messaging platforms.
+* Hands-on experience supporting SFTP integrations, REST APIs, SOAP services, and batch processing workflows.
+* Proven experience managing critical production incidents and conducting root cause analysis.
+* Strong understanding of ITIL service management practices.
+* Experience with ITSM platforms such as ServiceNow, Jira, or equivalent tools.
+* Ability to independently troubleshoot issues across application, database, integration, and infrastructure domains.
+* Experience supporting Centiro within warehouse management environments is highly desirable.
+
+  
+
+**Monitoring, Reliability & Operational Excellence**
+
+* Experience implementing and improving proactive monitoring and alerting capabilities.
+* Knowledge of observability and monitoring tools such as Zabbix, Grafana, Splunk, or similar platforms.
+* Strong focus on service reliability, operational stability, and preventive maintenance.
+* Experience identifying service improvement opportunities through trend analysis and operational reviews.
+* Ability to establish sustainable support processes and operational controls.
+
+  
+
+**Technical & Automation Skills**
+
+* Strong scripting and automation capabilities using Shell Scripting.
+* Experience creating reusable automation utilities for operational support activities.
+* Strong log analysis, performance troubleshooting, and diagnostic capabilities.
+* Experience designing and implementing operational efficiencies through automation.
+* Understanding of software deployment and release management practices.
+
+  
+
+**Nice to Have**
+
+* Experience with GitLab, Git, JFrog Artifactory, Azure DevOps, or CI/CD platforms.
+* Exposure to Microsoft Azure services.
+* Experience with Python or PowerShell automation.
+* Hands-on experience with Postman and API troubleshooting tools.
+* Knowledge of container technologies such as Docker, Kubernetes, or OpenShift.
+* Experience supporting cloud-hosted enterprise applications.
+* Experience supporting major releases, upgrades, patching activities, and disaster recovery exercises.
+
+  
+
+**Personal Attributes**
+
+* Strong analytical and structured troubleshooting mindset.
+* Ability to remain calm and effective during critical production incidents.
+* Excellent problem-solving and decision-making capabilities.
+* Strong written and verbal communication skills.
+* Ability to engage effectively with technical teams, business stakeholders, warehouse operations teams, and external vendors.
+* Ownership mindset with accountability for end-to-end issue resolution.
+* Strong mentoring and coaching capabilities.
+* Collaborative approach with a focus on continuous improvement and operational excellence.
+* Ability to prioritize effectively in high-pressure production environments.
+* Willingness to work in rotational shifts and participate in an on-call support model.
+
+  
+
+**An array of benefits for you:**
+
+* Hybrid work arrangements to balance in-office collaboration and home flexibility.
+* Medical Insurance: Self + Spouse + 2 children. An option to opt for Voluntary Parental Insurance (Parents / Parent -in-laws) at a nominal premium covering pre existing disease.
+* In House training programs: professional and technical training certifications.",,https://in.indeed.com/cmp/DHL,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/55931c473da59520e25e1b25c7e46be2,https://careers.dhl.com/,,"10,000+",more than $10B (USD),"DHL Group is the global market leader of the international express and logistics industry, specializing in providing innovative and customized solutions from a single source.",,,,,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=409cfa1d90f912f5,50,,"Linux, Linux Administration, Unix, Bash, Shell Scripting, Shell, Performance Troubleshooting, Root Cause Analysis, Incident Management","AWS, FTP, Grafana, Tar, Recovery, Disaster Recovery, Log Analysis, ServiceNow, ITIL, Incident Management, Production Support",patching,"bash, shell scripting, shell, automation",,aws,1,True,False
+nk-300926036093,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-01,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",3-4 Yrs,3.5,52698.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-011026018111,naukri,https://www.naukri.com/job-listings-linux-administrator-cognizant-chennai-5-to-10-years-011026018111,,Linux Administrator,Cognizant,"Chennai, India",2026-10-01,,,,,,,False,,,,,,,https://www.naukri.com/cognizant-jobs-careers-2114,https://img.naukimg.com/logo_images/groups/v1/4156.gif,,,,,,"RHEL Linux, Linux Administration, RHEL, Administration, Linux",5-10 Yrs,3.7,66043.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-cognizant-chennai-5-to-10-years-011026018111,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-300926035816,naukri,https://www.naukri.com/job-listings-linux-administrator-bangalore-infosys-bengaluru-3-to-6-years-300926035816,,Linux Administrator_(Bangalore),Infosys,"Bengaluru, India",2026-09-30,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",3-6 Yrs,3.5,52698.0,5.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-bangalore-infosys-bengaluru-3-to-6-years-300926035816,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-300926014600,naukri,https://www.naukri.com/job-listings-linux-administrator-bangalore-inspirisys-bengaluru-2-to-3-years-300926014600,,Linux Administrator - Bangalore,Inspirisys,"Bengaluru, India",2026-09-30,,direct_data,yearly,425000.0,450000.0,INR,False,,,,,,,https://www.naukri.com/inspirisys-jobs-careers-17,https://img.naukimg.com/logo_images/groups/v1/325440.gif,,,,,,"Linux Administration, Redhat Linux, DR Drill, OS Hardening, Vapt, Linux Troubleshooting, Configuration and Troubleshooting, Drilling",2-3 Yrs,3.6,721.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-bangalore-inspirisys-bengaluru-2-to-3-years-300926014600,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-021026012219,naukri,https://www.naukri.com/job-listings-linux-administrator-4-6-infosys-bengaluru-4-to-6-years-021026012219,,Linux Administrator (4-6),Infosys,"Bengaluru, India",2026-10-02,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administration, Shell Scripting, RHEL, Server Patching, Production Support, VMware, Docker, Ansible",4-6 Yrs,3.5,52698.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-4-6-infosys-bengaluru-4-to-6-years-021026012219,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-300926036095,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-01,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",4-6 Yrs,3.5,52698.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4471738960,linkedin,https://www.linkedin.com/jobs/view/4471738960,,AV Senior Infrastructure Engineer,Barclays,"Pune Division, Maharashtra, India",2026-09-30,,,,,,,False,,,,,,,https://uk.linkedin.com/company/barclays-bank,,,,,,,,,,,,,linkedin,Linux System Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4471738960,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4444876827,linkedin,https://www.linkedin.com/jobs/view/4444876827,,"Engineer II, Cloud Operations",Shure India,"Hyderabad, Telangana, India",2026-09-29,,,,,,,False,,,,,,,https://in.linkedin.com/company/shure-india,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4444876827,45,Cloud Operations,,,,,,,0,True,False

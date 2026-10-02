@@ -1,0 +1,256 @@
+candidate:
+  name: "Aruna"
+
+experience:
+  years: 4
+  minimum_years: 3
+  maximum_years: 6
+
+roles:
+
+  # Primary target roles
+  - Linux Administrator
+  - Linux System Administrator
+  - Linux Support Engineer
+  - Linux Production Support
+  - Linux Operations Engineer
+  - System Administrator Linux
+  - Server Operations Engineer Linux
+  - Infrastructure Engineer Linux
+  - Infrastructure Engineer
+  - Linux Infrastructure Engineer
+
+  # Unix / RHEL focused roles
+  - Unix Administrator
+  - Unix System Administrator
+  - RHEL Administrator
+  - Red Hat Linux Administrator
+  - Red Hat System Administrator
+  - Linux Server Administrator
+  - Linux Systems Engineer
+
+  # Support / operations roles
+  - L2 Support Linux
+  - L2 Linux Support
+  - Linux Technical Support
+  - Linux Operations
+  - Systems Operations Engineer
+  - Systems Engineer Linux
+  - Server Support Engineer
+  - Infrastructure Support Engineer
+
+  # Cloud / infrastructure operations
+  - Cloud Operations Engineer
+  - Cloud Operations
+  - Cloud Infrastructure Engineer
+  - Infrastructure Operations Engineer
+  - IT Infrastructure Engineer
+
+locations:
+  - Hyderabad
+  - Bengaluru
+  - Chennai
+  - Pune
+  - Remote India
+
+high_priority_skills:
+
+  # Linux / Unix
+  - Linux
+  - Linux Administration
+  - Linux System Administration
+  - Linux Server Administration
+  - RHEL
+  - Red Hat Enterprise Linux
+  - Red Hat
+  - Unix
+  - Solaris
+  - Oracle Linux
+  - OEL
+  - CentOS
+
+  # Patching / lifecycle
+  - Server Patching
+  - OS Patching
+  - Linux Patching
+  - Kernel Upgrade
+  - Kernel Patching
+  - Red Hat Satellite
+  - Satellite Server
+  - Red Hat Subscription Manager
+  - RHSM
+  - System Registration
+  - Repository Management
+
+  # Storage / filesystem
+  - LVM
+  - Logical Volume Manager
+  - Filesystem Administration
+  - File System Administration
+  - NFS
+  - CIFS
+  - Storage Management
+  - Disk Management
+  - Inode Management
+
+  # Automation
+  - Bash
+  - Shell Scripting
+  - Shell
+  - Ansible
+  - Linux Automation
+
+  # Troubleshooting
+  - Linux Troubleshooting
+  - System Troubleshooting
+  - Performance Troubleshooting
+  - Root Cause Analysis
+  - RCA
+  - Incident Management
+
+additional_skills:
+
+  # Operating systems
+  - RHEL 6
+  - RHEL 7
+  - RHEL 8
+  - RHEL 9
+  - Oracle Linux
+  - Solaris
+  - CentOS
+
+  # Virtualization / cloud
+  - VMware
+  - VMware vSphere
+  - vSphere
+  - AWS
+  - OCI
+  - Oracle Cloud
+  - GCP
+  - Google Cloud
+
+  # Networking
+  - TCP/IP
+  - TCP IP
+  - DNS
+  - DHCP
+  - HTTPS
+  - SSH
+  - Firewall
+  - Firewalls
+  - Networking
+
+  # Linux services
+  - FTP
+  - Samba
+  - HTTP
+  - NFS
+  - DHCP
+  - DNS
+
+  # Server hardware
+  - HP ProLiant
+  - Dell PowerEdge
+  - HP iLO
+  - iLO
+  - Dell iDRAC
+  - iDRAC
+
+  # Monitoring
+  - Nagios
+  - Grafana
+  - Infrastructure Monitoring
+  - Server Monitoring
+  - System Monitoring
+
+  # Backup / recovery
+  - Rsync
+  - SCP
+  - Tar
+  - Commvault
+  - Backup
+  - Recovery
+  - Disaster Recovery
+
+  # Linux administration
+  - User Administration
+  - User Management
+  - Group Administration
+  - Group Management
+  - File Permissions
+  - Permissions
+  - Package Management
+  - YUM
+  - DNF
+  - Boot Process
+  - System Boot
+  - Process Management
+  - CPU Management
+  - Memory Management
+  - OOM
+  - High CPU
+  - Memory Leak
+  - Log Analysis
+  - System Logs
+  - Application Logs
+
+  # Enterprise / IT operations
+  - ServiceNow
+  - ITIL
+  - SLA
+  - Incident Management
+  - Change Management
+  - P1
+  - P2
+  - L3 Escalation
+  - Production Support
+  - Operations Support
+
+  # Security
+  - Linux Security
+  - SSH Security
+  - Firewall Management
+  - Security Patching
+  - Vulnerability Management
+
+  # Infrastructure
+  - Server Provisioning
+  - Server Configuration
+  - Server Migration
+  - Server Decommissioning
+  - Infrastructure Operations
+  - High Availability
+  - System Performance
+
+  # Education / certification keywords
+  - RHEL Administration
+  - Linux Admin Professional
+
+exclude_keywords:
+  - internship
+  - intern
+  - trainee
+  - fresher
+  - graduate trainee
+  - manual testing
+  - software developer
+  - application developer
+  - frontend developer
+  - backend developer
+  - java developer
+  - python developer
+  - .net developer
+  - full stack developer
+
+preferred_job_age_days: 3
+
+preferred_locations:
+  - Hyderabad
+  - Bengaluru
+  - Chennai
+  - Pune
+  - Remote India
+
+preferred_companies: []
+
+minimum_match_score: 45
