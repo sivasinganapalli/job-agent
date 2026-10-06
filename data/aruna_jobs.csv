@@ -1,11 +1,177 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-nk-300926036095,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-05,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",4-6 Yrs,3.5,52750.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-300926036093,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-05,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",3-4 Yrs,3.5,52750.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-021026012219,naukri,https://www.naukri.com/job-listings-linux-administrator-4-6-infosys-bengaluru-4-to-6-years-021026012219,,Linux Administrator (4-6),Infosys,"Bengaluru, India",2026-10-02,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administration, Shell Scripting, RHEL, Server Patching, Production Support, VMware, Docker, Ansible",4-6 Yrs,3.5,52750.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-4-6-infosys-bengaluru-4-to-6-years-021026012219,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-041026003632,naukri,https://www.naukri.com/job-listings-linux-administrator-cognizant-hyderabad-chennai-bengaluru-6-to-10-years-041026003632,,Linux Administrator,Cognizant,"Hyderabad, Chennai, Bengaluru, India",2026-10-04,,,,,,,False,,,,,,,https://www.naukri.com/cognizant-jobs-careers-2114,https://img.naukimg.com/logo_images/groups/v1/4156.gif,,,,,,"Linux Administration, Terraform, Ansible, AWS, Kubernetes, Linux, Administration",6-10 Yrs,3.7,66097.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-cognizant-hyderabad-chennai-bengaluru-6-to-10-years-041026003632,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-031026002425,naukri,https://www.naukri.com/job-listings-urgent-hiring-for-linux-server-administrator-hyderabad-sb-secure-data-centers-india-hyderabad-2-to-4-years-031026002425,,Urgent Hiring For Linux / Server Administrator | Hyderabad,SB Secure Data Centers India,"Hyderabad, India",2026-10-03,,direct_data,yearly,350000.0,650000.0,INR,False,,,,,,,https://www.naukri.com/sb-secure-data-centers-india-jobs-careers-5323300,https://img.naukimg.com/logo_images/groups/v1/8313745.gif,,,,,,"Linux Administration, Windows Server Administration, Server Administration, Server Support, Virtualization, Ubuntu, Hyper-V, VMware",2-4 Yrs,1.8,13.0,3.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-urgent-hiring-for-linux-server-administrator-hyderabad-sb-secure-data-centers-india-hyderabad-2-to-4-years-031026002425,48,Linux Server Administrator,Linux,,,,,,0,True,False
-li-4474232923,linkedin,https://www.linkedin.com/jobs/view/4474232923,,Senior Cloud & AI Infrastructure Engineer (AWS),Wisemonk,"Hyderabad, Telangana, India",2026-10-05,,,,,,,False,,,,,,,https://in.linkedin.com/company/wisemonk,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4474232923,47,Infrastructure Engineer,,AWS,,,,aws,0,True,False
-li-4474787908,linkedin,https://www.linkedin.com/jobs/view/4474787908,,Senior Infrastructure Engineer,Turvo,"Hyderabad, Telangana, India",2026-10-02,,,,,,,False,,,,,,,https://www.linkedin.com/company/turvoinc,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4474787908,45,Infrastructure Engineer,,,,,,,0,True,False
+in-12f80637d5e2cbb5,indeed,https://in.indeed.com/viewjob?jk=12f80637d5e2cbb5,https://careers.in.colruytgroup.com/jobs/Careers/122109000009320038/Senior-Infrastructure-Engineer?source=CareerSite,Senior Infrastructure Engineer,Colruyt IT Consultancy India,"TS, IN",2026-10-05,fulltime,,,,,,False,,,,,"**Job Information**
+-------------------
+
+* Job Type Permanant (Full Time)
+* Work Experience 10 - 14 years
+* City Hyderabad
+* Country India
+
+**Job Description**
+-------------------
+
+**Senior Infrastructure Engineer**
+
+*Senior / Lead Level | Full-Time | Hyderabad or Coimbatore, India (Hybrid/Onsite as applicable)*
+
+**Role Summary**
+----------------
+
+We are looking for an experienced Senior Infrastructure Engineer with 10–14 years of experience to manage, automate, and secure enterprise infrastructure across hybrid cloud and on-premises environments. The ideal candidate brings deep expertise in Linux/Windows administration, containerization and orchestration, identity & access management, and infrastructure automation, along with a track record of supporting mission-critical industrial and enterprise applications through their full operational lifecycle.
+
+**Key Responsibilities**
+------------------------
+
+* Manage and support enterprise server environments and industrial/application infrastructure, ensuring high availability and performance.
+* Design, build, and maintain Helm charts and containerized workloads; lead Docker/Podman to Kubernetes (K3S) migrations and orchestration.
+* Integrate applications with centralized identity providers (Microsoft Entra ID, AD, LDAP) using Keycloak to deliver SSO and unified authentication.
+* Develop and maintain automation and health-check workflows using Ansible, Python, and Bash to reduce manual operational effort.
+* Own CI/CD pipeline design, deployment automation, and GitLab administration, including troubleshooting runner and build failures.
+* Drive infrastructure and application vulnerability remediation, OS/kernel patching, and security compliance activities.
+* Lead disaster recovery (DR) drills, environment migrations, and release/change deployment activities.
+* Provide L2/L3 incident, problem, and change management support following ITIL-aligned processes.
+* Coordinate with cross-functional infrastructure, application, and vendor teams on server delivery, patching, and network segmentation.
+* Support onboarding of new applications, POCs, and technology evaluations to enhance platform scalability and operational efficiency.
+* Manage SSL certificate lifecycle and monitoring/alerting configuration across the environment.
+
+**Required Skills & Experience**
+--------------------------------
+
+* 10–14 years of experience in Linux, Windows, VMware, Cloud, and Automation technologies.
+* Hands-on expertise in Ansible, Python, Bash/PowerShell scripting, and Git-based CI/CD pipelines.
+* Strong experience with Kubernetes (K3S), Helm, Docker, and Podman in production environments.
+* Working knowledge of AWS, Azure, and/or Oracle Cloud Infrastructure (OCI).
+* Experience with identity and access management platforms: LDAP, FreeIPA, Keycloak, Microsoft Entra ID, and SSO integration.
+* Solid understanding of ITIL-based incident, problem, and change management practices.
+
+**Technical Skills Matrix**
+---------------------------
+
+**Skill Category**
+
+**Representative Tools / Technologies**
+
+DevOps & Automation
+
+Ansible, Python, Bash, PowerShell, Git, CI/CD Pipelines, Helm, Kubernetes (K3S)
+
+Cloud & Virtualization
+
+AWS, Azure, Oracle Cloud (OCI), VMware, Docker, Podman
+
+Operating Systems
+
+Linux (RHEL, Ubuntu, Solaris), Windows Server
+
+Identity & Security
+
+AD, LDAP, FreeIPA, Keycloak, Microsoft Entra ID, SSO Integration, Vulnerability Management
+
+Infrastructure & Monitoring
+
+Server Provisioning, Monitoring & Alerting, Disaster Recovery (DR), Performance Tuning
+
+IT Service Management
+
+Incident Management, Change Management, Problem Management (ITIL)
+
+**Preferred Qualifications**
+----------------------------
+
+* Red Hat Certified System Administrator (RHCSA) and/or Red Hat Certified Engineer (RHCE).
+* Microsoft Certified Solutions Expert (MCSE) or equivalent Microsoft infrastructure certification.
+* Prior experience supporting industrial/IoT or retail-technology assets (e.g., self-driving vehicles, smart checkout systems) is a plus.
+* Experience with orchestration/flow tools beyond Ansible (e.g., custom automation or low-code flow platforms) is a plus.
+
+**Education**
+-------------
+
+* Bachelor’s degree in computer applications, Computer Science, Electronics, or a related field (or equivalent practical experience).
+
+**What Success Looks Like**
+---------------------------
+
+* Reduced manual operational effort through automation of repetitive infrastructure tasks.
+* Stable, secure, and audit-ready infrastructure with proactive vulnerability remediation.
+* Reliable CI/CD pipelines and containerized deployments supporting rapid, low-risk releases.
+* Strong cross-team collaboration enabling smooth onboarding of new applications and platforms.",,https://in.indeed.com/cmp/Colruyt-IT-Consultancy-India,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d91413a6f2719073d253f14371bb1047,https://in.colruytgroup.com/,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=12f80637d5e2cbb5,81,Infrastructure Engineer,"Linux, RHEL, Red Hat, Solaris, Kernel Patching, Bash, Shell Scripting, Shell, Ansible, Incident Management","Solaris, VMware, AWS, OCI, Oracle Cloud, Recovery, Disaster Recovery, ITIL, Incident Management, Change Management, Vulnerability Management, Server Provisioning, High Availability","patching, kernel patching","ansible, bash, shell scripting, shell, automation",,"aws, oci, oracle cloud, vmware",-1,True,False
+in-1145f4a153d0654c,indeed,https://in.indeed.com/viewjob?jk=1145f4a153d0654c,https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J0926-1133&BRID=1338575&sbdid=936,Senior Linux and Zabbix Administrator,CGI,"KA, IN",2026-10-05,fulltime,,,,,,False,,,,,"Job Description – Senior Linux and Zabbix Systems Engineer  
+  
+Experience  
+  
+6 8 years of relevant experience in Zabbix administration and Linux server operations.  
+  
+Roles & Responsibilities:  
+  
+Linux Administration:  
+. Strong hands on experience in RHEL and Ubuntu administration.  
+. L3 level troubleshooting of complex Linux OS, boot, kernel, filesystem, network, and performance issues.  
+. Red Hat Satellite administration, including content lifecycle management, patching, repository management, activation keys, and host management.  
+. Ubuntu server administration, including patching, upgrades, and advanced troubleshooting.  
+. Strong experience with Ansible and infrastructure automation.  
+. Support virtualization and cloud infrastructure, including VMware, KVM, Hyper V, OpenStack, AWS, Azure, and Google Cloud.  
+. Support Linux environments hosted on virtualized and cloud platforms, including exposure to AWS infrastructure automation using Ansible.  
+. Build, configure, administer, and lifecycle manage physical and virtual Linux servers running RHEL 7/8/9 and Ubuntu.  
+. Perform server provisioning, OS installation, configuration, standardization, hardening, patching, upgrades, and ongoing maintenance.  
+. Plan and execute RHEL OS upgrades, including RHEL 7 to RHEL 8/9 where applicable, and troubleshoot issues during and after upgrades.  
+. Build, configure, and maintain Pacemaker/Corosync/PCS high availability clusters, including cluster resources, resource groups, constraints, quorum, fencing/STONITH, and failover policies.  
+. Support clustered environments including SAP HANA on AWS and Pacemaker based HA solutions.  
+. Manage core Linux components including systemd, processes, services, users, groups, permissions, sudo, SSH, cron, filesystems, LVM, RAID, and networking.  
+. Manage enterprise storage, including LVM, multipathing, NFS, SAN, RAID, and filesystem troubleshooting.  
+. Perform advanced troubleshooting and L3 level root cause analysis of Linux OS, boot, kernel, filesystem, network, storage, application, and performance issues.  
+. Analyze system logs and troubleshoot boot failures, kernel issues, critical services, connectivity problems, and resource related incidents.  
+. Perform performance tuning and capacity management for CPU, memory, disk I/O, filesystems, and network resources.  
+. Manage Linux networking, including DNS, routing, bonding, firewall configuration, and connectivity troubleshooting.  
+. Implement and maintain Linux security controls, including SELinux, firewalls, PAM, SSH security, hardening, vulnerability remediation, and compliance requirements.  
+. Administer Red Hat Satellite, including content lifecycle management, repository management, patching, activation keys, and host management.  
+. Perform OS patching and security updates in accordance with organizational standards and vulnerability management requirements.  
+. Automate administrative and infrastructure tasks using Bash/Shell scripting, Python, and Ansible.  
+. Develop and maintain Ansible automation for server provisioning, configuration, patching, and infrastructure management.  
+. Manage production incidents, service requests, problems, and changes within agreed SLAs and 24x7 operational environments.  
+. Perform detailed Root Cause Analysis (RCA) for critical and recurring infrastructure issues and implement corrective/preventive actions.  
+. Coordinate with application, database, storage, network, security, and cloud teams for infrastructure operations and issue resolution.  
+. Create and maintain SOPs, technical documentation, knowledge articles, and operational procedures.  
+. Mentor and provide technical guidance to L1/L2 support teams and contribute to knowledge management and operational improvement.  
+  
+Zabbix Administration:  
+Install, configure, upgrade, and maintain Zabbix Server, Zabbix Agents, and Zabbix Proxies.  
+Configure monitoring for Linux servers, applications, databases, network devices, and other infrastructure components.  
+Create and maintain hosts, host groups, templates, items, triggers, discovery rules, actions, and dashboards.  
+Configure Zabbix agents and agent based monitoring across Linux servers.  
+Develop and customize monitoring templates based on operational requirements.  
+Configure thresholds, triggers, alerts, and notification mechanisms.  
+Troubleshoot Zabbix monitoring failures, false alerts, and agent connectivity issues.  
+Perform Zabbix upgrades, patching, configuration changes, and health checks.  
+Manage Zabbix users, roles, authentication, and access permissions.  
+Configure and troubleshoot Zabbix proxies in distributed monitoring environments.  
+Analyze monitoring trends and identify recurring infrastructure issues.  
+Maintain Zabbix documentation, monitoring standards, and operational procedures.
+
+**Your future duties and responsibilities**
+
+**Required qualifications to be successful in this role**
+
+**Together, as owners, let’s turn meaningful insights into action.**  
+  
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+  
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+  
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+  
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+  
+  
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
+  
+Come join our team—one of the largest IT and business consulting services firms in the world.",,https://in.indeed.com/cmp/CGI,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/51c3df578fe3a264ab17a8b8a6cb5426,https://www.cgi.com,"Montreal, QC","10,000+",more than $10B (USD),"Founded in 1976, CGI is among the largest IT and business consulting services firms in the world.",,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=1145f4a153d0654c,70,,"Linux, Linux Administration, RHEL, Red Hat, OS Patching, Red Hat Satellite, Repository Management, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, System Troubleshooting, Root Cause Analysis, RCA","RHEL 7, RHEL 8, VMware, AWS, Google Cloud, DNS, SSH, Firewall, Firewalls, Networking, NFS, DNS, iLO, Permissions, System Logs, SLA, Linux Security, SSH Security, Vulnerability Management, Server Provisioning, Infrastructure Operations, High Availability","patching, os patching, red hat satellite, repository management","ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage","aws, google cloud, vmware",0,False,False
+nk-200726006075,naukri,https://www.naukri.com/job-listings-senior-linux-administrator-idemia-public-security-mumbai-chennai-4-to-8-years-200726006075,,Senior Linux Administrator,IDEMIA Public Security,"Mumbai, Chennai, India",2026-10-06,,,,,,,False,,,,,,,https://www.naukri.com/idemia-jobs-careers-4132770,https://img.naukimg.com/logo_images/groups/v1/2111392.gif,,,,,,"Linux, Apache, Tomcat Server, SQL, VMware, Redhat Linux, RHEL, Firewall",4-8 Yrs,4.0,302.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-linux-administrator-idemia-public-security-mumbai-chennai-4-to-8-years-200726006075,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-061026011047,naukri,https://www.naukri.com/job-listings-linux-administrator-bangalore-inspirisys-bengaluru-4-to-9-years-061026011047,,Linux Administrator - Bangalore,Inspirisys,"Bengaluru, India",2026-10-06,,direct_data,yearly,1000000.0,1200000.0,INR,False,,,,,,,https://www.naukri.com/inspirisys-jobs-careers-17,https://img.naukimg.com/logo_images/groups/v1/325440.gif,,,,,,"Linux Administration, Redhat Linux, DR Drill, EMC Storage, OS Hardening, Vapt, Linux System Administration, Configuration and Troubleshooting",4-9 Yrs,3.6,721.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-bangalore-inspirisys-bengaluru-4-to-9-years-061026011047,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-041026003632,naukri,https://www.naukri.com/job-listings-linux-administrator-cognizant-hyderabad-chennai-bengaluru-6-to-10-years-041026003632,,Linux Administrator,Cognizant,"Hyderabad, Chennai, Bengaluru, India",2026-10-04,,,,,,,False,,,,,,,https://www.naukri.com/cognizant-jobs-careers-2114,https://img.naukimg.com/logo_images/groups/v1/4156.gif,,,,,,"Linux Administration, Terraform, Ansible, AWS, Kubernetes, Linux, Administration",6-10 Yrs,3.7,66125.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-cognizant-hyderabad-chennai-bengaluru-6-to-10-years-041026003632,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-300926036095,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-05,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",4-6 Yrs,3.5,52768.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-300926036093,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-05,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",3-4 Yrs,3.5,52768.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4475584683,linkedin,https://www.linkedin.com/jobs/view/4475584683,,Systems Operations Engineer,NTT DATA North America,"Hyderabad, Telangana, India",2026-10-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/ntt-data-americas,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4475584683,45,Systems Operations Engineer,,,,,,,0,True,False
 li-4464235035,linkedin,https://www.linkedin.com/jobs/view/4464235035,,Infrastructure Engineer,Relatient,"Pune District, Maharashtra, India",2026-10-03,,,,,,,False,,,,,,,https://www.linkedin.com/company/relatient,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4464235035,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4473484915,linkedin,https://www.linkedin.com/jobs/view/4473484915,,Cloud Operations Professional,Siemens Healthineers,"Bengaluru, Karnataka, India",2026-10-04,,,,,,,False,,,,,,,https://de.linkedin.com/company/siemens-healthineers,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4473484915,45,Cloud Operations,,,,,,,0,True,False
-nk-041026005194,naukri,https://www.naukri.com/job-listings-senior-infrastructure-engineer-walkin-mks-vision-bengaluru-7-to-10-years-041026005194,,Walk-in || Senior Infrastructure Engineer - Walkin,MKS Vision,"Bengaluru, India",2026-10-04,,,,,,,False,,,,,,,https://www.naukri.com/mks-vision-jobs-careers-5306756,https://img.naukimg.com/logo_images/groups/v1/4431740.gif,,,,,,"VMware, Troubleshooting, IT Infrastructure, Active Directory, TCP IP Networking, DNS, Routing, VLAN",7-10 Yrs,2.8,57.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-infrastructure-engineer-walkin-mks-vision-bengaluru-7-to-10-years-041026005194,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4473527722,linkedin,https://www.linkedin.com/jobs/view/4473527722,,Cloud Operations Administrator,Accenture in India,"Bengaluru, Karnataka, India",2026-10-05,,,,,,,False,,,,,,,https://in.linkedin.com/company/accentureindia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4473527722,45,Cloud Operations,,,,,,,0,True,False
+li-4448149018,linkedin,https://www.linkedin.com/jobs/view/4448149018,,Sr. IT Infrastructure Engineer,Dolby Laboratories,"Bengaluru, Karnataka, India",2026-10-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/dolbylaboratories,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4448149018,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
+li-4473484915,linkedin,https://www.linkedin.com/jobs/view/4473484915,,Cloud Operations Professional,Siemens Healthineers,"Bengaluru, Karnataka, India",2026-10-04,,,,,,,False,,,,,,,https://de.linkedin.com/company/siemens-healthineers,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4473484915,45,Cloud Operations,,,,,,,0,True,False
