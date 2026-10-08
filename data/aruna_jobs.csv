@@ -1,5 +1,5 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-in-18d14a82ec41d113,indeed,https://in.indeed.com/viewjob?jk=18d14a82ec41d113,https://careers.nttdata.com/global/en/job/389304,Senior Linux Cloud Infrastructure Engineer,NTT DATA,"TN, IN",2026-09-16,,,,,,,False,,,,,"**Req ID:** 389304
+in-18d14a82ec41d113,indeed,https://in.indeed.com/viewjob?jk=18d14a82ec41d113,https://careers.nttdata.com/global/en/job/389304,Senior Linux Cloud Infrastructure Engineer,NTT DATA,"TN, India",2026-10-06,,,,,,,False,,,,,"**Req ID:** 389304
   
   
 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
@@ -56,8 +56,8 @@ Whenever possible, we hire locally to NTT DATA offices or client sites. This ens
   
   
 NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.",,https://in.indeed.com/cmp/Ntt-Data,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a598a8409d24c2c493ede9bbbe334c46,https://careers.services.global.ntt/global/en,Tokyo,"10,000+",more than $10B (USD),"Own your career with NTT DATA
-Join a global business and technology leader where every voice is heard and great work is recognized. You’ll work with clients, partners and colleagues around the world t",,,,,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=18d14a82ec41d113,95,"Infrastructure Engineer, Cloud Infrastructure Engineer","Linux, RHEL, Red Hat, Unix, Oracle Linux, CentOS, Server Patching, OS Patching, Red Hat Satellite, Shell Scripting, Shell, Ansible, Performance Troubleshooting","Oracle Linux, CentOS, VMware, AWS, OCI, GCP, Google Cloud, HTTPS, Networking, HTTP, iLO, Tar, ITIL, P1, P2, Production Support, High Availability","patching, server patching, os patching, red hat satellite","ansible, shell scripting, shell, automation",,"aws, oci, gcp, google cloud, vmware",1,True,False
-in-12f80637d5e2cbb5,indeed,https://in.indeed.com/viewjob?jk=12f80637d5e2cbb5,https://careers.in.colruytgroup.com/jobs/Careers/122109000009320038/Senior-Infrastructure-Engineer?source=CareerSite,Senior Infrastructure Engineer,Colruyt IT Consultancy India,"TS, IN",2026-10-05,fulltime,,,,,,False,,,,,"**Job Information**
+Join a global business and technology leader where every voice is heard and great work is recognized. You’ll work with clients, partners and colleagues around the world t",,,3.5,4943.0,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=18d14a82ec41d113,95,"Infrastructure Engineer, Cloud Infrastructure Engineer","Linux, RHEL, Red Hat, Unix, Oracle Linux, CentOS, Server Patching, OS Patching, Red Hat Satellite, Shell Scripting, Shell, Ansible, Performance Troubleshooting","Oracle Linux, CentOS, VMware, AWS, OCI, GCP, Google Cloud, HTTPS, Networking, HTTP, iLO, Tar, ITIL, P1, P2, Production Support, High Availability","patching, server patching, os patching, red hat satellite","ansible, shell scripting, shell, automation",,"aws, oci, gcp, google cloud, vmware",1,True,False
+in-12f80637d5e2cbb5,indeed,https://in.indeed.com/viewjob?jk=12f80637d5e2cbb5,https://careers.in.colruytgroup.com/jobs/Careers/122109000009320038/Senior-Infrastructure-Engineer?source=CareerSite,Senior Infrastructure Engineer,Colruyt IT Consultancy India,"TS, India",2026-10-05,fulltime,,,,,,False,,,,,"**Job Information**
 -------------------
 
 * Job Type Permanant (Full Time)
@@ -152,8 +152,8 @@ Incident Management, Change Management, Problem Management (ITIL)
 * Reduced manual operational effort through automation of repetitive infrastructure tasks.
 * Stable, secure, and audit-ready infrastructure with proactive vulnerability remediation.
 * Reliable CI/CD pipelines and containerized deployments supporting rapid, low-risk releases.
-* Strong cross-team collaboration enabling smooth onboarding of new applications and platforms.",,https://in.indeed.com/cmp/Colruyt-IT-Consultancy-India,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d91413a6f2719073d253f14371bb1047,https://in.colruytgroup.com/,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=12f80637d5e2cbb5,81,Infrastructure Engineer,"Linux, RHEL, Red Hat, Solaris, Kernel Patching, Bash, Shell Scripting, Shell, Ansible, Incident Management","Solaris, VMware, AWS, OCI, Oracle Cloud, Recovery, Disaster Recovery, ITIL, Incident Management, Change Management, Vulnerability Management, Server Provisioning, High Availability","patching, kernel patching","ansible, bash, shell scripting, shell, automation",,"aws, oci, oracle cloud, vmware",-1,True,False
-in-1145f4a153d0654c,indeed,https://in.indeed.com/viewjob?jk=1145f4a153d0654c,https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J0926-1133&BRID=1338575&sbdid=936,Senior Linux and Zabbix Administrator,CGI,"KA, IN",2026-10-05,fulltime,,,,,,False,,,,,"Job Description – Senior Linux and Zabbix Systems Engineer  
+* Strong cross-team collaboration enabling smooth onboarding of new applications and platforms.",,https://in.indeed.com/cmp/Colruyt-IT-Consultancy-India,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d91413a6f2719073d253f14371bb1047,https://in.colruytgroup.com/,,,,,,,3.4,5.0,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=12f80637d5e2cbb5,81,Infrastructure Engineer,"Linux, RHEL, Red Hat, Solaris, Kernel Patching, Bash, Shell Scripting, Shell, Ansible, Incident Management","Solaris, VMware, AWS, OCI, Oracle Cloud, Recovery, Disaster Recovery, ITIL, Incident Management, Change Management, Vulnerability Management, Server Provisioning, High Availability","patching, kernel patching","ansible, bash, shell scripting, shell, automation",,"aws, oci, oracle cloud, vmware",-1,True,False
+in-1145f4a153d0654c,indeed,https://in.indeed.com/viewjob?jk=1145f4a153d0654c,https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J0926-1133&BRID=1338575&sbdid=936,Senior Linux and Zabbix Administrator,CGI,"KA, India",2026-10-05,fulltime,,,,,,False,,,,,"Job Description – Senior Linux and Zabbix Systems Engineer  
   
 Experience  
   
@@ -222,8 +222,100 @@ You’ll shape your career by joining a company built to grow and last. You’ll
   
 That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.  
   
-Come join our team—one of the largest IT and business consulting services firms in the world.",,https://in.indeed.com/cmp/CGI,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/51c3df578fe3a264ab17a8b8a6cb5426,https://www.cgi.com,"Montreal, QC","10,000+",more than $10B (USD),"Founded in 1976, CGI is among the largest IT and business consulting services firms in the world.",,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=1145f4a153d0654c,70,,"Linux, Linux Administration, RHEL, Red Hat, OS Patching, Red Hat Satellite, Repository Management, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, System Troubleshooting, Root Cause Analysis, RCA","RHEL 7, RHEL 8, VMware, AWS, Google Cloud, DNS, SSH, Firewall, Firewalls, Networking, NFS, DNS, iLO, Permissions, System Logs, SLA, Linux Security, SSH Security, Vulnerability Management, Server Provisioning, Infrastructure Operations, High Availability","patching, os patching, red hat satellite, repository management","ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage","aws, google cloud, vmware",0,False,False
-in-4984c9c4ae8a38b4,indeed,https://in.indeed.com/viewjob?jk=4984c9c4ae8a38b4,https://jobs.vodafone.com/careers/job/563018698134944?utm_source=indeed&domain=vodafone.com,Linux Infrastructure Administrator - VOIS,Vodafone,"MH, IN",2026-09-30,fulltime,,,,,,False,,,,,"**Who we are**
+Come join our team—one of the largest IT and business consulting services firms in the world.",,https://in.indeed.com/cmp/CGI,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/51c3df578fe3a264ab17a8b8a6cb5426,https://www.cgi.com,"Montreal, QC","10,000+",more than $10B (USD),"Founded in 1976, CGI is among the largest IT and business consulting services firms in the world.",,,3.5,4127.0,,,indeed,Linux System Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=1145f4a153d0654c,70,,"Linux, Linux Administration, RHEL, Red Hat, OS Patching, Red Hat Satellite, Repository Management, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, System Troubleshooting, Root Cause Analysis, RCA","RHEL 7, RHEL 8, VMware, AWS, Google Cloud, DNS, SSH, Firewall, Firewalls, Networking, NFS, DNS, iLO, Permissions, System Logs, SLA, Linux Security, SSH Security, Vulnerability Management, Server Provisioning, Infrastructure Operations, High Availability","patching, os patching, red hat satellite, repository management","ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage","aws, google cloud, vmware",0,False,False
+in-181dfa7580d457ee,indeed,https://in.indeed.com/viewjob?jk=181dfa7580d457ee,https://www.husky.co/en/careers/portal/details/?id=CfDJ8DQZ5pMmkeJEmYs0vj8c27NzavZ2M8dqur7YRcIv4k5RQxo2ZbWc_a9KeTJaSWHQkPCf_QPZ_OorT953DD-qh-gDML-J_9c2NzSCkSR6vG7J0Emix01oeU8MTE_nAmsZEw&title=I.T.+Systems+Administrator-+Husky+(India)+Chennai,I.T. Systems Administrator- Husky (India) Chennai,Husky Injection Molding,"TN, India",2026-10-08,fulltime,,,,,,False,,,,,"At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+
+Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state-of-the-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+
+Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+
+Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+
+**Job Description**
+
+**Position Summary**
+
+The I.T. Systems Administrator is responsible for the support, administration, maintenance, monitoring, troubleshooting, and continuous improvement of business-critical enterprise applications and supporting infrastructure within a complex manufacturing environment.
+
+This position requires an experienced, highly self-motivated IT professional who can work independently while collaborating effectively within a global IT organization. The successful candidate will support a diverse portfolio of ERP, warehouse management, engineering, manufacturing, analytics, and legacy business systems while ensuring their stability, performance, security, and long-term supportability.
+
+Working as part of the Enterprise Applications team, this role collaborates closely with Infrastructure, Network, Development, Data, Project, and Service Desk teams, as well as external software vendors and service providers.
+
+The ideal candidate is a strong technical generalist with expertise across enterprise applications, Microsoft SQL Server technologies, and supporting infrastructure platforms. The ability to independently learn unfamiliar systems and assume operational ownership of business-critical applications is essential.
+
+This position is fully onsite and reports remotely within a global IT organization.
+
+**Key Responsibilities**
+
+* Administer, support, monitor, and troubleshoot business-critical enterprise applications, including ERP, warehouse management, engineering, manufacturing, analytics, and other operational systems.
+* Develop technical expertise and operational ownership of assigned applications and services.
+* Proactively identify technical debt, supportability risks, and opportunities for improvement across enterprise applications and supporting infrastructure.
+* Contribute to projects and continuous improvement initiatives aimed at reducing technical debt, improving system stability, and modernizing legacy technologies.
+* Troubleshoot issues across application, database, operating system, infrastructure, authentication, and integration layers.
+* Administer and support Microsoft SQL Server environments, including clustered installations, Enterprise Data Warehouse (EDW) platforms, and related technologies such as SSIS, SSAS, and SSRS.
+* Collaborate with Development, Data, BI, and DBA teams to identify and resolve database and application performance issues.
+* Administer and support Microsoft Windows Server environments.
+* Support Active Directory administration, authentication services, and Kerberos-related troubleshooting.
+* Support and maintain virtualized environments primarily based on Microsoft Hyper-V.
+* Support Azure-hosted business applications, databases, and analytical solutions.
+* Participate in application and infrastructure deployment projects and ensure operational readiness prior to go-live.
+* Review technical documentation and ensure supported systems remain properly documented and maintainable.
+* Work within established ITIL processes for Incident, Problem, Change, and Service Request Management.
+* Perform Root Cause Analysis (RCA) for recurring and business-critical incidents.
+* Collect and analyze diagnostic information using tools such as PerfMon, Windows Event Viewer, SQL Server tools, Dynatrace, Spotlight, and application logs.
+* Create and maintain technical documentation, operational procedures, incident reports, and Root Cause Analysis documentation.
+* Collaborate with software vendors, service providers, business users, project teams, and global IT teams to resolve complex technical issues.
+* Participate in regular remote meetings and communications using Microsoft Teams, email, and ticket management systems.
+
+**Education**
+
+* Computer Science degree, Information Technology degree, or equivalent combination of education and relevant work experience.
+
+**The following certifications are considered an asset:**
+
+* IT Infrastructure Library (ITIL)
+* Microsoft certifications related to Windows Server, SQL Server, Azure, Infrastructure Administration, or Enterprise Applications
+* Citrix certifications
+
+**Experience & Qualifications**
+
+* 5+ years of experience implementing, supporting, and managing enterprise applications and systems technologies in a complex, global environment.
+* Strong hands-on experience administering Microsoft Windows Server environments.
+* Strong hands-on experience administering Microsoft SQL Server environments.
+* Experience supporting ERP and business-critical enterprise applications.
+* Experience supporting ERP solutions such as Microsoft Dynamics AX.
+* Experience supporting Enterprise Data Warehouse (EDW) environments and Microsoft SQL Server technologies including SSIS, SSAS, and SSRS.
+* Experience troubleshooting SQL Server performance issues and supporting clustered SQL Server environments.
+* Experience administering Microsoft Active Directory and supporting Microsoft Hyper-V environments.
+* Experience working within ITIL-based support processes.
+* Strong analytical, problem-solving, and troubleshooting skills.
+* Ability to independently learn and support unfamiliar business systems and technologies.
+* Ability to work independently with minimal supervision.
+* Experience working with globally distributed teams.
+* Excellent written and verbal communication skills in English.
+* Ability to create technical documentation, operational procedures, incident reports, and Root Cause Analysis documentation.
+
+**Preferred Qualifications**
+
+* Experience supporting manufacturing, engineering, warehouse management, and other business-critical enterprise applications. Experience with Teamcenter, NX, CAD/PDM/PLM platforms, WMS, OFS, TDM, or comparable business systems is considered an asset.
+* Experience with Azure, Citrix, Linux, Docker, or related infrastructure technologies.
+* Experience with Dynatrace monitoring solutions.
+* Experience troubleshooting Kerberos authentication issues.
+* Experience with PowerShell scripting and automation.
+
+**Key Competencies**
+
+* Self-motivated and highly independent.
+* Strong sense of ownership and accountability.
+* Strong analytical and troubleshooting skills.
+* Excellent communication and collaboration abilities.
+* Strong organizational and documentation skills.
+* Continuous learning mindset.
+
+**Success Profile**
+
+The ideal candidate is an experienced IT professional who combines strong enterprise application support, Microsoft SQL Server administration, and infrastructure troubleshooting skills. They are comfortable working in an environment consisting of both legacy and modern systems, can independently acquire expertise in unfamiliar technologies, and take ownership of ensuring the long-term stability, performance, and supportability of business-critical applications.",Industrial Manufacturing,https://in.indeed.com/cmp/Husky-Injection-Molding,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cfe19a3dd23d9d563ed0094526981e5a,http://www.husky.co/EN-US/,"Bolton, Ontario, Canada","1,001 to 5,000",,,,,3.7,126.0,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=181dfa7580d457ee,59,,"Linux, Shell Scripting, Shell, Root Cause Analysis, RCA","Application Logs, ITIL",,"shell scripting, shell, automation",,,1,True,False
+in-4984c9c4ae8a38b4,indeed,https://in.indeed.com/viewjob?jk=4984c9c4ae8a38b4,https://jobs.vodafone.com/careers/job/563018698134944?utm_source=indeed&domain=vodafone.com,Linux Infrastructure Administrator - VOIS,Vodafone,"MH, India",2026-10-06,fulltime,,,,,,False,,,,,"**Who we are**
 --------------
 
 VOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation.
@@ -327,22 +419,49 @@ Apply for Vodafone jobs only through the official Vodafone Careers website to av
 * LinkedIn
 * Facebook
 * Instagram
-* Chat with our employees to learn more about our projects",,https://in.indeed.com/cmp/Vodafone,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6865cd5cf09fa5c02ebe85d532eca8ee,https://careers.vodafone.com/,"Newbury, England","10,000+",more than $10B (USD),"With over 12,000 people supporting over 18million customers, our purpose is to connect for a better future. ",,,,,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=4984c9c4ae8a38b4,50,,"Linux, Linux Administration, RHEL, Oracle Linux, Root Cause Analysis","Oracle Linux, OCI, Tar, Recovery, Disaster Recovery, Change Management, P1, P2",,automation,,oci,0,True,False
+* Chat with our employees to learn more about our projects",,https://in.indeed.com/cmp/Vodafone,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6865cd5cf09fa5c02ebe85d532eca8ee,https://careers.vodafone.com/,"Newbury, England","10,000+",more than $10B (USD),"With over 12,000 people supporting over 18million customers, our purpose is to connect for a better future. ",,,3.8,7385.0,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=4984c9c4ae8a38b4,50,,"Linux, Linux Administration, RHEL, Oracle Linux, Root Cause Analysis","Oracle Linux, OCI, Tar, Recovery, Disaster Recovery, Change Management, P1, P2",,automation,,oci,0,True,False
 li-4475155906,linkedin,https://www.linkedin.com/jobs/view/4475155906,,Linux System Administrator,"iHub-Data, IIIT Hyderabad","Hyderabad, Telangana, India",2026-10-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/ihub-data,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4475155906,48,Linux System Administrator,Linux,,,,,,0,True,False
 li-4474966764,linkedin,https://www.linkedin.com/jobs/view/4474966764,,Linux System Administrator,MSRcosmos LLC,"Hyderabad, Telangana, India",2026-10-06,,,,,,,False,,,,,,,https://www.linkedin.com/company/msrcosmos-llc,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4474966764,48,Linux System Administrator,Linux,,,,,,0,True,False
-nk-051125012008,naukri,https://www.naukri.com/job-listings-linux-system-administrator-food-hub-software-solutions-chennai-3-to-5-years-051125012008,,Linux System Administrator,Food Hub Software Solutions,"Chennai(Manapakkam), India",2026-10-06,,direct_data,yearly,300000.0,550000.0,INR,False,,,,,,,https://www.naukri.com/food-hub-solutions-jobs-careers-2567346,https://img.naukimg.com/logo_images/groups/v1/6756583.gif,,,,,,"Linux, system admin, Ubuntu, Linux Administration, Redhat Linux, RHCT, Linux System Administration, redhat",3-5 Yrs,3.3,92.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-food-hub-software-solutions-chennai-3-to-5-years-051125012008,48,Linux System Administrator,Linux,,,,,,0,True,False
-nk-200726006075,naukri,https://www.naukri.com/job-listings-senior-linux-administrator-idemia-public-security-mumbai-chennai-4-to-8-years-200726006075,,Senior Linux Administrator,IDEMIA Public Security,"Mumbai, Chennai, India",2026-10-06,,,,,,,False,,,,,,,https://www.naukri.com/idemia-jobs-careers-4132770,https://img.naukimg.com/logo_images/groups/v1/2111392.gif,,,,,,"Linux, Apache, Tomcat Server, SQL, VMware, Redhat Linux, RHEL, Firewall",4-8 Yrs,4.0,302.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-linux-administrator-idemia-public-security-mumbai-chennai-4-to-8-years-200726006075,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-300926036095,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-05,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",4-6 Yrs,3.5,52794.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-4-to-6-years-300926036095,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4466811728,linkedin,https://www.linkedin.com/jobs/view/4466811728,,Linux Administrator,Infosys,"Bengaluru East, Karnataka, India",2026-10-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/infosys,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4466811728,48,Linux Administrator,Linux,,,,,,0,True,False
 li-4444483075,linkedin,https://www.linkedin.com/jobs/view/4444483075,,Principal Infrastructure Engineer (Linux Expert),Keyloop,"Hyderabad, Telangana, India",2026-10-06,,,,,,,False,,,,,,,https://uk.linkedin.com/company/keyloop,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4444483075,48,Infrastructure Engineer,Linux,,,,,,0,True,False
-nk-071026924835,naukri,https://www.naukri.com/job-listings-linux-system-administrator-steerlean-pune-5-to-7-years-071026924835,,Linux System Administrator,Steerlean,"Pune, India",2026-10-07,,,,,,,False,,,,,,,https://www.naukri.com/steerlean-jobs-careers-4736970,https://img.naukimg.com/logo_images/groups/v1/3871278.gif,,,,,,"rhel, python, dns, operating systems, networking protocols, electrical engineering, networking, subject matter expert",5-7 Yrs,1.7,4.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-steerlean-pune-5-to-7-years-071026924835,48,Linux System Administrator,Linux,,,,,,0,True,False
-nk-061026011047,naukri,https://www.naukri.com/job-listings-linux-administrator-bangalore-inspirisys-bengaluru-4-to-9-years-061026011047,,Linux Administrator - Bangalore,Inspirisys,"Bengaluru, India",2026-10-06,,direct_data,yearly,1000000.0,1200000.0,INR,False,,,,,,,https://www.naukri.com/inspirisys-jobs-careers-17,https://img.naukimg.com/logo_images/groups/v1/325440.gif,,,,,,"Linux Administration, Redhat Linux, DR Drill, EMC Storage, OS Hardening, Vapt, Linux System Administration, Configuration and Troubleshooting",4-9 Yrs,3.6,721.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-bangalore-inspirisys-bengaluru-4-to-9-years-061026011047,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-300926036093,naukri,https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,,Linux Administrator,Infosys,"Bengaluru, India",2026-10-05,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Linux Administrator, Ubuntu, Storage, Shell Scripting, System Administration, configure, RHEL, CentOS",3-4 Yrs,3.5,52794.0,2.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-infosys-bengaluru-3-to-4-years-300926036093,48,Linux Administrator,Linux,,,,,,0,True,False
-li-4476579614,linkedin,https://www.linkedin.com/jobs/view/4476579614,,Infrastructure Engineer II - Devops,JPMorganChase,"Hyderabad, Telangana, India",2026-10-07,,,,,,,False,,,,,,,https://www.linkedin.com/company/jpmorganchase,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4476579614,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4475584683,linkedin,https://www.linkedin.com/jobs/view/4475584683,,Systems Operations Engineer,NTT DATA North America,"Hyderabad, Telangana, India",2026-10-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/ntt-data-americas,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4475584683,45,Systems Operations Engineer,,,,,,,0,True,False
-li-4474972090,linkedin,https://www.linkedin.com/jobs/view/4474972090,,Cloud & Infrastructure Engineer,LeadingEdge HR Solutions,"Hyderabad, Telangana, India",2026-10-06,,,,,,,False,,,,,,,https://ae.linkedin.com/company/leadingedgeplus,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4474972090,45,Infrastructure Engineer,,,,,,,0,True,False
+nk-071026924835,naukri,https://www.naukri.com/job-listings-linux-system-administrator-steerlean-pune-5-to-7-years-071026924835,,Linux System Administrator,Steerlean,"Pune, India",2026-10-07,,,,,,,False,,,,,,,https://www.naukri.com/steerlean-jobs-careers-4736970,https://img.naukimg.com/logo_images/groups/v1/3871278.gif,,,,,,"rhel, python, dns, operating systems, networking protocols, electrical engineering, networking, subject matter expert",5-7 Yrs,1.7,4.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-steerlean-pune-5-to-7-years-071026924835,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4476934255,linkedin,https://www.linkedin.com/jobs/view/4476934255,,Senior AWS Cloud Infrastructure Engineer (L3),Techwave,"Hyderabad, Telangana, India",2026-10-07,,,,,,,False,,,,,,,https://www.linkedin.com/company/techwave-consulting-inc,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4476934255,47,"Infrastructure Engineer, Cloud Infrastructure Engineer",,AWS,,,,aws,0,True,False
+in-91470ae60f93dd8a,indeed,https://in.indeed.com/viewjob?jk=91470ae60f93dd8a,https://southasiacareers.deloitte.com/job/Bengaluru-Sr_-Analyst-Team-Lead-Hadoop-Bengaluru-Engineering-Data-Modernization-&-Migration/60441944/,Sr. Analyst / Team Lead | Hadoop | Bengaluru | Engineering | Data Modernization & Migration,Deloitte,"KA, India",2026-10-07,,,,,,,False,,,,,"**Sr. Analyst / Team Lead | Hadoop | Bengaluru | Engineering | Data Modernization & Migration**
+  
+• **Job requisition ID** : 114506
+  
+• **Location**: Bengaluru
+  
+• **Entity**: Deloitte Touche Tohmatsu India LLP
+
+### **Cloudera Infrastructure Administrator (2–6 Years)**
+
+**Experience:** 2–6 Years
+
+### **Key Responsibilities**
+
+* Administer and support Cloudera CDP/CDH clusters.
+* Manage Hadoop ecosystem components such as HDFS, YARN, Hive, Impala, Spark, and Kafka.
+* Monitor cluster health, troubleshoot issues, and perform performance tuning.
+* Handle Linux server administration, patching, and capacity management.
+* Implement security using Kerberos, LDAP/AD, and Ranger.
+* Automate routine tasks using Shell/Python scripting.
+* Support incident management, RCA, upgrades, and maintenance activities.
+
+### **Required Skills**
+
+* Education: Any Bachelor's or Master's degree
+* 2–6 years of Cloudera/Hadoop administration experience.
+* Hands-on experience with Cloudera Manager, CDP/CDH.
+* Strong knowledge of Linux (RHEL/CentOS).
+* Experience with HDFS, YARN, Hive, Impala, Spark, Kafka.
+* Knowledge of Kerberos, LDAP, Ranger, and cluster security.
+* Scripting skills in Shell and/or Python.
+* Good troubleshooting and production support experience.
+
+**Nice to Have:** AWS/Azure, Kubernetes, CDE/CDW Ansible, Grafana, Prometheus, DevOps exposure.",,https://in.indeed.com/cmp/Deloitte,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/30cd1378bfa8b1b15fd194651407a294,http://www.deloitte.com,"New York, NY","10,000+",more than $10B (USD),,,,3.9,14351.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=91470ae60f93dd8a,46,,"Linux, Linux Server Administration, RHEL, CentOS, Shell, Ansible, RCA, Incident Management","CentOS, AWS, Grafana, Incident Management, Production Support",patching,"ansible, shell",,aws,1,True,False
 li-4476366552,linkedin,https://www.linkedin.com/jobs/view/4476366552,,Cloud Operations & Security Engineer,Limelight Software,"Pune Division, Maharashtra, India",2026-10-06,,,,,,,False,,,,,,,https://ca.linkedin.com/company/limelightsoftware,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4476366552,45,Cloud Operations,,,,,,,0,True,False
-li-4473484915,linkedin,https://www.linkedin.com/jobs/view/4473484915,,Cloud Operations Professional,Siemens Healthineers,"Bengaluru, Karnataka, India",2026-10-04,,,,,,,False,,,,,,,https://de.linkedin.com/company/siemens-healthineers,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4473484915,45,Cloud Operations,,,,,,,0,True,False
-li-4448149018,linkedin,https://www.linkedin.com/jobs/view/4448149018,,Sr. IT Infrastructure Engineer,Dolby Laboratories,"Bengaluru, Karnataka, India",2026-10-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/dolbylaboratories,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4448149018,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
-li-4474078956,linkedin,https://www.linkedin.com/jobs/view/4474078956,,"SENIOR, SYSTEMS AND INFRASTRUCTURE ENGINEER",Walmart Global Tech India,"Bengaluru, Karnataka, India",2026-10-06,,,,,,,False,,,,,,,https://in.linkedin.com/company/walmartglobaltechindia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4474078956,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4473527722,linkedin,https://www.linkedin.com/jobs/view/4473527722,,Cloud Operations Administrator,Accenture in India,"Bengaluru, Karnataka, India",2026-10-05,,,,,,,False,,,,,,,https://in.linkedin.com/company/accentureindia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4473527722,45,Cloud Operations,,,,,,,0,True,False
+li-4475584683,linkedin,https://www.linkedin.com/jobs/view/4475584683,,Systems Operations Engineer,NTT DATA North America,"Hyderabad, Telangana, India",2026-10-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/ntt-data-americas,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4475584683,45,Systems Operations Engineer,,,,,,,0,True,False
 li-4476580763,linkedin,https://www.linkedin.com/jobs/view/4476580763,,GPU Infrastructure Engineer / HPC Engineer,Larsen & Toubro-Vyoma,"Chennai, Tamil Nadu, India",2026-10-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/larsentoubrovyoma,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4476580763,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4448149018,linkedin,https://www.linkedin.com/jobs/view/4448149018,,Sr. IT Infrastructure Engineer,Dolby Laboratories,"Bengaluru, Karnataka, India",2026-10-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/dolbylaboratories,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4448149018,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
+li-4475757018,linkedin,https://www.linkedin.com/jobs/view/4475757018,,Infrastructure Engineer,Ericsson,"Bengaluru, Karnataka, India",2026-10-08,,,,,,,False,,,,,,,https://se.linkedin.com/company/ericsson,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4475757018,45,Infrastructure Engineer,,,,,,,0,True,False
