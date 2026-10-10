@@ -1,173 +1,189 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-in-18d14a82ec41d113,indeed,https://in.indeed.com/viewjob?jk=18d14a82ec41d113,https://careers.nttdata.com/global/en/job/389304,Senior Linux Cloud Infrastructure Engineer,NTT DATA,"TN, India",2026-10-06,,,,,,,False,,,,,"**Req ID:** 389304
+in-b0551521b8179a77,indeed,https://in.indeed.com/viewjob?jk=b0551521b8179a77,https://lplfinancial.wd1.myworkdayjobs.com/India_Ext/job/Hyderabad/Senior-MW-Messaging-Infrastructure-Engineer---Kafka_R-052091,Professional MW Messaging Infrastructure Engineer - Kafka,LPL Financial,"TS, India",2026-10-09,fulltime,,,,,,False,,,,,"**Where Ambition Meets Innovation**
+
+At LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one noble purpose: empowering financial advisors to deliver personalized advice for all who need it. We’re proud to be expanding and reaching new heights in Hyderabad.
+
+Join us as we create something extraordinary together.
+
+**Job Overview:**
+
+The **Professional Middleware Messaging Infrastructure Engineer** specializing in **Apache Kafka** is responsible for deploying, managing, and scaling Kafka-based event streaming platforms across the enterprise. This role ensures reliable, high-throughput data pipelines and real-time messaging for critical business applications.
+
+**Responsibilities:**
+
+* Install, configure, and manage Apache Kafka clusters including brokers, ZooKeeper/KRaft, and Confluent components
+* Design and implement Kafka topic architecture, partitioning strategies, and replication policies
+* Monitor Kafka health metrics, consumer lag, and throughput using tools such as Prometheus and Grafana
+* Troubleshoot consumer group issues, offset management, and message replay scenarios
+* Implement Kafka security including SSL/TLS, SASL authentication, and ACL management
+* Collaborate with development teams to design Kafka-based event-driven solutions
+* Automate Kafka provisioning, topic management, and configuration using scripts and IaC tools
+* Conduct capacity planning, performance benchmarking, and tuning for Kafka clusters
+
+**What are we looking for?**
+----------------------------
+
+We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates **pursue greatness**, **act with integrity**, and are **driven to help our clients succeed**. We value those who embrace creativity, continuous improvement, and contribute to a culture where we **win together** and **create and share joy** in our work.
+
+**Requirements:**
+
+* 6+ years of middleware experience with 3+ years focused on Apache KafkaDeep expertise in Kafka cluster management, replication, and failover
+* Experience with Kafka Connect for data integration with databases and external systems
+* Familiarity with Kafka Streams or KSQL for real-time data processing
+* Strong Unix/Linux administration skills and Python/Shell scripting
+* Experience with Confluent Platform, AWS MSK, or Azure Event Hubs
+* Understanding of distributed systems concepts and CAP theorem
+* Bachelor's degree in Computer Science, Information Technology, or related field
+* Confluent Certified Administrator or Developer certification preferred
+
+**Preference:**
+
+* Experience with schema management using Avro and Confluent Schema Registry
+* Knowledge of Kubernetes and containerized Kafka deployments
+* Exposure to Apache Flink or Spark Streaming for advanced stream processing
+* EDUCATION & QUALIFICATIONS
+
+LPL Global Business Services, LLP - PRIVACY POLICY",,https://in.indeed.com/cmp/Lpl-Financial,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f91044adb73e66902d9adba08eae69fd,https://www.lpl.com,"San Diego, CA","5,001 to 10,000",$1B to $5B (USD),"LPL Financial is the nation’s largest independent broker-dealer, and is widely known for its financial strength, exceptional service, and favorable industry reputation among financial professionals.",,,3.5,806.0,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=b0551521b8179a77,73,Infrastructure Engineer,"Linux, Linux Administration, Unix, Shell Scripting, Shell","AWS, iLO, Grafana",,"shell scripting, shell",,aws,1,True,False
+nk-091026035722,naukri,https://www.naukri.com/job-listings-linux-administrator-6-years-pune-crescendo-global-leadership-hiring-india-pune-6-to-11-years-091026035722,,Linux Administrator-6+ years-Pune,Crescendo Global Leadership Hiring India,"Pune, India",2026-10-09,,,,,,,False,,,,,,,https://www.naukri.com/crescendo-global-leadership-hiring-india-jobs-careers-2020094,https://img.naukimg.com/logo_images/groups/v1/11637578.gif,,,,,,"VXVM, Linux, Solaris, Ansible, RHEL, Linux Administration, Redhat Linux, Veritas Cluster Server",6-11 Yrs,,,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-6-years-pune-crescendo-global-leadership-hiring-india-pune-6-to-11-years-091026035722,53,Linux Administrator,Linux,,,,,,1,True,False
+in-a86abb6f71ebf60b,indeed,https://in.indeed.com/viewjob?jk=a86abb6f71ebf60b,https://careers.cencora.com/us/en/job/R2616777,Senior Administrator – MuleSoft & Azure API Management,Cencora,"MH, India",2026-10-09,fulltime,,,,,,False,,,,hrsc@cencora.com,"Location: Pune, India
+
+Category: Information Technology
+
+widget: Full time
+
+Posted Date: October 8th 2026
+
+Job ID: R2616777
+
+  
+
+Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!
+
+**Job Details**
+===============
+
+**Role overview**
+
+* Senior Administrator-MuleSoft & Azure API Management role required to work in 24\*5 environment.
+* We are looking for a hands-on Senior Administrator to run and grow our API platforms: MuleSoft Anypoint Platform today and Azure API Management (APIM) as our strategic target.
+* You will administer both platforms, build and fix integrations yourself, and help move APIs from MuleSoft to Azure APIM.
+* The role blends platform administration with development. You need solid Azure, Linux, networking and infrastructure skills to keep the platforms secure, available and compliant in a regulated healthcare environment.
+  
+
+  
+
+**Key responsibilities**
+
+* MuleSoft platform administration
+* Administer the MuleSoft Anypoint Platform: organizations, business groups,
+* environments, users, roles and connected apps.
+* Manage Mule runtimes on CloudHub, Runtime Fabric and customer-hosted servers,
+* including installation, patching and version upgrades.
+* Deploy, scale, monitor and troubleshoot Mule applications, and manage API Manager
+* policies, SLA tiers and client applications.
+* Maintain Anypoint Exchange assets, secure properties, certificates and VPN/VPC connectivity.
+* Azure API Management administration
+* Build, configure and operate Azure APIM instances across dev, test and production,including VNet integration and self-hosted gateways.
+* Manage APIs, products, subscriptions, named values, backends and the developer portal.
+* Write and maintain APIM policies (XML/C#) for authentication, rate limiting, caching, transformation and routing.
+* Integrate APIM with Microsoft Entra ID (OAuth 2.0/OpenID Connect), Key Vault,
+* Application Gateway/Front Door and Azure Monitor.
+* Development and migration
+* Build supporting components in Azure Functions, Logic Apps or Service Bus when needed.
+* Plan and execute the migration of MuleSoft APIs to Azure APIM, including inventory, pattern mapping, testing and cutover.
+* Automate deployments with CI/CD pipelines (Azure DevOps or GitHub Actions) and infrastructure as code (Bicep, ARM or Terraform), including APIOps practices. Infrastructure, operations and security
+* Administer Linux servers that host runtimes, agents and tooling: patching, services, storage, scripting and performance tuning.
+* Troubleshoot network paths end to end: DNS, load balancers, firewalls, NSGs, private endpoints, TLS/mTLS and proxies.
+* Set up monitoring, alerting and logging (Anypoint Monitoring, Azure Monitor,
+* Application Insights, Log Analytics, Splunk or similar).
+* Lead incident and problem management, take part in on-call, and write root-cause analyses.
+* Enforce security and compliance controls: certificate lifecycle, secrets management, access reviews, audit evidence and change management.
+* Plan capacity, high availability and disaster recovery, and track licensing and Azure cost.
+* Write runbooks and standards, and mentor junior administrators and developers.
+  
+
+  
+
+**Required qualifications**
+
+Candidates need at least 6–8 years of hands-on administration and development experience on MuleSoft, Azure API Management, or both with at least 10+ years of IT experience. Strong experience on one platform plus working knowledge of the other is acceptable.
+
   
   
-NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+**Area What we expect**
+
+MuleSoft Hands-on experience with Anypoint Platform: runtime admin (CloudHub, RTF or on-prem), API Manager, Exchange, Mule 4 development, DataWeave, RAML/OAS Azure API Management
+
+Hands-on experience building and running APIM in production: policies,
+
+products, VNet modes, self-hosted gateway, developer portal
+
+Azure Strong working knowledge of Entra ID, Key Vault, VNets, Private Link, App
+
+Gateway/Front Door, Azure Monitor, RBAC; Functions, Logic Apps and
+
+Service Bus a plus Linux Hands-on RHEL/Ubuntu admin: systemd, file systems, permissions, package management, log analysis, Bash scripting Networking
+
+Solid grasp of TCP/IP, DNS, HTTP/S, TLS/mTLS and certificates, load
+
+balancing, firewalls, proxies, NAT and hybrid connectivity (VPN, ExpressRoute)
+
+Infrastructure Understands compute, storage, HA/DR design, containers and Kubernetes (AKS) basics, and capacity planning API security OAuth 2.0, OpenID Connect, JWT validation, API keys, OWASP API Security Top 10
+
+Automation CI/CD with Azure DevOps or GitHub Actions; IaC with Bicep, ARM or Terraform; scripting in PowerShell, Bash or Python Operations ITIL-style incident, problem and change management; on-call experience
+
+with production platforms
+
+The candidate must also be able to explain technical trade-offs clearly to architects, developers, security teams and business partners.
+
   
   
-We are currently seeking a Senior Linux Cloud Infrastructure Engineer to join our team in Chennai, Tamil Nādu (IN-TN), India (IN).
-  
-  
-At NTT DATA, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees are key factors in our company’s growth, market presence, and ability to help our clients stay a step ahead of the competition. By hiring, the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA and for the people who work here.
-  
-  
-**Technical Skills Experience:**  
 
-* Proven experience in Linux/UNIX/AIX troubleshooting with a strong foundation in system administration and performance tuning.
-* Hands-on experience in installing, configuring, and maintaining Linux servers (RHEL, CentOS, Ubuntu, SUSE).
-* Proficiency in High Availability (HA) configuration and management using Pacemaker (PCS CRM) Clusters.
-* Expertise in OS patching using cloud-native tools such as Azure AUM, AWS Patch Manager, and GCP VM Manager.
-* Solid understanding of networking and performance troubleshooting.
-* Working knowledge of VMware in GCVE (Google Cloud VMware Engine).
-* Experience with Red Hat Satellite, SUSE Manager, Oracle Linux Manager, and Oracle Spacewalk.
-* Exposure to containerization and orchestration tools like Docker, Kubernetes, and OpenShift (preferred).
-* Familiarity with automation and scripting tools such as Shell scripting, Ansible, Python, or any cloud-native shell.
-* Strong grasp of ITSM/ITIL processes; certification is an added advantage.
-* Excellent communication, teamwork, and interpersonal skills are essential.
+**Preferred qualifications**
 
-**Key Responsibilities:**  
+Has already led a migration from MuleSoft (or Apigee or another gateway) to Azure APIM.
 
-* Manage and support cloud administration, GCVE infrastructure, OS/server patching, maintenance, and troubleshooting.
-* Work across multiple cloud platforms with a proactive and solution-oriented approach.
-* Participate in on-call rotations and handle P1/P2 incidents and escalations effectively.
-* Develop and maintain knowledge base (KB) articles, problem management documentation, SOPs, and runbooks.
-* Provide mentorship and support to L1 support teams.
-* Deliver timely, high-quality customer service with strong ownership and accountability.
-* Work independently in project environments while collaborating effectively with cross-functional teams.
+Has worked in regulated industries such as healthcare, pharma or finance (HIPAA, SOX, GxP audit evidence).
 
-**Basic Qualifications:**  
+Knows event-driven and messaging patterns: Azure Service Bus, Event Hubs, Kafka or IBM MQ.
 
-* 7+ years of overall operational experience
-* 3+ years of experience working in a diverse cloud support environment in a 24\*7 production support model
+Has used observability tools such as Splunk, Dynatrace or Datadog.
 
-**Preferred Certifications:**  
+Has experience with FinOps and license management for Anypoint and Azure.
 
-* AWS SysOps Administrator/Developer/Solutions Architect Associate Certifications
-* Azure Administrator Associate/Solution Architect Certifications
-* GCP Cloud Engineer
+**Certifications (preferred, not required)**
 
-About NTT DATA
-  
-  
-NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in RD.
-  
-  
-Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
-  
-  
-NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.",,https://in.indeed.com/cmp/Ntt-Data,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a598a8409d24c2c493ede9bbbe334c46,https://careers.services.global.ntt/global/en,Tokyo,"10,000+",more than $10B (USD),"Own your career with NTT DATA
-Join a global business and technology leader where every voice is heard and great work is recognized. You’ll work with clients, partners and colleagues around the world t",,,3.5,4944.0,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=18d14a82ec41d113,95,"Infrastructure Engineer, Cloud Infrastructure Engineer","Linux, RHEL, Red Hat, Unix, Oracle Linux, CentOS, Server Patching, OS Patching, Red Hat Satellite, Shell Scripting, Shell, Ansible, Performance Troubleshooting","Oracle Linux, CentOS, VMware, AWS, OCI, GCP, Google Cloud, HTTPS, Networking, HTTP, iLO, Tar, ITIL, P1, P2, Production Support, High Availability","patching, server patching, os patching, red hat satellite","ansible, shell scripting, shell, automation",,"aws, oci, gcp, google cloud, vmware",1,True,False
-in-4984c9c4ae8a38b4,indeed,https://in.indeed.com/viewjob?jk=4984c9c4ae8a38b4,https://jobs.vodafone.com/careers/job/563018698134944?utm_source=indeed&domain=vodafone.com,Linux Infrastructure Administrator - VOIS,Vodafone,"MH, India",2026-10-06,fulltime,,,,,,False,,,,,"**Who we are**
---------------
+MuleSoft Certified Platform Architect or MuleSoft Certified Developer
 
-VOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation.
+Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-As the largest shared services organisation in the global telco industry with 30,000 FTE, our portfolio of next-generation solutions and services are designed in partnership with customers across Vodafone Group, local markets, and partner markets to simplify and drive growth. With our strategic partner Accenture, we work alongside our Vodafone customers, other Telco and tech companies to drive transformation, meet the challenges of our industry and ensure we stay relevant and resilient. This partnership is a unique, industry-first model which brings together the best of in-house and 3rd party capability.
+.
 
-We work with customers across 28 countries from 10 VOIS locations: Albania, Egypt, Hungary, India, Romania, Spain, Turkey, UK, Germany, Ireland, and with a network of teams in Czech Republic, Italy, Greece, and Portugal.
+Bachelor's degree in information technology, computer science, or a related field required, or equivalent experience required. 4+ years of experience in systems engineering, systems administration, IT infrastructure, or a related field required. Demonstrates advanced capability in a primary technical area (e.g., Windows Server, Linux, VMware) with growing breadth across related domains (e.g., Cloud compute, network infrastructure). Strong structured analysis skills to independently troubleshoot and resolve complex enterprise system outages. Relevant industry certifications (e.g., Microsoft Certified: Windows Server Hybrid Administrator, Red Hat Certified System Administrator (RHCSA), VMware Certified Professional (VCP)) preferred.
 
-#VOIS #BeUnrivalled #CreateTheFuture
+**What Cencora offers**
+=======================
 
-**About this Role**
--------------------
+Benefit offerings outside the US may vary by country and will be aligned to local market practice. The eligibility and effective date may differ for some benefits and for team members covered under collective bargaining agreements.
 
-We are seeking an experienced Linux Infrastructure Administrator to join the DCOPS Linux Operations team in Pune. You will provide advanced technical support across Linux infrastructure, diagnose complex hardware and operating-system issues, and manage incidents, service requests and changes within agreed service-level commitments.
+Full time
 
-As a senior technical authority within the team, you will lead complex troubleshooting, root-cause analysis and permanent remediation. You will also support critical incidents, contribute to infrastructure maintenance and migrations, improve technical standards, and help optimise Linux services through automation and architectural enhancements. The position includes on-call responsibilities as part of a 24x7 support model.
+**Affiliated Companies**
+========================
 
-**What you will do**
---------------------
+Affiliated Companies: CENCORA BUSINESS SERVICES INDIA PRIVATE LIMITED
 
-* Provide technical support for Linux infrastructure and resolve complex hardware and operating-system issues.
-* Administer and troubleshoot RHEL Linux and Oracle Linux environments.
-* Manage server-related incidents, service requests and change requests within defined service-level commitments.
-* Act as a senior technical authority and provide guidance on complex operational issues.
-* Lead advanced troubleshooting, root-cause analysis and the implementation of permanent fixes.
-* Support P1 and P2 incidents, major service outages and performance-related issues.
-* Perform Linux infrastructure maintenance and migration activities.
-* Recommend improvements that enhance platform stability, service performance and operational efficiency.
-* Define and improve technical standards, standard operating procedures and best practices.
-* Mentor L1 and L2 teams and provide technical guidance.
-* Collaborate across products, vendors and geographical locations to develop effective solutions.
-* Contribute to architectural improvements, automation design and optimisation initiatives.
-* Participate in an on-call rota to support 24x7 operations.
+**Equal Employment Opportunity**
+================================
 
-**Who you are**
----------------
+Cencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.
 
-* You have strong knowledge of RHEL Linux and Oracle Linux administration.
-* You have practical experience diagnosing and resolving Linux hardware, operating-system and performance issues.
-* You understand enterprise incident, service-request and change-management processes.
-* You can lead complex troubleshooting and structured root-cause analysis.
-* You have experience supporting business-critical P1 and P2 incidents and major outages.
-* You can develop permanent fixes and recommend improvements to platform stability and performance.
-* You have knowledge of Veritas Cluster Server, DRCC and Microsoft Azure.
-* You can create and improve technical standards, operating procedures and best practices.
-* You can guide and mentor L1 and L2 technical teams.
-* You work effectively with cross-functional teams, vendors and colleagues across different geographical locations.
-* You communicate clearly and apply open-minded, solution-oriented thinking.
-* You are comfortable participating in an on-call rota within a 24x7 operational support environment.
+The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.
 
-**Not a Perfect Fit?**
-----------------------
-
-Concerned you may not meet every requirement? Vodafone is committed to creating an inclusive workplace where everyone can thrive. If you are excited about this role but your experience does not align exactly with every aspect of the job description, you are encouraged to apply. You may be the right candidate for this or another opportunity, and the recruitment team will support you in exploring where your skills fit best.
-
-**What’s in it for you**
-------------------------
-
-* An opportunity to work with enterprise-scale Linux infrastructure in a business-critical data-centre operations environment.
-* Exposure to RHEL Linux, Oracle Linux, Veritas Cluster Server, DRCC and Microsoft Azure.
-* Opportunities to lead complex troubleshooting, critical-incident resolution and root-cause analysis.
-* Scope to influence technical standards, operating procedures, automation and infrastructure optimisation.
-* Experience collaborating with product teams, vendors and colleagues across multiple geographical locations.
-* Opportunities to mentor technical colleagues and develop deeper technical leadership capabilities.
-
-**What skills you will learn**
-------------------------------
-
-* Advanced troubleshooting across enterprise Linux platforms.
-* Structured management of critical incidents, major outages and performance issues.
-* Root-cause analysis and the design of sustainable corrective actions.
-* Linux infrastructure maintenance and migration planning.
-* Automation design and operational optimisation.
-* Development of technical standards, best practices and standard operating procedures.
-* Cross-functional and vendor collaboration in a distributed operational environment.
-* Technical mentoring and knowledge-sharing across L1 and L2 support teams.
-* Broader integration knowledge across Linux, clustering, disaster-recovery and cloud technologies.
-
-**VOIS Equal Opportunity Employer Commitment**
-----------------------------------------------
-
-Vodafone recognises and celebrates the value of diversity in building a workforce that reflects the customers and communities it serves. No form of discrimination is tolerated. This includes, but is not limited to, discrimination based on race, colour, age, veteran status, gender identity, gender expression, sexual orientation, pregnancy, maternity or parental status, ethnicity, disability, religion or belief, political affiliation, trade union membership, nationality, citizenship, indigenous status, medical condition, HIV status, neurodiversity, social origin, cultural background, marital or civil partnership status, or socio-economic background.
-
-**Join Us**
------------
-
-At Vodafone, we’re working hard to build a better future. A more connected, inclusive and sustainable world. As a dynamic global community, it's our human spirit, together with technology, that empowers us to achieve this.
-
-We challenge and innovate in order to connect people, businesses, and communities across the world. Delighting our customers and earning their loyalty drive us, and we experiment, learn fast and get it done, together.
-
-With us, you can be truly be yourself and belong, share inspiration, embrace new opportunities, thrive, and make a real difference.
-
-**Alert**
----------
-
-Apply for Vodafone jobs only through the official Vodafone Careers website to avoid job scams and fraud.” #JDEnhancedByTARA
-
-**Follow us on social media and #StayConnected**
-------------------------------------------------
-
-* LinkedIn
-* Facebook
-* Instagram
-* Chat with our employees to learn more about our projects",,https://in.indeed.com/cmp/Vodafone,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6865cd5cf09fa5c02ebe85d532eca8ee,https://careers.vodafone.com/,"Newbury, England","10,000+",more than $10B (USD),"With over 12,000 people supporting over 18million customers, our purpose is to connect for a better future. ",,,3.8,7385.0,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=4984c9c4ae8a38b4,50,,"Linux, Linux Administration, RHEL, Oracle Linux, Root Cause Analysis","Oracle Linux, OCI, Tar, Recovery, Disaster Recovery, Change Management, P1, P2",,automation,,oci,0,True,False
-li-4475155906,linkedin,https://www.linkedin.com/jobs/view/4475155906,,Linux System Administrator,"iHub-Data, IIIT Hyderabad","Hyderabad, Telangana, India",2026-10-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/ihub-data,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4475155906,48,Linux System Administrator,Linux,,,,,,0,True,False
+Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned",,https://in.indeed.com/cmp/Cencora,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6940a214bfd57eb4556ed84959e3a363,https://www.cencora.com,"Conshohocken, PA","10,000+",more than $10B (USD),We are united in our responsibility to create healthier futures,,,3.3,2616.0,,,indeed,Linux System Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=a86abb6f71ebf60b,50,,"Linux, RHEL, Red Hat, Bash, Shell","VMware, OCI, TCP/IP, TCP IP, DNS, Firewall, Firewalls, Networking, HTTP, DNS, Tar, Recovery, Disaster Recovery, Permissions, Package Management, Log Analysis, ITIL, SLA, Change Management, High Availability",patching,"bash, shell, automation","file system, storage","oci, vmware",1,True,False
 li-4466811728,linkedin,https://www.linkedin.com/jobs/view/4466811728,,Linux Administrator,Infosys,"Bengaluru East, Karnataka, India",2026-10-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/infosys,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4466811728,48,Linux Administrator,Linux,,,,,,0,True,False
 li-4468214366,linkedin,https://www.linkedin.com/jobs/view/4468214366,,Senior Linux Cloud Infrastructure Engineer,NTT DATA North America,"Chennai, Tamil Nadu, India",2026-10-08,,,,,,,False,,,,,,,https://www.linkedin.com/company/ntt-data-americas,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4468214366,48,"Infrastructure Engineer, Cloud Infrastructure Engineer",Linux,,,,,,0,True,False
-li-4474966764,linkedin,https://www.linkedin.com/jobs/view/4474966764,,Linux System Administrator,MSRcosmos LLC,"Hyderabad, Telangana, India",2026-10-06,,,,,,,False,,,,,,,https://www.linkedin.com/company/msrcosmos-llc,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4474966764,48,Linux System Administrator,Linux,,,,,,0,True,False
-li-4444483075,linkedin,https://www.linkedin.com/jobs/view/4444483075,,Principal Infrastructure Engineer (Linux Expert),Keyloop,"Hyderabad, Telangana, India",2026-10-06,,,,,,,False,,,,,,,https://uk.linkedin.com/company/keyloop,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4444483075,48,Infrastructure Engineer,Linux,,,,,,0,True,False
-nk-081026934450,naukri,https://www.naukri.com/job-listings-linux-system-administrator-steerlean-pune-5-to-7-years-081026934450,,Linux System Administrator,Steerlean,"Pune, India",2026-10-08,,,,,,,False,,,,,,,https://www.naukri.com/steerlean-jobs-careers-4736970,https://img.naukimg.com/logo_images/groups/v1/3871278.gif,,,,,,"rhel, python, dns, operating systems, networking protocols, electrical engineering, networking, subject matter expert",5-7 Yrs,1.7,4.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-steerlean-pune-5-to-7-years-081026934450,48,Linux System Administrator,Linux,,,,,,0,True,False
 li-4476934255,linkedin,https://www.linkedin.com/jobs/view/4476934255,,Senior AWS Cloud Infrastructure Engineer (L3),Techwave,"Hyderabad, Telangana, India",2026-10-07,,,,,,,False,,,,,,,https://www.linkedin.com/company/techwave-consulting-inc,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4476934255,47,"Infrastructure Engineer, Cloud Infrastructure Engineer",,AWS,,,,aws,0,True,False
 in-49ac4e8ed3f1c52a,indeed,https://in.indeed.com/viewjob?jk=49ac4e8ed3f1c52a,,AWS Engineer,Lumos Learning,"KA, India",2026-10-08,fulltime,direct_data,yearly,1200000.0,2000000.0,INR,False,,,,,"AWS Systems Engineer (Site Reliability & Observability)  
 Lumos Learning · Bangalore (on-site)
@@ -246,7 +262,6 @@ Application Question(s):
 
 Work Location: In person",,https://in.indeed.com/cmp/Lumos-Learning,,http://www.lumoslearning.com,Piscataway,11 to 50,less than $1M (USD),,,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=49ac4e8ed3f1c52a,46,,"Linux, Linux Administration, Bash, Shell, Root Cause Analysis","AWS, OCI, TCP/IP, TCP IP, DNS, Networking, HTTP, DNS, Grafana, Infrastructure Monitoring, Backup, Recovery, Disaster Recovery, High Availability",patching,"bash, shell, automation",,"aws, oci",1,True,False
 li-4475757018,linkedin,https://www.linkedin.com/jobs/view/4475757018,,Infrastructure Engineer,Ericsson,"Bengaluru, Karnataka, India",2026-10-08,,,,,,,False,,,,,,,https://se.linkedin.com/company/ericsson,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4475757018,45,Infrastructure Engineer,,,,,,,0,True,False
+nk-101026012584,naukri,https://www.naukri.com/job-listings-l3-infrastructure-engineer-svn-systech-india-bengaluru-6-to-12-years-101026012584,,L3 Infrastructure Engineer,SVN SYSTECH INDIA,"Bengaluru, India",2026-10-10,,direct_data,yearly,50000.0,900000.0,INR,False,,,,,,,https://www.naukri.com/svn-systech-india-jobs-careers-813312,https://img.naukimg.com/logo_images/groups/v1/545938.gif,,,,,,"L3 Infrastructure Support, VMware, Windows Server, End User Support, Intune, Active Directory, RCA, Network Infrastructure",6-12 Yrs,3.2,219.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-l3-infrastructure-engineer-svn-systech-india-bengaluru-6-to-12-years-101026012584,45,Infrastructure Engineer,,,,,,,0,True,False
 li-4466265267,linkedin,https://www.linkedin.com/jobs/view/4466265267,,Cloud Operations Engineer - Global Cloud Services,ASSA ABLOY Group,"Chennai, Tamil Nadu, India",2026-10-08,,,,,,,False,,,,,,,https://se.linkedin.com/company/assaabloy,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4466265267,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-li-4476366552,linkedin,https://www.linkedin.com/jobs/view/4476366552,,Cloud Operations & Security Engineer,Limelight Software,"Pune Division, Maharashtra, India",2026-10-06,,,,,,,False,,,,,,,https://ca.linkedin.com/company/limelightsoftware,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4476366552,45,Cloud Operations,,,,,,,0,True,False
-li-4476580763,linkedin,https://www.linkedin.com/jobs/view/4476580763,,GPU Infrastructure Engineer / HPC Engineer,Larsen & Toubro-Vyoma,"Chennai, Tamil Nadu, India",2026-10-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/larsentoubrovyoma,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4476580763,45,Infrastructure Engineer,,,,,,,0,True,False
 li-4458658212,linkedin,https://www.linkedin.com/jobs/view/4458658212,,Cloud Operations Specialist,Teradata,Pune/Pimpri-Chinchwad Area,2026-10-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/teradata,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4458658212,45,Cloud Operations,,,,,,,0,True,False
