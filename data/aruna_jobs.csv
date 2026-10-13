@@ -1,87 +1,154 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-in-7dffd68c78ffb3d4,indeed,https://in.indeed.com/viewjob?jk=7dffd68c78ffb3d4,,Linux Administrator,DataCorp Traffic Private Ltd,"KA, India",2026-10-10,fulltime,direct_data,yearly,300000.0,500000.0,INR,False,,,,,"**Key Responsibilities**
+in-7c64b6c8e42e7ec6,indeed,https://in.indeed.com/viewjob?jk=7c64b6c8e42e7ec6,https://careers.yash.com/job/Bangalore-Consultant-Linux%2CAWS%2C-Vmware-Job-KA/1363029566/,"Consultant - Linux,AWS, Vmware",YASH Technologies,"KA, India",2026-10-12,,,,,,,False,,,,,"Date: Oct 12, 2026
 
-* Install, configure, and maintain Linux servers.
-* Perform OS patching, upgrades, and routine maintenance.
-* Manage users, permissions, SSH access and server security.
-* Monitor CPU, memory, disk, services, and overall server health.
-* Troubleshoot Linux, application, and connectivity issues.
-* Develop and maintain Shell/Bash scripts for routine administration and automation.
-* Configure and manage Cron jobs for scheduled tasks, backups, log cleanup, monitoring, and other automated activities.
-* Monitor scheduled scripts/jobs and troubleshoot failures.
-* Manage server backups and support restoration activities.
-* Support Docker/containerized applications, Nginx/Apache, and related services.
-* Assist with server hardening, vulnerability remediation, and ISO 27001 requirements.
-* Maintain server documentation and support infrastructure deployments.
-* Coordinate with application teams and external vendors when required
+Job Requisition Id: 65200
 
-**Required Skills**
+Location:
+Bangalore, KA, IN Pune, MH, IN Hyderabad, IN Bangalore, KA, IN Pune, IN Hyderabad, TG, IN Hyderabad, TG, IN, 500081
 
-* 2–4 years of hands-on Linux administration experience.
-* Good knowledge of Ubuntu/CentOS/Rocky Linux or similar.
-* Strong Linux command-line and troubleshooting skills.
-* Knowledge of TCP/IP, DNS, SSH, HTTP/HTTPS and firewalls.
-* Good Bash/Shell scripting.
-* Experience with Docker is preferred.
-* Good understanding of backup and recovery.
-* Strong documentation and communication skills.
+YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
 
-Pay: ₹300,000.00 - ₹500,000.00 per year
+  
 
-Benefits:
+At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.
 
-* Provident Fund
+  
 
-Work Location: In person",,https://in.indeed.com/cmp/Datacorp-Traffic-Private-Ltd,,,,,,,,,4.7,3.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7dffd68c78ffb3d4,76,Linux Administrator,"Linux, Linux Administration, CentOS, OS Patching, Bash, Shell Scripting, Shell","CentOS, TCP/IP, TCP IP, DNS, HTTPS, SSH, Firewall, Firewalls, HTTP, DNS, Backup, Recovery, Permissions","patching, os patching","bash, shell scripting, shell, automation",,,1,False,False
-in-b0551521b8179a77,indeed,https://in.indeed.com/viewjob?jk=b0551521b8179a77,https://lplfinancial.wd1.myworkdayjobs.com/India_Ext/job/Hyderabad/Senior-MW-Messaging-Infrastructure-Engineer---Kafka_R-052091,Professional MW Messaging Infrastructure Engineer - Kafka,LPL Financial,"TS, India",2026-10-09,fulltime,,,,,,False,,,,,"**Where Ambition Meets Innovation**
+**We are looking forward to hire Linux Professionals in the following areas :**
 
-At LPL’s Global Capability Center, you'll find a collaborative culture where your voice matters, integrity guides every decision, and technology fuels progress. Your skills, talents, and ideas will redefine what's possible. LPL's success reflects its exceptional employees, who together pursue one noble purpose: empowering financial advisors to deliver personalized advice for all who need it. We’re proud to be expanding and reaching new heights in Hyderabad.
+  
 
-Join us as we create something extraordinary together.
+**Experience**
+--------------
 
-**Job Overview:**
+3-5 Years
 
-The **Professional Middleware Messaging Infrastructure Engineer** specializing in **Apache Kafka** is responsible for deploying, managing, and scaling Kafka-based event streaming platforms across the enterprise. This role ensures reliable, high-throughput data pipelines and real-time messaging for critical business applications.
+**Job Description**
+-------------------
 
-**Responsibilities:**
+ROLE AND RESPONSIBILITIES:
+  
 
-* Install, configure, and manage Apache Kafka clusters including brokers, ZooKeeper/KRaft, and Confluent components
-* Design and implement Kafka topic architecture, partitioning strategies, and replication policies
-* Monitor Kafka health metrics, consumer lag, and throughput using tools such as Prometheus and Grafana
-* Troubleshoot consumer group issues, offset management, and message replay scenarios
-* Implement Kafka security including SSL/TLS, SASL authentication, and ACL management
-* Collaborate with development teams to design Kafka-based event-driven solutions
-* Automate Kafka provisioning, topic management, and configuration using scripts and IaC tools
-* Conduct capacity planning, performance benchmarking, and tuning for Kafka clusters
+* Provisioning: Deploy and configure Linux servers and VMware virtual machines.
+* Monitoring: Track system health daily using AWS CloudWatch and vCenter.
+* Troubleshooting: Resolve basic OS alerts, CPU spikes, and disk space issues.
+* Maintenance: Apply regular patches to Linux systems and VMware templates.
+* Automation: Write complex scripts to automate repetitive infrastructure deployment tasks.
+* Optimization: Analyze CloudWatch data to right-size EC2 instances and reduce costs.
+* Escalation: Act as the technical escalation point for junior team members.
 
-**What are we looking for?**
-----------------------------
+Knowledge on AWS compute, Networking, Storage & Security
 
-We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates **pursue greatness**, **act with integrity**, and are **driven to help our clients succeed**. We value those who embrace creativity, continuous improvement, and contribute to a culture where we **win together** and **create and share joy** in our work.
+QUALIFICATIONS AND EDUCATION REQUIREMENTS:
+  
 
-**Requirements:**
+* Education: Bachelor’s degree.
+* Minimum 4 years in a hybrid infrastructure administration role.
+* Certifications: AWS Certified SysOps Administrator, VMware Certified Professional (VCP).
+* ITIL v4 Foundation
+* Candidates who are confident of clearing extensive Background verification till previous Organization only shall apply
 
-* 6+ years of middleware experience with 3+ years focused on Apache KafkaDeep expertise in Kafka cluster management, replication, and failover
-* Experience with Kafka Connect for data integration with databases and external systems
-* Familiarity with Kafka Streams or KSQL for real-time data processing
-* Strong Unix/Linux administration skills and Python/Shell scripting
-* Experience with Confluent Platform, AWS MSK, or Azure Event Hubs
-* Understanding of distributed systems concepts and CAP theorem
-* Bachelor's degree in Computer Science, Information Technology, or related field
-* Confluent Certified Administrator or Developer certification preferred
+PREFERRED SKILLS
+  
 
-**Preference:**
+* Infrastructure as Code: Basic exposure to Terraform or AWS CloudFormation.
+* Configuration Management: Familiarity with Ansible playbook
+* Containers: Experience managing Docker containers or Kubernetes clusters.
 
-* Experience with schema management using Avro and Confluent Schema Registry
-* Knowledge of Kubernetes and containerized Kafka deployments
-* Exposure to Apache Flink or Spark Streaming for advanced stream processing
-* EDUCATION & QUALIFICATIONS
+BEHAVIORAL ATTRIBUTES:
+  
 
-LPL Global Business Services, LLP - PRIVACY POLICY",,https://in.indeed.com/cmp/Lpl-Financial,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f91044adb73e66902d9adba08eae69fd,https://www.lpl.com,"San Diego, CA","5,001 to 10,000",$1B to $5B (USD),"LPL Financial is the nation’s largest independent broker-dealer, and is widely known for its financial strength, exceptional service, and favorable industry reputation among financial professionals.",,,3.5,806.0,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=b0551521b8179a77,73,Infrastructure Engineer,"Linux, Linux Administration, Unix, Shell Scripting, Shell","AWS, iLO, Grafana",,"shell scripting, shell",,aws,1,True,False
-nk-111125018993,naukri,https://www.naukri.com/job-listings-linux-administrator-virinchi-technologies-hyderabad-2-to-5-years-111125018993,,Linux Administrator,Virinchi Technologies,"Hyderabad, India",2026-10-12,,,,,,,False,,,,,,,https://www.naukri.com/virinchi-technologies-jobs-careers-120242,https://img.naukimg.com/logo_images/groups/v1/670286.gif,,,,,,"Linux, Redhat Linux, Linux Administration, Linux System Administration, RHCE, Linux System, System, System administration",2-5 Yrs,2.8,203.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-virinchi-technologies-hyderabad-2-to-5-years-111125018993,48,Linux Administrator,Linux,,,,,,0,True,False
-li-4475669057,linkedin,https://www.linkedin.com/jobs/view/4475669057,,Cloud Operations Specialist (Ericsson CNIS & VMware) - BangaloreVOIS,VOIS,"Bengaluru, Karnataka, India",2026-10-11,,,,,,,False,,,,,,,https://uk.linkedin.com/company/vois,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4475669057,47,Cloud Operations,,VMware,,,,vmware,0,True,False
-li-4477271791,linkedin,https://www.linkedin.com/jobs/view/4477271791,,Credera Hiring Azure Infrastructure Engineer in Hyderabad,CloudSutra,"Hyderabad, Telangana, India",2026-10-12,,,,,,,False,,,,,,,https://in.linkedin.com/company/cloudsutra,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4477271791,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4463929098,linkedin,https://www.linkedin.com/jobs/view/4463929098,,Cloud Operations Engineer,Alight Solutions,Greater Hyderabad Area,2026-10-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/alightsolutions,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4463929098,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-li-4478055153,linkedin,https://www.linkedin.com/jobs/view/4478055153,,"Senior Cloud Operations Engineer, Staff",Synopsys Inc,"Hyderabad, Telangana, India",2026-10-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/synopsys,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478055153,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-li-4462140765,linkedin,https://www.linkedin.com/jobs/view/4462140765,,Senior Cloud Infrastructure Engineer,HealthEdge,Greater Hyderabad Area,2026-10-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/healthedge,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4462140765,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
-li-4467566806,linkedin,https://www.linkedin.com/jobs/view/4467566806,,"SRE, Staff AI Infrastructure Engineer",Arm,"Bengaluru, Karnataka, India",2026-10-09,,,,,,,False,,,,,,,https://uk.linkedin.com/company/arm,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4467566806,45,Infrastructure Engineer,,,,,,,0,True,False
+* Problem Solver: Demonstrates strong analytical skills during complex system outages.
+* Ownership: Takes full accountability for assigned infrastructure projects.
+* Adaptability: Thrives in fast-paced environments with shifting priorities.
+
+**Required Technical/ Functional Competencies**
+-----------------------------------------------
+
+PRIMARY SKILLS:
+  
+
+* Linux: Advanced troubleshooting, performance tuning, and kernel parameter optimization.
+* VMware: Managing vSAN, High Availability (HA), Distributed Resource Scheduler (DRS).
+* AWS: Designing infrastructure using Transit Gateways, RDS, and Auto Scaling.
+* AWS CloudWatch: Implementing custom metrics, CloudWatch Logs Insights, and automated actions.
+* Fluent in English, in both oral and written communication
+* Willingness to do 24x7 Rotational Shift, ability to working from office is preferred, location will be city with Yash Office.
+
+DESIRABLE SKILLS:
+  
+
+* Hybrid Cloud: Managing connectivity between on-premises VMware environments and AWS.
+* Security: Implementing IAM policies, security groups, and Linux hardening guidelines.
+
+**Required Behavioral Competencies**
+------------------------------------
+
+**Accountability:**
+
+* Takes ownership for and ensures accuracy of own work, meets deadlines, and asks questions about possible gaps to ensure clarity of ownership.
+
+**Agility:**
+
+* Demonstrates a willingness to accept and embrace differing ideas or perceptions which are beneficial to the organization.
+
+**Collaboration:**
+
+* Participates in team activities and reaches out to others in team to achieve common goals.
+
+**Customer Focus:**
+
+* Displays awareness of customers stated needs and gives priority to meeting and exceeding customer expectations at or above expected quality within stipulated time.
+
+**Communication:**
+
+* Effectively communicates in written and oral form, well-organized thoughts to others. Speaks openly and honestly with all employees.
+
+**Drives Results:**
+
+* Demonstrates a ""can do"" attitude and is willing to stretch self to achieve and exceed defined goals/targets.
+
+**Certifications**
+------------------
+
+Mandatory: CA, AZ104, MCSA, Business Intelligence Development Certification, Microsoft Certified Azure AI, Azure Data & Azure Administrator; Desirable: OCP, CCP/Yash defined course, Administration level Certification of any Storage Tool/Backup Tool
+
+Mandatory: ITIL V4 Foundation
+
+NCA - Nutanix Certified Associate
+
+At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.
+
+  
+
+**Our Hyperlearning workplace is grounded upon four principles**
+
+* Flexible work arrangements, Free spirit, and emotional positivity
+* Agile self-determination, trust, transparency, and open collaboration
+* All Support needed for the realization of business goals,
+* Stable employment with a great atmosphere and ethical corporate culture",,https://in.indeed.com/cmp/Yash-Technologies-9,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0ad9bce84e78e99ae1d50d068b177f39,https://www.yash.com,"East Moline, IL","1,001 to 5,000",$100M to $500M (USD),,,,3.9,236.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7c64b6c8e42e7ec6,49,,"Linux, Ansible","VMware, AWS, OCI, Networking, Tar, Backup, ITIL, High Availability",,"ansible, automation",storage,"aws, oci, vmware",0,True,False
+nk-131026921608,naukri,https://www.naukri.com/job-listings-unix-administrator-tekskills-hyderabad-4-to-6-years-131026921608,,UNIX Administrator,Tekskills,"Hyderabad, India",2026-10-13,,direct_data,yearly,50000.0,550000.0,INR,False,,,,,,,https://www.naukri.com/tekskills-jobs-careers-3852722,https://img.naukimg.com/logo_images/groups/v1/2062642.gif,,,,,,"UNIX Administration, UNIX Administrator, UNIX, Administration",4-6 Yrs,,,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-unix-administrator-tekskills-hyderabad-4-to-6-years-131026921608,48,Unix Administrator,Unix,,,,,,0,True,False
+nk-131026921589,naukri,https://www.naukri.com/job-listings-unix-administrator-tekskills-bengaluru-4-to-6-years-131026921589,,UNIX Administrator,Tekskills,"Bengaluru, India",2026-10-13,,direct_data,yearly,50000.0,550000.0,INR,False,,,,,,,https://www.naukri.com/tekskills-jobs-careers-3852722,https://img.naukimg.com/logo_images/groups/v1/2062642.gif,,,,,,"UNIX Administration, UNIX Administrator, UNIX, Administration",4-6 Yrs,,,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-unix-administrator-tekskills-bengaluru-4-to-6-years-131026921589,48,Unix Administrator,Unix,,,,,,0,True,False
+in-5d0db6801faae1a8,indeed,https://in.indeed.com/viewjob?jk=5d0db6801faae1a8,https://careers.hcltech.com/job/Sr-Administrator-%28Support-&-Operations%29/178993-en_US,Sr Administrator (Support & Operations),HCLTech,"KA, India",2026-10-12,,,,,,,False,,,,,"Sr Administrator (Support & Operations)
+
+Bengaluru, Karnataka
+
+**Job Summary**
+---------------
+
+**Job Summary :** We are looking for an experienced Oracle Database Administrator (Oracle DBA) to manage, maintain, and optimize Oracle database environments. The ideal candidate will have hands-on experience in database administration, performance tuning, backup and recovery, high availability, and production support across enterprise environments. Key Responsibilities • Install, configure, upgrade, and administer Oracle databases. • Monitor database health, performance, and availability. • Perform database backup, recovery, cloning, and refresh activities. • Manage Oracle RAC, Data Guard, and High Availability solutions. • Troubleshoot and resolve database performance and operational issues. • Implement database security standards, access controls, and compliance requirements. • Perform database patching, upgrades, and capacity planning activities. • Execute disaster recovery planning and recovery testing. • Work closely with application, infrastructure, and support teams to ensure database reliability. • Create and maintain database documentation, runbooks, and operational procedures. Required Skills • 2 to 8 years of experience in Oracle Database Administration. • Strong knowledge of Oracle Database 12c/19c or later versions. • Experience with Oracle RAC, ASM, RMAN, and Data Guard. • Expertise in backup, recovery, performance tuning, and query optimization. • Strong understanding of database monitoring and troubleshooting. • Experience with Linux/Unix operating systems. • Knowledge of database security, patch management, and capacity planning. • Good understanding of SQL and PL/SQL. Preferred Skills • Experience with Oracle databases on AWS, Azure, or GCP. • Exposure to automation using Shell Scripting, Python, or Ansible. • Knowledge of DevOps tools and CI/CD processes. • Oracle Cloud Infrastructure (OCI) experience is an added advantage. • Oracle Database certifications preferred. What We\'re Looking For • Strong analytical and problem-solving skills. • Experience supporting mission-critical production environments. • Excellent communication and stakeholder management skills. • Ability to work independently and collaboratively in a fast-paced environment.
+
+**Key Responsibilities**
+------------------------
+
+**Job Responsibilities :** We are looking for an experienced Oracle Database Administrator (Oracle DBA) to manage, maintain, and optimize Oracle database environments. The ideal candidate will have hands-on experience in database administration, performance tuning, backup and recovery, high availability, and production support across enterprise environments. Key Responsibilities • Install, configure, upgrade, and administer Oracle databases. • Monitor database health, performance, and availability. • Perform database backup, recovery, cloning, and refresh activities. • Manage Oracle RAC, Data Guard, and High Availability solutions. • Troubleshoot and resolve database performance and operational issues. • Implement database security standards, access controls, and compliance requirements. • Perform database patching, upgrades, and capacity planning activities. • Execute disaster recovery planning and recovery testing. • Work closely with application, infrastructure, and support teams to ensure database reliability. • Create and maintain database documentation, runbooks, and operational procedures. Required Skills • 2 to 8 years of experience in Oracle Database Administration. • Strong knowledge of Oracle Database 12c/19c or later versions. • Experience with Oracle RAC, ASM, RMAN, and Data Guard. • Expertise in backup, recovery, performance tuning, and query optimization. • Strong understanding of database monitoring and troubleshooting. • Experience with Linux/Unix operating systems. • Knowledge of database security, patch management, and capacity planning. • Good understanding of SQL and PL/SQL. Preferred Skills • Experience with Oracle databases on AWS, Azure, or GCP. • Exposure to automation using Shell Scripting, Python, or Ansible. • Knowledge of DevOps tools and CI/CD processes. • Oracle Cloud Infrastructure (OCI) experience is an added advantage. • Oracle Database certifications preferred. What We\'re Looking For • Strong analytical and problem-solving skills. • Experience supporting mission-critical production environments. • Excellent communication and stakeholder management skills. • Ability to work independently and collaboratively in a fast-paced environment.
+
+**Skill Requirements**
+----------------------
+
+**Job Responsibilities :** We are looking for an experienced Oracle Database Administrator (Oracle DBA) to manage, maintain, and optimize Oracle database environments. The ideal candidate will have hands-on experience in database administration, performance tuning, backup and recovery, high availability, and production support across enterprise environments. Key Responsibilities • Install, configure, upgrade, and administer Oracle databases. • Monitor database health, performance, and availability. • Perform database backup, recovery, cloning, and refresh activities. • Manage Oracle RAC, Data Guard, and High Availability solutions. • Troubleshoot and resolve database performance and operational issues. • Implement database security standards, access controls, and compliance requirements. • Perform database patching, upgrades, and capacity planning activities. • Execute disaster recovery planning and recovery testing. • Work closely with application, infrastructure, and support teams to ensure database reliability. • Create and maintain database documentation, runbooks, and operational procedures. Required Skills • 2 to 8 years of experience in Oracle Database Administration. • Strong knowledge of Oracle Database 12c/19c or later versions. • Experience with Oracle RAC, ASM, RMAN, and Data Guard. • Expertise in backup, recovery, performance tuning, and query optimization. • Strong understanding of database monitoring and troubleshooting. • Experience with Linux/Unix operating systems. • Knowledge of database security, patch management, and capacity planning. • Good understanding of SQL and PL/SQL. Preferred Skills • Experience with Oracle databases on AWS, Azure, or GCP. • Exposure to automation using Shell Scripting, Python, or Ansible. • Knowledge of DevOps tools and CI/CD processes. • Oracle Cloud Infrastructure (OCI) experience is an added advantage. • Oracle Database certifications preferred. What We\'re Looking For • Strong analytical and problem-solving skills. • Experience supporting mission-critical production environments. • Excellent communication and stakeholder management skills. • Ability to work independently and collaboratively in a fast-paced environment.
+
+**Other Requirements**
+----------------------
+
+NA",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,3.7,11367.0,,,indeed,Linux System Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=5d0db6801faae1a8,48,,"Linux, Unix, Shell Scripting, Shell, Ansible","AWS, OCI, Oracle Cloud, GCP, Backup, Recovery, Disaster Recovery, Production Support, High Availability",patching,"ansible, shell scripting, shell, automation",,"aws, oci, oracle cloud, gcp",1,True,False
