@@ -1,10 +1,170 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
+nk-141026024395,naukri,https://www.naukri.com/job-listings-aws-os-linux-support-engineer-bangalore-6-yrs-sigma-allied-services-bengaluru-6-to-11-years-141026024395,,AWS / OS Linux Support Engineer: Bangalore (6+yrs),Sigma Allied Services,"Bengaluru, India",2026-10-14,,,,,,,False,,,,,,,https://www.naukri.com/sigma-allied-services-jobs-careers-728863,https://img.naukimg.com/logo_images/groups/v1/4629227.gif,,,,,,"AWS Cloud Services, Linux System Administration, RHEL Linux, Amazon Ec2, Scripting Languages, Operating systems, Cloud Services, Languages",6-11 Yrs,,,,Hybrid,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-aws-os-linux-support-engineer-bangalore-6-yrs-sigma-allied-services-bengaluru-6-to-11-years-141026024395,55,Linux Support Engineer,Linux,AWS,,,,aws,1,True,False
+in-c11e1472fa873c4a,indeed,https://in.indeed.com/viewjob?jk=c11e1472fa873c4a,https://techilaservices.com/careers/6ace2ad494677993fb633f3a,Infrastructure Architect - J0826-0559,Techila Global Services,"KA, India",2026-10-13,fulltime,direct_data,yearly,,3000000.0,INR,False,,,,,"Hybrid Bangalore 12–15 yrs Apply by Nov 12, 2026
+
+**Infrastructure Architect - J0826-0559**
+=========================================
+
+Join Techila's team of Salesforce experts. We build senior-led transformations that deliver measurable outcomes for clients worldwide.
+
+Experience
+
+12–15 yrs
+
+Employment Type
+
+Full-time
+
+Openings
+
+1 position
+
+Apply By
+
+Nov 12, 2026
+
+**Required Skills**
+-------------------
+
+Windows & Linux/Unix serversVMwareDatabases
+
+**Job Description**
+-------------------
+
+Hello
+
+Exp Level : 12+ yrs
+
+Location : Bangalore
+
+Notice period : Immediate to 30days Max
+
+Budget : Max 30 LPA
+
+Employment : FTE
+
+Job Description :
+
+We are seeking an experienced Infrastructure Architect to design, plan, and drive automation strategies across hybrid infrastructure environments. The ideal candidate holds architect-level depth in at least one public cloud platform (Azure, AWS, or GCP), combines deep classical infrastructure expertise (compute, storage, network, database) with strong DevOps, identity, and endpoint management skills, and brings hands-on strength in Terraform/Terragrunt-driven automation. They will be responsible for architecting scalable, repeatable, and secure automation frameworks across the enterprise IT landscape.
+
+Key Responsibilities
+
+* Design end-to-end automation architecture spanning provisioning, configuration management, patching, monitoring, and lifecycle operations across on-prem and cloud infrastructure.
+
+* Lead automation strategy and roadmap using Azure DevOps (pipelines, repos, boards, artifacts) as the primary CI/CD and orchestration backbone.
+
+* Architect and standardize automation for classical infrastructure domains:
+
+* Windows & Linux/Unix servers – build, patch, configuration automation (PowerShell DSC, Ansible, etc.)
+
+* VMware – VM provisioning, templates, resource pool automation (vRA/vRO, Terraform, PowerCLI)
+
+* Databases – automated provisioning, backup validation, patching orchestration
+
+* Storage & Backup – automated backup policy enforcement, capacity/DR automation
+
+* Network – automated configuration, compliance checks, network-as-code practices
+
+* Monitoring – automated alerting, self-healing runbooks, integration with ITSM/ticketing
+
+* Design and govern Azure Identity & Access Management (IAM): role-based access control (RBAC), Conditional Access, Privileged Identity Management (PIM), automated access provisioning/deprovisioning, and identity governance across hybrid environments.
+
+* Architect and manage SCCM (Microsoft Configuration Manager) environments for OS deployment, patch management, software distribution, and endpoint compliance automation.
+
+* Hold architect-level ownership of at least one public cloud platform (Azure, AWS, or GCP) — landing zone design, account/subscription structure, networking, security baselines — and integrate multi-cloud DevOps practices into a unified automation framework.
+
+* Define and enforce Infrastructure-as-Code (IaC) standards with strong hands-on depth in Terraform and Terragrunt (module design, remote state management, workspace/environment isolation, DRY variable hierarchies) alongside ARM/Bicep and Ansible; own IaC governance across teams.
+
+* Partner with delivery, operations, and security teams to translate manual/legacy processes into automated, auditable workflows.
+
+* Own architecture documentation, automation design specs, and implementation planning (phased rollout, risk assessment, rollback strategy).
+
+* Mentor engineering teams on automation best practices and drive adoption across the infra org.
+
+Required Skills & Experience
+
+* 8+ years in infrastructure engineering/architecture roles, with 3+ years focused on automation/DevOps.
+
+* Hands-on expertise with Azure DevOps (pipelines, YAML, release management).
+
+* Strong background across classic infrastructure: Windows Server, Linux/Unix, VMware virtualization, enterprise databases (SQL/Oracle or similar), storage & backup platforms (NetApp, Veeam, Commvault, etc.), and enterprise networking.
+
+* Strong hands-on experience with Azure IAM — RBAC, Conditional Access, PIM, Entra ID (Azure AD) automation and governance.
+
+* Proven experience with SCCM for endpoint management, patching, and OS/application deployment automation.
+
+* Experience with monitoring/observability tools (SCOM, Nagios, Zabbix, Datadog, or similar) and integrating automated remediation.
+
+* Architect-level expertise in Azure, AWS, or GCP — able to design landing zones, account/subscription hierarchies, network topology, and security/governance baselines, not just automate within an existing environment.
+
+* Working knowledge of at least one additional public cloud beyond the primary and cloud-native DevOps tooling.
+
+* Proficiency in scripting/automation languages: PowerShell, Python, Bash.
+
+* Strong, hands-on IaC experience with Terraform and Terragrunt (module authoring, remote state, environment/workspace isolation, DRY configuration patterns) as the core automation toolchain, plus ARM/Bicep templates and Ansible/Chef/Puppet.
+
+* Proven ability to produce automation design documents and implementation/rollout plans for enterprise environments.
+
+* Excellent stakeholder communication skills — able to present automation strategy to both technical teams and leadership.
+
+Preferred / Nice-to-Have
+
+* Certifications: Azure Solutions Architect Expert (AZ-305) or AWS Certified Solutions Architect (Professional) or Google Professional Cloud Architect; HashiCorp Certified: Terraform Associate; Azure Identity & Access Administrator (SC-300); VMware VCP; ITIL Foundation.
+
+* Experience in regulated or large enterprise environments (banking, healthcare, government).
+
+* Exposure to ITSM platforms (ServiceNow, BMC Helix) and CMDB-driven automation.
+
+### **At a Glance**
+
+Work ModeHybrid
+
+EmploymentFull-time
+
+Experience12–15 yrs
+
+Openings1
+
+LocationBangalore
+
+DeadlineNov 12, 2026
+
+[ Hiring process ]
+
+**What to expect**
+------------------
+
+Four stages, typically completed within **2–3 weeks**. We respect your time — every stage has a clear purpose and timely feedback.
+
+* STEP 0130 min
+
+  ### **Screening Call**
+
+  Introductory conversation with our talent team to understand your background and motivations.
+
+* STEP 0260–90 min
+
+  ### **Technical Round**
+
+  Live problem-solving with a senior architect on Salesforce design, integrations, or domain depth.
+
+* STEP 0345 min
+
+  ### **Culture Fit**
+
+  Conversation with practice leadership covering working style, ownership, and how you collaborate.
+
+* STEP 04Within 5 days
+
+  ### **Offer**
+
+  Formal offer with full compensation breakdown, start date, and onboarding plan.",,https://in.indeed.com/cmp/Techila-Global-Services,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28edd3a858dc07252d15ea8a6e7bb6a5,,,,,,,,4.2,6.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=c11e1472fa873c4a,50,,"Linux, Unix, Bash, Shell, Ansible","VMware, AWS, OCI, GCP, Networking, Nagios, Tar, Commvault, Backup, ServiceNow, ITIL, SLA",patching,"ansible, bash, shell, automation",storage,"aws, oci, gcp, vmware",1,True,False
 in-7c64b6c8e42e7ec6,indeed,https://in.indeed.com/viewjob?jk=7c64b6c8e42e7ec6,https://careers.yash.com/job/Bangalore-Consultant-Linux%2CAWS%2C-Vmware-Job-KA/1363029566/,"Consultant - Linux,AWS, Vmware",YASH Technologies,"KA, India",2026-10-12,,,,,,,False,,,,,"Date: Oct 12, 2026
 
 Job Requisition Id: 65200
 
 Location:
-Bangalore, KA, IN Pune, MH, IN Hyderabad, IN Bangalore, KA, IN Pune, IN Hyderabad, TG, IN Hyderabad, TG, IN, 500081
+Bangalore, KA, IN Pune, IN Hyderabad, IN Bangalore, KA, IN Hyderabad, TG, IN Pune, MH, IN Hyderabad, TG, IN, 500081
 
 YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
 
@@ -127,28 +287,26 @@ At YASH, you are empowered to create a career that will take you to where you wa
 * Agile self-determination, trust, transparency, and open collaboration
 * All Support needed for the realization of business goals,
 * Stable employment with a great atmosphere and ethical corporate culture",,https://in.indeed.com/cmp/Yash-Technologies-9,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0ad9bce84e78e99ae1d50d068b177f39,https://www.yash.com,"East Moline, IL","1,001 to 5,000",$100M to $500M (USD),,,,3.9,236.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7c64b6c8e42e7ec6,49,,"Linux, Ansible","VMware, AWS, OCI, Networking, Tar, Backup, ITIL, High Availability",,"ansible, automation",storage,"aws, oci, vmware",0,True,False
-nk-131026921608,naukri,https://www.naukri.com/job-listings-unix-administrator-tekskills-hyderabad-4-to-6-years-131026921608,,UNIX Administrator,Tekskills,"Hyderabad, India",2026-10-13,,direct_data,yearly,50000.0,550000.0,INR,False,,,,,,,https://www.naukri.com/tekskills-jobs-careers-3852722,https://img.naukimg.com/logo_images/groups/v1/2062642.gif,,,,,,"UNIX Administration, UNIX Administrator, UNIX, Administration",4-6 Yrs,,,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-unix-administrator-tekskills-hyderabad-4-to-6-years-131026921608,48,Unix Administrator,Unix,,,,,,0,True,False
-nk-131026921589,naukri,https://www.naukri.com/job-listings-unix-administrator-tekskills-bengaluru-4-to-6-years-131026921589,,UNIX Administrator,Tekskills,"Bengaluru, India",2026-10-13,,direct_data,yearly,50000.0,550000.0,INR,False,,,,,,,https://www.naukri.com/tekskills-jobs-careers-3852722,https://img.naukimg.com/logo_images/groups/v1/2062642.gif,,,,,,"UNIX Administration, UNIX Administrator, UNIX, Administration",4-6 Yrs,,,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-unix-administrator-tekskills-bengaluru-4-to-6-years-131026921589,48,Unix Administrator,Unix,,,,,,0,True,False
-in-5d0db6801faae1a8,indeed,https://in.indeed.com/viewjob?jk=5d0db6801faae1a8,https://careers.hcltech.com/job/Sr-Administrator-%28Support-&-Operations%29/178993-en_US,Sr Administrator (Support & Operations),HCLTech,"KA, India",2026-10-12,,,,,,,False,,,,,"Sr Administrator (Support & Operations)
+li-4478174884,linkedin,https://www.linkedin.com/jobs/view/4478174884,,Senior Linux Administrator,NVIDIA,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/nvidia,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478174884,48,Linux Administrator,Linux,,,,,,0,True,False
+in-d3464d44ae69a731,indeed,https://in.indeed.com/viewjob?jk=d3464d44ae69a731,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Linux-Administrator_JR2026778-1,Senior Linux Administrator,NVIDIA,"KA, India",2026-10-13,fulltime,,,,,,False,,,,,"NVIDIA is looking for an exceptional engineer to grow and thrive alongside our Infrastructure team that designs, evaluates, and optimizes the compute inrastructure powering NVIDIA's next-generation silicon design and AI
 
-Bengaluru, Karnataka
+workloads.You will own the operational health, efficiency and observability of a large Linux compute farm serving NVIDIA's VLSI design teams  
+  
+**What you'll be doing:**
 
-**Job Summary**
----------------
+* In this position, you will own the operational health, efficiency and observability of a large Linux compute farm serving NVIDIA's VLSI design teams, and be the person who can say where the time and the capacity are actually going.
+* Profile and debug at the system level - kernel, filesystem, memory and I/O behaviour - when workloads are slow, and turn findings into fixes rather than tickets.
+* Drive compute efficiency: memory request-versus-usage accuracy, CPU waste from idle and over-provisioned jobs, and the prediction models behind resource requests.
+* Build the observability layer for the farm - telemetry pipelines, metrics and dashboards that make capacity, utilisation and job behaviour visible to engineers and to leadership - and own licence monitoring and expiry alerting across the EDA tool estate.
+* This is a hands-on technical role. Day-to-day farm operations and live triage are a core part of it, and you will work directly with the heaviest users on their workload behaviour, since most efficiency gains come from a small number of workflows.
 
-**Job Summary :** We are looking for an experienced Oracle Database Administrator (Oracle DBA) to manage, maintain, and optimize Oracle database environments. The ideal candidate will have hands-on experience in database administration, performance tuning, backup and recovery, high availability, and production support across enterprise environments. Key Responsibilities • Install, configure, upgrade, and administer Oracle databases. • Monitor database health, performance, and availability. • Perform database backup, recovery, cloning, and refresh activities. • Manage Oracle RAC, Data Guard, and High Availability solutions. • Troubleshoot and resolve database performance and operational issues. • Implement database security standards, access controls, and compliance requirements. • Perform database patching, upgrades, and capacity planning activities. • Execute disaster recovery planning and recovery testing. • Work closely with application, infrastructure, and support teams to ensure database reliability. • Create and maintain database documentation, runbooks, and operational procedures. Required Skills • 2 to 8 years of experience in Oracle Database Administration. • Strong knowledge of Oracle Database 12c/19c or later versions. • Experience with Oracle RAC, ASM, RMAN, and Data Guard. • Expertise in backup, recovery, performance tuning, and query optimization. • Strong understanding of database monitoring and troubleshooting. • Experience with Linux/Unix operating systems. • Knowledge of database security, patch management, and capacity planning. • Good understanding of SQL and PL/SQL. Preferred Skills • Experience with Oracle databases on AWS, Azure, or GCP. • Exposure to automation using Shell Scripting, Python, or Ansible. • Knowledge of DevOps tools and CI/CD processes. • Oracle Cloud Infrastructure (OCI) experience is an added advantage. • Oracle Database certifications preferred. What We\'re Looking For • Strong analytical and problem-solving skills. • Experience supporting mission-critical production environments. • Excellent communication and stakeholder management skills. • Ability to work independently and collaboratively in a fast-paced environment.
+**What we need to see:**
 
-**Key Responsibilities**
-------------------------
-
-**Job Responsibilities :** We are looking for an experienced Oracle Database Administrator (Oracle DBA) to manage, maintain, and optimize Oracle database environments. The ideal candidate will have hands-on experience in database administration, performance tuning, backup and recovery, high availability, and production support across enterprise environments. Key Responsibilities • Install, configure, upgrade, and administer Oracle databases. • Monitor database health, performance, and availability. • Perform database backup, recovery, cloning, and refresh activities. • Manage Oracle RAC, Data Guard, and High Availability solutions. • Troubleshoot and resolve database performance and operational issues. • Implement database security standards, access controls, and compliance requirements. • Perform database patching, upgrades, and capacity planning activities. • Execute disaster recovery planning and recovery testing. • Work closely with application, infrastructure, and support teams to ensure database reliability. • Create and maintain database documentation, runbooks, and operational procedures. Required Skills • 2 to 8 years of experience in Oracle Database Administration. • Strong knowledge of Oracle Database 12c/19c or later versions. • Experience with Oracle RAC, ASM, RMAN, and Data Guard. • Expertise in backup, recovery, performance tuning, and query optimization. • Strong understanding of database monitoring and troubleshooting. • Experience with Linux/Unix operating systems. • Knowledge of database security, patch management, and capacity planning. • Good understanding of SQL and PL/SQL. Preferred Skills • Experience with Oracle databases on AWS, Azure, or GCP. • Exposure to automation using Shell Scripting, Python, or Ansible. • Knowledge of DevOps tools and CI/CD processes. • Oracle Cloud Infrastructure (OCI) experience is an added advantage. • Oracle Database certifications preferred. What We\'re Looking For • Strong analytical and problem-solving skills. • Experience supporting mission-critical production environments. • Excellent communication and stakeholder management skills. • Ability to work independently and collaboratively in a fast-paced environment.
-
-**Skill Requirements**
-----------------------
-
-**Job Responsibilities :** We are looking for an experienced Oracle Database Administrator (Oracle DBA) to manage, maintain, and optimize Oracle database environments. The ideal candidate will have hands-on experience in database administration, performance tuning, backup and recovery, high availability, and production support across enterprise environments. Key Responsibilities • Install, configure, upgrade, and administer Oracle databases. • Monitor database health, performance, and availability. • Perform database backup, recovery, cloning, and refresh activities. • Manage Oracle RAC, Data Guard, and High Availability solutions. • Troubleshoot and resolve database performance and operational issues. • Implement database security standards, access controls, and compliance requirements. • Perform database patching, upgrades, and capacity planning activities. • Execute disaster recovery planning and recovery testing. • Work closely with application, infrastructure, and support teams to ensure database reliability. • Create and maintain database documentation, runbooks, and operational procedures. Required Skills • 2 to 8 years of experience in Oracle Database Administration. • Strong knowledge of Oracle Database 12c/19c or later versions. • Experience with Oracle RAC, ASM, RMAN, and Data Guard. • Expertise in backup, recovery, performance tuning, and query optimization. • Strong understanding of database monitoring and troubleshooting. • Experience with Linux/Unix operating systems. • Knowledge of database security, patch management, and capacity planning. • Good understanding of SQL and PL/SQL. Preferred Skills • Experience with Oracle databases on AWS, Azure, or GCP. • Exposure to automation using Shell Scripting, Python, or Ansible. • Knowledge of DevOps tools and CI/CD processes. • Oracle Cloud Infrastructure (OCI) experience is an added advantage. • Oracle Database certifications preferred. What We\'re Looking For • Strong analytical and problem-solving skills. • Experience supporting mission-critical production environments. • Excellent communication and stakeholder management skills. • Ability to work independently and collaboratively in a fast-paced environment.
-
-**Other Requirements**
-----------------------
-
-NA",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,3.7,11367.0,,,indeed,Linux System Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=5d0db6801faae1a8,48,,"Linux, Unix, Shell Scripting, Shell, Ansible","AWS, OCI, Oracle Cloud, GCP, Backup, Recovery, Disaster Recovery, Production Support, High Availability",patching,"ansible, shell scripting, shell, automation",,"aws, oci, oracle cloud, gcp",1,True,False
+* B.E./B.Tech/M.Tech in Computer Science, Electrical Engineering, or equivalent experience.
+* 8+ years in Linux systems administration or infrastructure operations at scale.
+* Deep Linux systems and kernel-level expertise - comfortable with perf, eBPF/bpftrace, strace, cgroups, NUMA, memory management, scheduler behaviour and I/O subsystems, and able to use them to find root cause rather than guess at it.
+* Demonstrated experience diagnosing and fixing performance problems on large multi-user compute systems.
+* Strong NFS and distributed filesystem troubleshooting: metadata versus data path, client behaviour, mount and latency issues.
+* Hands-on experience building observability - time-series metrics, log and telemetry pipelines, and dashboards (Prometheus/Grafana, Elastic, or equivalent) - plus strong Python for analysis and automation.
+* Familiarity with batch schedulers (LSF, Slurm, or equivalent) and job resource accounting, and a genuine appetite for operational work. Semiconductor/EDA or HPC background is a plus.",,https://in.indeed.com/cmp/Nvidia,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2996d44d9185b4c723f9f5f388bf1d1,http://www.nvidia.com,"Santa Clara, CA","10,000+",$5B to $10B (USD),,,,4.2,324.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=d3464d44ae69a731,46,Linux Administrator,"Linux, NFS, System Troubleshooting","NFS, Grafana, Memory Management, Infrastructure Operations",,automation,"filesystem, nfs",,-1,False,False
+nk-090626017979,naukri,https://www.naukri.com/job-listings-infrastructure-engineer-dazn-hyderabad-dazn-hyderabad-7-to-12-years-090626017979,,Infrastructure Engineer - DAZN - Hyderabad !,DAZN,"Hyderabad, India",2026-10-14,,,,,,,False,,,,,,,https://www.naukri.com/dazn-jobs-careers-3111770,https://img.naukimg.com/logo_images/groups/v1/8159505.gif,,,,,,"Linux Administration, Nutanix, Infrastructure, RHEL, AWS, Patch Management, NAGIOS, checkMk",7-12 Yrs,2.6,291.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-infrastructure-engineer-dazn-hyderabad-dazn-hyderabad-7-to-12-years-090626017979,45,Infrastructure Engineer,,,,,,,0,True,False
