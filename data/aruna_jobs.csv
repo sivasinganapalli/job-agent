@@ -1,102 +1,4 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-in-7872d9f6a7a8385a,indeed,https://in.indeed.com/viewjob?jk=7872d9f6a7a8385a,"https://careers.point72.com/CSJobDetail?jobName=linux-support-engineer&jobCode=IVS-0015456&location=Bengaluru,%20India&locale=English&retURL=/CSCareerSearch",Linux Support Engineer,Point72,"KA, India",2026-10-14,,,,,,,False,,,,,"**EXPERIENCE**
-
-Experienced Professionals
-
-**LOCATION**
-
-Bengaluru, India
-
-**FOCUS**
-
-Software & System Engineering
-
-**BUSINESS**
-
-Point72
-
-### **A CAREER WITH POINT72’S TECHNOLOGY TEAM**
-
-As Point72 reimagines the future of investing, our Technology team is constantly evolving our firm’s IT infrastructure and engineering capabilities, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts who experiment and work to discover new ways to harness open-source solutions, modern cloud architectures, and sophisticated Artificial Intelligence (AI) solutions, while embracing enterprise agile methodologies. Our commitment to building and innovating in the AI space provides the framework intended to drive smarter decision making and enhance how we build and operate our platforms and applications.
-
-  
-  
-
-### **What you’ll do**
-
-* Actively monitor the Linux Support team’s incident/request queue, set prioritization, and process tickets in a timely manner
-
-* Perform production releases while adhering to change management guidelines
-
-* Install, configure, and troubleshoot Linux servers and related hardware/software components
-
-* Perform in-depth analysis for post impact resolution, RCA, remedial actions, and problem management
-
-* Manage and troubleshoot AD integrated authentication on Linux servers
-
-* Manage and troubleshoot existing Ansible playbooks used for configuration management across the Linux environment
-
-* Collaborate cross-functionally to monitor system performance, analyze system logs, and proactively address issues
-
-* Create and maintain system documentation including configuration guides, standard operating procedures, and troubleshooting steps
-
-  
-  
-
-### **What’s required**
-
-* 3+ years of experience as a Linux System Administrator in a production environment, with hands-on expertise in Red Hat Enterprise Linux and/or Ubuntu administration, including installation, configuration, performance tuning, troubleshooting, and ongoing support.
-
-* Ability to manage multiple priorities and deadlines in a fast-paced production environment.
-
-* Experience with infrastructure as code, automation, and configuration management concepts, including tools such as Git, Bitbucket, GitHub, and Ansible.
-
-* Proficiency in scripting languages such as Bash or Python for automation, operational support, and task scripting.
-
-* Strong understanding of authentication, privilege management, and integration with Active Directory, including related services such as Kerberos.
-
-* Experience with storage and file-sharing technologies, including local disk management, LVM, network-based storage concepts, HBA/PowerPath, and remote mounts such as CIFS, Samba, and NFS for client and server configurations.
-
-* Working knowledge of networking concepts, protocols, and services, including TCP/IP, DNS, DHCP, and related infrastructure services.
-
-* Familiarity with cloud platforms such as AWS or Azure, as well as AI tooling to support and streamline technical workloads.
-
-* Strong written, verbal, and interpersonal communication skills, with excellent organizational abilities, attention to detail
-
-* Commitment to the highest ethical standards
-
-  
-  
-
-### **We take care of our people**
-
-We invest in our people, their careers, their health, and their well-being. When you work here, we provide:
-
-* Health care benefits
-
-* Maternity, Adoption & related leave policies
-
-* Generous paternity and family care leave policies
-
-* Employee Assistance Program & Mental wellness programs
-
-* Transportation support
-
-* Tuition assistance
-
-  
-  
-
-### **About Point72**
-
-Point72 is a leading global alternative investment firm led by Steven A. Cohen with over $58.5 billion in assets under management (as of July 1, 2026). Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth. For more information, visit www.Point72.com.
-
-  
-
-Job Application Checklist
-
-* Résumé
-* Education background",,https://in.indeed.com/cmp/Point72-7,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/49102f559fe85772c66eda1612eded83,https://www.point72.com,"Stamford, CT","1,001 to 5,000",Decline to state,Point72 is a leading global alternative investment firm led by Steven A. Cohen that invests in multiple asset classes and strategies worldwide.,,,3.6,15.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7872d9f6a7a8385a,86,Linux Support Engineer,"Linux, Red Hat Enterprise Linux, Red Hat, LVM, NFS, CIFS, Disk Management, Bash, Ansible, RCA","AWS, TCP/IP, TCP IP, DNS, DHCP, Networking, Samba, NFS, DHCP, DNS, System Logs, Change Management, Server Configuration, System Performance",,"ansible, bash, automation","lvm, nfs, cifs, storage, disk management",aws,1,True,False
 in-5d305998b9fbd06b,indeed,https://in.indeed.com/viewjob?jk=5d305998b9fbd06b,https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015093/?intlink=us-amex-career-en-us-search,Infrastructure Engineer III,American Express,"KA, India",2026-10-15,fulltime,,,,,,False,,,,,"The Infrastructure Patching & Security Engineering team ensures the security, stability, compliance, and operational resilience of enterprise infrastructure platforms through proactive patch management, vulnerability remediation, security hardening, automation, and continuous improvement.
 
 The team is responsible for maintaining secure and compliant Red Hat Linux, Windows environments by implementing enterprise patching strategies, addressing security vulnerabilities, reducing infrastructure risk, and ensuring adherence to organizational security standards.
@@ -159,8 +61,105 @@ We back you with benefits that support your holistic well-being so you can be an
 American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
 
 Offer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations.",,https://in.indeed.com/cmp/American-Express,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/88d347fa29a01f66134a37c40c9e56a3,https://www.americanexpress.com,"New York, NY","10,000+",more than $10B (USD),"At American Express, we know that with the right backing, people and businesses have the power to progress in incredible ways. Join Team Amex and let's lead the way together.",,,4.1,9704.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=5d305998b9fbd06b,84,Infrastructure Engineer,"Linux, RHEL, Red Hat Enterprise Linux, Red Hat, OS Patching, Kernel Upgrade, Red Hat Satellite, Bash, Shell Scripting, Shell, Ansible, Incident Management","RHEL 7, VMware, VMware vSphere, vSphere, AWS, TCP/IP, TCP IP, DNS, DHCP, Firewall, Firewalls, Networking, DHCP, DNS, YUM, DNF, ServiceNow, ITIL, SLA, Incident Management, Change Management, Vulnerability Management","patching, os patching, kernel upgrade, red hat satellite","ansible, bash, shell scripting, shell, automation","filesystem, storage","aws, vmware, vsphere",0,False,False
-nk-141026024395,naukri,https://www.naukri.com/job-listings-aws-os-linux-support-engineer-bangalore-6-yrs-sigma-allied-services-bengaluru-6-to-11-years-141026024395,,AWS / OS Linux Support Engineer: Bangalore (6+yrs),Sigma Allied Services,"Bengaluru, India",2026-10-14,,,,,,,False,,,,,,,https://www.naukri.com/sigma-allied-services-jobs-careers-728863,https://img.naukimg.com/logo_images/groups/v1/4629227.gif,,,,,,"AWS Cloud Services, Linux System Administration, RHEL Linux, Amazon Ec2, Scripting Languages, Operating systems, Cloud Services, Languages",6-11 Yrs,,,,Hybrid,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-aws-os-linux-support-engineer-bangalore-6-yrs-sigma-allied-services-bengaluru-6-to-11-years-141026024395,55,Linux Support Engineer,Linux,AWS,,,,aws,1,True,False
-li-4478537212,linkedin,https://www.linkedin.com/jobs/view/4478537212,,Unix/Linux Operations Specialist/Unix SA,NTT DATA North America,"Bangalore Urban, Karnataka, India",2026-10-12,,,,,,,False,,,,,,,https://www.linkedin.com/company/ntt-data-americas,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478537212,51,Linux Operations,"Linux, Unix",,,,,,0,True,False
+in-7872d9f6a7a8385a,indeed,https://in.indeed.com/viewjob?jk=7872d9f6a7a8385a,"https://careers.point72.com/CSJobDetail?jobName=linux-support-engineer&jobCode=IVS-0015456&location=Bengaluru,%20India&locale=English&retURL=/CSCareerSearch",Linux Support Engineer,Point72,"KA, India",2026-10-14,,,,,,,False,,,,,"**EXPERIENCE**
+
+Experienced Professionals
+
+**LOCATION**
+
+Bengaluru, India
+
+**FOCUS**
+
+Software & System Engineering
+
+**BUSINESS**
+
+Point72
+
+### **A CAREER WITH POINT72’S TECHNOLOGY TEAM**
+
+As Point72 reimagines the future of investing, our Technology team is constantly evolving our firm’s IT infrastructure and engineering capabilities, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts who experiment and work to discover new ways to harness open-source solutions, modern cloud architectures, and sophisticated Artificial Intelligence (AI) solutions, while embracing enterprise agile methodologies. Our commitment to building and innovating in the AI space provides the framework intended to drive smarter decision making and enhance how we build and operate our platforms and applications.
+
+  
+  
+
+### **What you’ll do**
+
+* Actively monitor the Linux Support team’s incident/request queue, set prioritization, and process tickets in a timely manner
+
+* Perform production releases while adhering to change management guidelines
+
+* Install, configure, and troubleshoot Linux servers and related hardware/software components
+
+* Perform in-depth analysis for post impact resolution, RCA, remedial actions, and problem management
+
+* Manage and troubleshoot AD integrated authentication on Linux servers
+
+* Manage and troubleshoot existing Ansible playbooks used for configuration management across the Linux environment
+
+* Collaborate cross-functionally to monitor system performance, analyze system logs, and proactively address issues
+
+* Create and maintain system documentation including configuration guides, standard operating procedures, and troubleshooting steps
+
+  
+  
+
+### **What’s required**
+
+* 7+ years of experience as a Linux System Administrator in a production environment, with hands-on expertise in Red Hat Enterprise Linux and/or Ubuntu administration, including installation, configuration, performance tuning, troubleshooting, and ongoing support.
+
+* Ability to manage multiple priorities and deadlines in a fast-paced production environment.
+
+* Experience with infrastructure as code, automation, and configuration management concepts, including tools such as Git, Bitbucket, GitHub, and Ansible.
+
+* Proficiency in scripting languages such as Bash or Python for automation, operational support, and task scripting.
+
+* Strong understanding of authentication, privilege management, and integration with Active Directory, including related services such as Kerberos.
+
+* Experience with storage and file-sharing technologies, including local disk management, LVM, network-based storage concepts, HBA/PowerPath, and remote mounts such as CIFS, Samba, and NFS for client and server configurations.
+
+* Working knowledge of networking concepts, protocols, and services, including TCP/IP, DNS, DHCP, and related infrastructure services.
+
+* Familiarity with cloud platforms such as AWS or Azure, as well as AI tooling to support and streamline technical workloads.
+
+* Strong written, verbal, and interpersonal communication skills, with excellent organizational abilities, attention to detail
+
+* Commitment to the highest ethical standards
+
+  
+  
+
+### **We take care of our people**
+
+We invest in our people, their careers, their health, and their well-being. When you work here, we provide:
+
+* Health care benefits
+
+* Maternity, Adoption & related leave policies
+
+* Generous paternity and family care leave policies
+
+* Employee Assistance Program & Mental wellness programs
+
+* Transportation support
+
+* Tuition assistance
+
+  
+  
+
+### **About Point72**
+
+Point72 is a leading global alternative investment firm led by Steven A. Cohen with over $58.5 billion in assets under management (as of July 1, 2026). Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth. For more information, visit www.Point72.com.
+
+  
+
+Job Application Checklist
+
+* Résumé
+* Education background",,https://in.indeed.com/cmp/Point72-7,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/49102f559fe85772c66eda1612eded83,https://www.point72.com,"Stamford, CT","1,001 to 5,000",Decline to state,Point72 is a leading global alternative investment firm led by Steven A. Cohen that invests in multiple asset classes and strategies worldwide.,,,3.6,15.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7872d9f6a7a8385a,76,Linux Support Engineer,"Linux, Red Hat Enterprise Linux, Red Hat, LVM, NFS, CIFS, Disk Management, Bash, Ansible, RCA","AWS, TCP/IP, TCP IP, DNS, DHCP, Networking, Samba, NFS, DHCP, DNS, System Logs, Change Management, Server Configuration, System Performance",,"ansible, bash, automation","lvm, nfs, cifs, storage, disk management",aws,-1,True,False
+nk-151026033281,naukri,https://www.naukri.com/job-listings-hiring-aws-os-linux-support-engineer-6-year-immediate-joiner-sigma-allied-services-bengaluru-6-to-10-years-151026033281,,Hiring_AWS / OS Linux Support Engineer| 6+ Year| Immediate Joiner,Sigma Allied Services,"Bengaluru, India",2026-10-15,,,,,,,False,,,,,,,https://www.naukri.com/sigma-allied-services-jobs-careers-728863,https://img.naukimg.com/logo_images/groups/v1/4629227.gif,,,,,,"Linux Administration, Redhat Linux, RHEL, AWS Cloud, Cloud, AWS, Operating systems, Administration",6-10 Yrs,,,5.0,Hybrid,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-hiring-aws-os-linux-support-engineer-6-year-immediate-joiner-sigma-allied-services-bengaluru-6-to-10-years-151026033281,55,Linux Support Engineer,Linux,AWS,,,,aws,1,True,False
 in-c11e1472fa873c4a,indeed,https://in.indeed.com/viewjob?jk=c11e1472fa873c4a,https://techilaservices.com/careers/6ace2ad494677993fb633f3a,Infrastructure Architect - J0826-0559,Techila Global Services,"KA, India",2026-10-13,fulltime,direct_data,yearly,,3000000.0,INR,False,,,,,"Hybrid Bangalore 12–15 yrs Apply by Nov 12, 2026
 
 **Infrastructure Architect - J0826-0559**
@@ -320,141 +319,12 @@ Four stages, typically completed within **2–3 weeks**. We respect your time �
   ### **Offer**
 
   Formal offer with full compensation breakdown, start date, and onboarding plan.",,https://in.indeed.com/cmp/Techila-Global-Services,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28edd3a858dc07252d15ea8a6e7bb6a5,,,,,,,,4.2,6.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=c11e1472fa873c4a,50,,"Linux, Unix, Bash, Shell, Ansible","VMware, AWS, OCI, GCP, Networking, Nagios, Tar, Commvault, Backup, ServiceNow, ITIL, SLA",patching,"ansible, bash, shell, automation",storage,"aws, oci, gcp, vmware",1,True,False
-in-7c64b6c8e42e7ec6,indeed,https://in.indeed.com/viewjob?jk=7c64b6c8e42e7ec6,https://careers.yash.com/job/Bangalore-Consultant-Linux%2CAWS%2C-Vmware-Job-KA/1363029566/,"Consultant - Linux,AWS, Vmware",YASH Technologies,"KA, India",2026-10-12,,,,,,,False,,,,,"Date: Oct 12, 2026
-
-Job Requisition Id: 65200
-
-Location:
-Bangalore, KA, IN Pune, IN Pune, MH, IN Hyderabad, IN Hyderabad, TG, IN, 500081 Hyderabad, TG, IN Bangalore, KA, IN
-
-YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
-
-  
-
-At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.
-
-  
-
-**We are looking forward to hire Linux Professionals in the following areas :**
-
-  
-
-**Experience**
---------------
-
-3-5 Years
-
-**Job Description**
--------------------
-
-ROLE AND RESPONSIBILITIES:
-  
-
-* Provisioning: Deploy and configure Linux servers and VMware virtual machines.
-* Monitoring: Track system health daily using AWS CloudWatch and vCenter.
-* Troubleshooting: Resolve basic OS alerts, CPU spikes, and disk space issues.
-* Maintenance: Apply regular patches to Linux systems and VMware templates.
-* Automation: Write complex scripts to automate repetitive infrastructure deployment tasks.
-* Optimization: Analyze CloudWatch data to right-size EC2 instances and reduce costs.
-* Escalation: Act as the technical escalation point for junior team members.
-
-Knowledge on AWS compute, Networking, Storage & Security
-
-QUALIFICATIONS AND EDUCATION REQUIREMENTS:
-  
-
-* Education: Bachelor’s degree.
-* Minimum 4 years in a hybrid infrastructure administration role.
-* Certifications: AWS Certified SysOps Administrator, VMware Certified Professional (VCP).
-* ITIL v4 Foundation
-* Candidates who are confident of clearing extensive Background verification till previous Organization only shall apply
-
-PREFERRED SKILLS
-  
-
-* Infrastructure as Code: Basic exposure to Terraform or AWS CloudFormation.
-* Configuration Management: Familiarity with Ansible playbook
-* Containers: Experience managing Docker containers or Kubernetes clusters.
-
-BEHAVIORAL ATTRIBUTES:
-  
-
-* Problem Solver: Demonstrates strong analytical skills during complex system outages.
-* Ownership: Takes full accountability for assigned infrastructure projects.
-* Adaptability: Thrives in fast-paced environments with shifting priorities.
-
-**Required Technical/ Functional Competencies**
------------------------------------------------
-
-PRIMARY SKILLS:
-  
-
-* Linux: Advanced troubleshooting, performance tuning, and kernel parameter optimization.
-* VMware: Managing vSAN, High Availability (HA), Distributed Resource Scheduler (DRS).
-* AWS: Designing infrastructure using Transit Gateways, RDS, and Auto Scaling.
-* AWS CloudWatch: Implementing custom metrics, CloudWatch Logs Insights, and automated actions.
-* Fluent in English, in both oral and written communication
-* Willingness to do 24x7 Rotational Shift, ability to working from office is preferred, location will be city with Yash Office.
-
-DESIRABLE SKILLS:
-  
-
-* Hybrid Cloud: Managing connectivity between on-premises VMware environments and AWS.
-* Security: Implementing IAM policies, security groups, and Linux hardening guidelines.
-
-**Required Behavioral Competencies**
-------------------------------------
-
-**Accountability:**
-
-* Takes ownership for and ensures accuracy of own work, meets deadlines, and asks questions about possible gaps to ensure clarity of ownership.
-
-**Agility:**
-
-* Demonstrates a willingness to accept and embrace differing ideas or perceptions which are beneficial to the organization.
-
-**Collaboration:**
-
-* Participates in team activities and reaches out to others in team to achieve common goals.
-
-**Customer Focus:**
-
-* Displays awareness of customers stated needs and gives priority to meeting and exceeding customer expectations at or above expected quality within stipulated time.
-
-**Communication:**
-
-* Effectively communicates in written and oral form, well-organized thoughts to others. Speaks openly and honestly with all employees.
-
-**Drives Results:**
-
-* Demonstrates a ""can do"" attitude and is willing to stretch self to achieve and exceed defined goals/targets.
-
-**Certifications**
-------------------
-
-Mandatory: CA, AZ104, MCSA, Business Intelligence Development Certification, Microsoft Certified Azure AI, Azure Data & Azure Administrator; Desirable: OCP, CCP/Yash defined course, Administration level Certification of any Storage Tool/Backup Tool
-
-Mandatory: ITIL V4 Foundation
-
-NCA - Nutanix Certified Associate
-
-At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.
-
-  
-
-**Our Hyperlearning workplace is grounded upon four principles**
-
-* Flexible work arrangements, Free spirit, and emotional positivity
-* Agile self-determination, trust, transparency, and open collaboration
-* All Support needed for the realization of business goals,
-* Stable employment with a great atmosphere and ethical corporate culture",,https://in.indeed.com/cmp/Yash-Technologies-9,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0ad9bce84e78e99ae1d50d068b177f39,https://www.yash.com,"East Moline, IL","1,001 to 5,000",$100M to $500M (USD),,,,3.9,236.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7c64b6c8e42e7ec6,49,,"Linux, Ansible","VMware, AWS, OCI, Networking, Tar, Backup, ITIL, High Availability",,"ansible, automation",storage,"aws, oci, vmware",0,True,False
-li-4478479480,linkedin,https://www.linkedin.com/jobs/view/4478479480,,Linux System Administrator,"Delta System & Software, Inc.","Hyderabad, Telangana, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/delta-ssi,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478479480,48,Linux System Administrator,Linux,,,,,,0,True,False
-li-4478174884,linkedin,https://www.linkedin.com/jobs/view/4478174884,,Senior Linux Administrator,NVIDIA,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/nvidia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478174884,48,Linux Administrator,Linux,,,,,,0,True,False
 li-4449815121,linkedin,https://www.linkedin.com/jobs/view/4449815121,,Linux System Administrator (IT Infrastructure & Operations),Analog Devices,Greater Bengaluru Area,2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/analog-devices,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4449815121,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4478466096,linkedin,https://www.linkedin.com/jobs/view/4478466096,,Linux System Administrator,RailsCarma,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://in.linkedin.com/company/railscarma,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478466096,48,Linux System Administrator,Linux,,,,,,0,True,False
 li-4479542801,linkedin,https://www.linkedin.com/jobs/view/4479542801,,Linux Support Engineer,Point72,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/point72-asset-management-l-p-,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479542801,48,Linux Support Engineer,Linux,,,,,,0,True,False
-nk-141026034138,naukri,https://www.naukri.com/job-listings-linux-administrator-devsecops-engineer-quess-it-solutions-bengaluru-6-to-9-years-141026034138,,Linux Administrator / DevSecOps Engineer,Quess IT Solutions,"Bengaluru, India",2026-10-14,,direct_data,yearly,500000.0,1400000.0,INR,False,,,,,,,https://www.naukri.com/quess-it-solutions-jobs-careers-191185,https://img.naukimg.com/logo_images/groups/v1/3995988.gif,,,,,,"Ansible, Ubuntu, Linux Administration, Docker, Patch Management, TLS, Bash, SSL",6-9 Yrs,,,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-devsecops-engineer-quess-it-solutions-bengaluru-6-to-9-years-141026034138,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-141026034436,naukri,https://www.naukri.com/job-listings-linux-administrator-devsecops-engineer-quess-it-solutions-bengaluru-5-to-10-years-141026034436,,Linux Administrator / DevSecOps Engineer,Quess IT Solutions,"Bengaluru, India",2026-10-14,,direct_data,yearly,500000.0,1500000.0,INR,False,,,,,,,https://www.naukri.com/quess-it-solutions-jobs-careers-191185,https://img.naukimg.com/logo_images/groups/v1/3995988.gif,,,,,,"Linux, Docker, Ansible, Kubernetes, Ubuntu, Linux Administration, Patch Management, TL",5-10 Yrs,,,3.0,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-devsecops-engineer-quess-it-solutions-bengaluru-5-to-10-years-141026034436,48,Linux Administrator,Linux,,,,,,0,True,False
-nk-141026034680,naukri,https://www.naukri.com/job-listings-linux-administrator-devsecops-engineer-quess-it-solutions-bengaluru-6-to-9-years-141026034680,,Linux Administrator / DevSecOps Engineer,Quess IT Solutions,"Bengaluru, India",2026-10-14,,direct_data,yearly,500000.0,1400000.0,INR,False,,,,,,,https://www.naukri.com/quess-it-solutions-jobs-careers-191185,https://img.naukimg.com/logo_images/groups/v1/3995988.gif,,,,,,"Docker, Linux, Ansible, Kubernetes, Ubuntu, Linux Administration, Patch Management, TLS",6-9 Yrs,,,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-devsecops-engineer-quess-it-solutions-bengaluru-6-to-9-years-141026034680,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4478479480,linkedin,https://www.linkedin.com/jobs/view/4478479480,,Linux System Administrator,"Delta System & Software, Inc.","Hyderabad, Telangana, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/delta-ssi,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478479480,48,Linux System Administrator,Linux,,,,,,0,True,False
+nk-161026009224,naukri,https://www.naukri.com/job-listings-urgent-hiring-for-linux-server-administrator-hyderabad-sb-secure-data-centers-india-hyderabad-2-to-4-years-161026009224,,Walk-in || Urgent Hiring For Linux / Server Administrator | Hyderabad,SB Secure Data Centers India,"Hyderabad, India",2026-10-16,,direct_data,yearly,350000.0,650000.0,INR,False,,,,,,,https://www.naukri.com/sb-secure-data-centers-india-jobs-careers-5323300,https://img.naukimg.com/logo_images/groups/v1/8313745.gif,,,,,,"Windows administration, Linux troubleshooting, Server support, Ubuntu, KVM, Linux, NFS, Windows System Administration",2-4 Yrs,1.8,13.0,3.0,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-urgent-hiring-for-linux-server-administrator-hyderabad-sb-secure-data-centers-india-hyderabad-2-to-4-years-161026009224,48,Linux Server Administrator,Linux,,,,,,0,True,False
+li-4478174884,linkedin,https://www.linkedin.com/jobs/view/4478174884,,Senior Linux Administrator,NVIDIA,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/nvidia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478174884,48,Linux Administrator,Linux,,,,,,0,True,False
 in-d3464d44ae69a731,indeed,https://in.indeed.com/viewjob?jk=d3464d44ae69a731,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Linux-Administrator_JR2026778-1,Senior Linux Administrator,NVIDIA,"KA, India",2026-10-13,fulltime,,,,,,False,,,,,"NVIDIA is looking for an exceptional engineer to grow and thrive alongside our Infrastructure team that designs, evaluates, and optimizes the compute inrastructure powering NVIDIA's next-generation silicon design and AI
 
 workloads.You will own the operational health, efficiency and observability of a large Linux compute farm serving NVIDIA's VLSI design teams  
@@ -476,6 +346,7 @@ workloads.You will own the operational health, efficiency and observability of a
 * Strong NFS and distributed filesystem troubleshooting: metadata versus data path, client behaviour, mount and latency issues.
 * Hands-on experience building observability - time-series metrics, log and telemetry pipelines, and dashboards (Prometheus/Grafana, Elastic, or equivalent) - plus strong Python for analysis and automation.
 * Familiarity with batch schedulers (LSF, Slurm, or equivalent) and job resource accounting, and a genuine appetite for operational work. Semiconductor/EDA or HPC background is a plus.",,https://in.indeed.com/cmp/Nvidia,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2996d44d9185b4c723f9f5f388bf1d1,http://www.nvidia.com,"Santa Clara, CA","10,000+",$5B to $10B (USD),,,,4.2,324.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=d3464d44ae69a731,46,Linux Administrator,"Linux, NFS, System Troubleshooting","NFS, Grafana, Memory Management, Infrastructure Operations",,automation,"filesystem, nfs",,-1,False,False
-nk-141026036560,naukri,https://www.naukri.com/job-listings-devops-cloud-infrastructure-engineer-ramxora-private-limited-ramxora-ai-bengaluru-2-to-3-years-141026036560,,Devops& Cloud infrastructure Engineer,Ramxora Private Limited (Ramxora.Ai),"Bengaluru, India",2026-10-14,,,,,,,False,,,,,,,https://www.naukri.com/ramxora-ai-jobs-careers-5953782,https://img.naukimg.com/logo_images/groups/v1/12536881.gif,,,,,,"Docker, Site Reliability Engineering, AWS, Cloud Infrastructure, Kubernetes, Cloud Security, Networking, Devops",2-3 Yrs,,,3.0,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-devops-cloud-infrastructure-engineer-ramxora-private-limited-ramxora-ai-bengaluru-2-to-3-years-141026036560,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
-li-4470467246,linkedin,https://www.linkedin.com/jobs/view/4470467246,,Senior Principal Infrastructure Engineer,Mphasis,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://in.linkedin.com/company/mphasis,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4470467246,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4478452879,linkedin,https://www.linkedin.com/jobs/view/4478452879,,Assistant Manager- Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-10-14,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux System Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4478452879,45,Cloud Operations,,,,,,,0,True,False
+li-4477079563,linkedin,https://www.linkedin.com/jobs/view/4477079563,,Lead IT Infrastructure Engineer_104856,MyCareernet,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,False,,,,,,,https://in.linkedin.com/company/mycareernet,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4477079563,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
+li-4479124186,linkedin,https://www.linkedin.com/jobs/view/4479124186,,Infrastructure Engineer Remote,DigitalTolk,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,True,,,,,,,https://se.linkedin.com/company/digitaltolk,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4479124186,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4479119035,linkedin,https://www.linkedin.com/jobs/view/4479119035,,Infrastructure Engineer III,American Express,"Bengaluru, Karnataka, India",2026-10-15,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-express,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479119035,45,Infrastructure Engineer,,,,,,,0,True,False
+nk-161026014681,naukri,https://www.naukri.com/job-listings-sr-cloud-infrastructure-engineer-tekskills-hyderabad-7-to-12-years-161026014681,,Sr Cloud Infrastructure Engineer,Tekskills,"Hyderabad, India",2026-10-16,,,,,,,False,,,,,,,https://www.naukri.com/tekskills-jobs-careers-3852722,https://img.naukimg.com/logo_images/groups/v1/2062642.gif,,,,,,"Microsoft Azure, Architecture, Cloud, AWS, Infrastructure, Iaas, Cloud Operations, Security",7-12 Yrs,,,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-sr-cloud-infrastructure-engineer-tekskills-hyderabad-7-to-12-years-161026014681,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
