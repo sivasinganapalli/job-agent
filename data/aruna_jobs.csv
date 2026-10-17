@@ -159,194 +159,76 @@ Job Application Checklist
 
 * Résumé
 * Education background",,https://in.indeed.com/cmp/Point72-7,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/49102f559fe85772c66eda1612eded83,https://www.point72.com,"Stamford, CT","1,001 to 5,000",Decline to state,Point72 is a leading global alternative investment firm led by Steven A. Cohen that invests in multiple asset classes and strategies worldwide.,,,3.6,15.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7872d9f6a7a8385a,76,Linux Support Engineer,"Linux, Red Hat Enterprise Linux, Red Hat, LVM, NFS, CIFS, Disk Management, Bash, Ansible, RCA","AWS, TCP/IP, TCP IP, DNS, DHCP, Networking, Samba, NFS, DHCP, DNS, System Logs, Change Management, Server Configuration, System Performance",,"ansible, bash, automation","lvm, nfs, cifs, storage, disk management",aws,-1,True,False
-nk-151026033281,naukri,https://www.naukri.com/job-listings-hiring-aws-os-linux-support-engineer-6-year-immediate-joiner-sigma-allied-services-bengaluru-6-to-10-years-151026033281,,Hiring_AWS / OS Linux Support Engineer| 6+ Year| Immediate Joiner,Sigma Allied Services,"Bengaluru, India",2026-10-15,,,,,,,False,,,,,,,https://www.naukri.com/sigma-allied-services-jobs-careers-728863,https://img.naukimg.com/logo_images/groups/v1/4629227.gif,,,,,,"Linux Administration, Redhat Linux, RHEL, AWS Cloud, Cloud, AWS, Operating systems, Administration",6-10 Yrs,,,5.0,Hybrid,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-hiring-aws-os-linux-support-engineer-6-year-immediate-joiner-sigma-allied-services-bengaluru-6-to-10-years-151026033281,55,Linux Support Engineer,Linux,AWS,,,,aws,1,True,False
-in-c11e1472fa873c4a,indeed,https://in.indeed.com/viewjob?jk=c11e1472fa873c4a,https://techilaservices.com/careers/6ace2ad494677993fb633f3a,Infrastructure Architect - J0826-0559,Techila Global Services,"KA, India",2026-10-13,fulltime,direct_data,yearly,,3000000.0,INR,False,,,,,"Hybrid Bangalore 12–15 yrs Apply by Nov 12, 2026
-
-**Infrastructure Architect - J0826-0559**
-=========================================
-
-Join Techila's team of Salesforce experts. We build senior-led transformations that deliver measurable outcomes for clients worldwide.
-
-Experience
-
-12–15 yrs
-
-Employment Type
-
-Full-time
-
-Openings
-
-1 position
-
-Apply By
-
-Nov 12, 2026
-
-**Required Skills**
--------------------
-
-Windows & Linux/Unix serversVMwareDatabases
-
-**Job Description**
--------------------
-
-Hello
-
-Exp Level : 12+ yrs
-
-Location : Bangalore
-
-Notice period : Immediate to 30days Max
-
-Budget : Max 30 LPA
-
-Employment : FTE
-
-Job Description :
-
-We are seeking an experienced Infrastructure Architect to design, plan, and drive automation strategies across hybrid infrastructure environments. The ideal candidate holds architect-level depth in at least one public cloud platform (Azure, AWS, or GCP), combines deep classical infrastructure expertise (compute, storage, network, database) with strong DevOps, identity, and endpoint management skills, and brings hands-on strength in Terraform/Terragrunt-driven automation. They will be responsible for architecting scalable, repeatable, and secure automation frameworks across the enterprise IT landscape.
-
-Key Responsibilities
-
-* Design end-to-end automation architecture spanning provisioning, configuration management, patching, monitoring, and lifecycle operations across on-prem and cloud infrastructure.
-
-* Lead automation strategy and roadmap using Azure DevOps (pipelines, repos, boards, artifacts) as the primary CI/CD and orchestration backbone.
-
-* Architect and standardize automation for classical infrastructure domains:
-
-* Windows & Linux/Unix servers – build, patch, configuration automation (PowerShell DSC, Ansible, etc.)
-
-* VMware – VM provisioning, templates, resource pool automation (vRA/vRO, Terraform, PowerCLI)
-
-* Databases – automated provisioning, backup validation, patching orchestration
-
-* Storage & Backup – automated backup policy enforcement, capacity/DR automation
-
-* Network – automated configuration, compliance checks, network-as-code practices
-
-* Monitoring – automated alerting, self-healing runbooks, integration with ITSM/ticketing
-
-* Design and govern Azure Identity & Access Management (IAM): role-based access control (RBAC), Conditional Access, Privileged Identity Management (PIM), automated access provisioning/deprovisioning, and identity governance across hybrid environments.
-
-* Architect and manage SCCM (Microsoft Configuration Manager) environments for OS deployment, patch management, software distribution, and endpoint compliance automation.
-
-* Hold architect-level ownership of at least one public cloud platform (Azure, AWS, or GCP) — landing zone design, account/subscription structure, networking, security baselines — and integrate multi-cloud DevOps practices into a unified automation framework.
-
-* Define and enforce Infrastructure-as-Code (IaC) standards with strong hands-on depth in Terraform and Terragrunt (module design, remote state management, workspace/environment isolation, DRY variable hierarchies) alongside ARM/Bicep and Ansible; own IaC governance across teams.
-
-* Partner with delivery, operations, and security teams to translate manual/legacy processes into automated, auditable workflows.
-
-* Own architecture documentation, automation design specs, and implementation planning (phased rollout, risk assessment, rollback strategy).
-
-* Mentor engineering teams on automation best practices and drive adoption across the infra org.
-
-Required Skills & Experience
-
-* 8+ years in infrastructure engineering/architecture roles, with 3+ years focused on automation/DevOps.
-
-* Hands-on expertise with Azure DevOps (pipelines, YAML, release management).
-
-* Strong background across classic infrastructure: Windows Server, Linux/Unix, VMware virtualization, enterprise databases (SQL/Oracle or similar), storage & backup platforms (NetApp, Veeam, Commvault, etc.), and enterprise networking.
-
-* Strong hands-on experience with Azure IAM — RBAC, Conditional Access, PIM, Entra ID (Azure AD) automation and governance.
-
-* Proven experience with SCCM for endpoint management, patching, and OS/application deployment automation.
-
-* Experience with monitoring/observability tools (SCOM, Nagios, Zabbix, Datadog, or similar) and integrating automated remediation.
-
-* Architect-level expertise in Azure, AWS, or GCP — able to design landing zones, account/subscription hierarchies, network topology, and security/governance baselines, not just automate within an existing environment.
-
-* Working knowledge of at least one additional public cloud beyond the primary and cloud-native DevOps tooling.
-
-* Proficiency in scripting/automation languages: PowerShell, Python, Bash.
-
-* Strong, hands-on IaC experience with Terraform and Terragrunt (module authoring, remote state, environment/workspace isolation, DRY configuration patterns) as the core automation toolchain, plus ARM/Bicep templates and Ansible/Chef/Puppet.
-
-* Proven ability to produce automation design documents and implementation/rollout plans for enterprise environments.
-
-* Excellent stakeholder communication skills — able to present automation strategy to both technical teams and leadership.
-
-Preferred / Nice-to-Have
-
-* Certifications: Azure Solutions Architect Expert (AZ-305) or AWS Certified Solutions Architect (Professional) or Google Professional Cloud Architect; HashiCorp Certified: Terraform Associate; Azure Identity & Access Administrator (SC-300); VMware VCP; ITIL Foundation.
-
-* Experience in regulated or large enterprise environments (banking, healthcare, government).
-
-* Exposure to ITSM platforms (ServiceNow, BMC Helix) and CMDB-driven automation.
-
-### **At a Glance**
-
-Work ModeHybrid
-
-EmploymentFull-time
-
-Experience12–15 yrs
-
-Openings1
-
-LocationBangalore
-
-DeadlineNov 12, 2026
-
-[ Hiring process ]
-
-**What to expect**
-------------------
-
-Four stages, typically completed within **2–3 weeks**. We respect your time — every stage has a clear purpose and timely feedback.
-
-* STEP 0130 min
-
-  ### **Screening Call**
-
-  Introductory conversation with our talent team to understand your background and motivations.
-
-* STEP 0260–90 min
-
-  ### **Technical Round**
-
-  Live problem-solving with a senior architect on Salesforce design, integrations, or domain depth.
-
-* STEP 0345 min
-
-  ### **Culture Fit**
-
-  Conversation with practice leadership covering working style, ownership, and how you collaborate.
-
-* STEP 04Within 5 days
-
-  ### **Offer**
-
-  Formal offer with full compensation breakdown, start date, and onboarding plan.",,https://in.indeed.com/cmp/Techila-Global-Services,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28edd3a858dc07252d15ea8a6e7bb6a5,,,,,,,,4.2,6.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=c11e1472fa873c4a,50,,"Linux, Unix, Bash, Shell, Ansible","VMware, AWS, OCI, GCP, Networking, Nagios, Tar, Commvault, Backup, ServiceNow, ITIL, SLA",patching,"ansible, bash, shell, automation",storage,"aws, oci, gcp, vmware",1,True,False
-li-4449815121,linkedin,https://www.linkedin.com/jobs/view/4449815121,,Linux System Administrator (IT Infrastructure & Operations),Analog Devices,Greater Bengaluru Area,2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/analog-devices,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4449815121,48,Linux System Administrator,Linux,,,,,,0,True,False
-li-4478466096,linkedin,https://www.linkedin.com/jobs/view/4478466096,,Linux System Administrator,RailsCarma,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://in.linkedin.com/company/railscarma,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478466096,48,Linux System Administrator,Linux,,,,,,0,True,False
-li-4479542801,linkedin,https://www.linkedin.com/jobs/view/4479542801,,Linux Support Engineer,Point72,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/point72-asset-management-l-p-,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479542801,48,Linux Support Engineer,Linux,,,,,,0,True,False
-li-4478479480,linkedin,https://www.linkedin.com/jobs/view/4478479480,,Linux System Administrator,"Delta System & Software, Inc.","Hyderabad, Telangana, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/delta-ssi,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478479480,48,Linux System Administrator,Linux,,,,,,0,True,False
-nk-161026009224,naukri,https://www.naukri.com/job-listings-urgent-hiring-for-linux-server-administrator-hyderabad-sb-secure-data-centers-india-hyderabad-2-to-4-years-161026009224,,Walk-in || Urgent Hiring For Linux / Server Administrator | Hyderabad,SB Secure Data Centers India,"Hyderabad, India",2026-10-16,,direct_data,yearly,350000.0,650000.0,INR,False,,,,,,,https://www.naukri.com/sb-secure-data-centers-india-jobs-careers-5323300,https://img.naukimg.com/logo_images/groups/v1/8313745.gif,,,,,,"Windows administration, Linux troubleshooting, Server support, Ubuntu, KVM, Linux, NFS, Windows System Administration",2-4 Yrs,1.8,13.0,3.0,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-urgent-hiring-for-linux-server-administrator-hyderabad-sb-secure-data-centers-india-hyderabad-2-to-4-years-161026009224,48,Linux Server Administrator,Linux,,,,,,0,True,False
-li-4478174884,linkedin,https://www.linkedin.com/jobs/view/4478174884,,Senior Linux Administrator,NVIDIA,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/nvidia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478174884,48,Linux Administrator,Linux,,,,,,0,True,False
-in-d3464d44ae69a731,indeed,https://in.indeed.com/viewjob?jk=d3464d44ae69a731,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Linux-Administrator_JR2026778-1,Senior Linux Administrator,NVIDIA,"KA, India",2026-10-13,fulltime,,,,,,False,,,,,"NVIDIA is looking for an exceptional engineer to grow and thrive alongside our Infrastructure team that designs, evaluates, and optimizes the compute inrastructure powering NVIDIA's next-generation silicon design and AI
-
-workloads.You will own the operational health, efficiency and observability of a large Linux compute farm serving NVIDIA's VLSI design teams  
-  
-**What you'll be doing:**
-
-* In this position, you will own the operational health, efficiency and observability of a large Linux compute farm serving NVIDIA's VLSI design teams, and be the person who can say where the time and the capacity are actually going.
-* Profile and debug at the system level - kernel, filesystem, memory and I/O behaviour - when workloads are slow, and turn findings into fixes rather than tickets.
-* Drive compute efficiency: memory request-versus-usage accuracy, CPU waste from idle and over-provisioned jobs, and the prediction models behind resource requests.
-* Build the observability layer for the farm - telemetry pipelines, metrics and dashboards that make capacity, utilisation and job behaviour visible to engineers and to leadership - and own licence monitoring and expiry alerting across the EDA tool estate.
-* This is a hands-on technical role. Day-to-day farm operations and live triage are a core part of it, and you will work directly with the heaviest users on their workload behaviour, since most efficiency gains come from a small number of workflows.
-
-**What we need to see:**
-
-* B.E./B.Tech/M.Tech in Computer Science, Electrical Engineering, or equivalent experience.
-* 8+ years in Linux systems administration or infrastructure operations at scale.
-* Deep Linux systems and kernel-level expertise - comfortable with perf, eBPF/bpftrace, strace, cgroups, NUMA, memory management, scheduler behaviour and I/O subsystems, and able to use them to find root cause rather than guess at it.
-* Demonstrated experience diagnosing and fixing performance problems on large multi-user compute systems.
-* Strong NFS and distributed filesystem troubleshooting: metadata versus data path, client behaviour, mount and latency issues.
-* Hands-on experience building observability - time-series metrics, log and telemetry pipelines, and dashboards (Prometheus/Grafana, Elastic, or equivalent) - plus strong Python for analysis and automation.
-* Familiarity with batch schedulers (LSF, Slurm, or equivalent) and job resource accounting, and a genuine appetite for operational work. Semiconductor/EDA or HPC background is a plus.",,https://in.indeed.com/cmp/Nvidia,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2996d44d9185b4c723f9f5f388bf1d1,http://www.nvidia.com,"Santa Clara, CA","10,000+",$5B to $10B (USD),,,,4.2,324.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=d3464d44ae69a731,46,Linux Administrator,"Linux, NFS, System Troubleshooting","NFS, Grafana, Memory Management, Infrastructure Operations",,automation,"filesystem, nfs",,-1,False,False
-li-4477079563,linkedin,https://www.linkedin.com/jobs/view/4477079563,,Lead IT Infrastructure Engineer_104856,MyCareernet,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,False,,,,,,,https://in.linkedin.com/company/mycareernet,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4477079563,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
+in-511467c950a31f33,indeed,https://in.indeed.com/viewjob?jk=511467c950a31f33,https://anovia.breezy.hr/p/4e85e20f23a4-infrastructure-specialist-system-administration?source=indeed,"Infrastructure Specialist, System Administration",Anovia,"KA, India",2026-10-17,fulltime,direct_data,yearly,800000.0,1040000.0,INR,True,,,,,"Anovia (formerly Innovatia Technical Services) is an industry-leading technology outsourcing support provider with expertise in the telecommunications industry. Operating for over 20 years, we specialize in workflow and knowledge processes, as well as technical support, helpdesk and multilingual support services. With over 200 professional experts across the globe, we service some of the world's most successful Fortune 500 and Fortune 1000 companies.
+
+The Infrastructure Specialist, System Administration will be responsible for providing advanced technical support and leading enterprise server infrastructure operations in a large global client environment. The role requires strong hands-on experience in Linux, Windows Server, or IBM AIX administration, along with expertise in server migrations, virtualization, cloud infrastructure, high availability, clustering, automation, and disaster recovery. The candidate will act as an L3 escalation point, lead complex incident resolution, drive root-cause analysis, and mentor junior administrators.
+
+**Responsibilities**
+
+* Act as the L3 escalation point and technical lead for Linux, Windows or AIX server environments.
+* Lead server migrations, OS upgrades and data centre or cloud transitions, including assessment, planning, execution and validation.
+* Design and implement high availability and clustering solutions, such as Pacemaker, Windows Failover Clustering or PowerHA.
+* Own major incidents end to end, lead root-cause analysis and drive permanent fixes.
+* Define and enforce standards for patching, hardening, monitoring and backup across the estate.
+* Build automation frameworks with Ansible, Terraform, PowerShell or Python to reduce manual effort.
+* Review and approve technical changes, and represent the team in change advisory meetings.
+* Mentor L1/L2 administrators and review their work.
+* Communicate clearly with client stakeholders on incidents, risks and service improvement plans.
+* Maintain architecture documentation, runbooks and knowledge base articles.
+
+**Skills required**
+
+* 6+ years of hands-on administration of Linux (RHEL), Windows Server or IBM AIX in large production environments.
+* Proven experience leading OS migrations, upgrades or virtualization and cloud transitions.
+* Strong expertise in VMware vSphere and/or Azure or AWS infrastructure.
+* Expertise in high availability, clustering and disaster recovery.
+* Advanced scripting and automation using Ansible plus Shell, PowerShell or Python.
+* Strong knowledge of storage (SAN/NAS, LVM), networking fundamentals, DNS, Active Directory or LDAP, and security hardening.
+* Strong ITIL practices and experience owning major incidents and root-cause analysis.
+* Excellent written and spoken communication skills for client-facing work.
+
+**Qualifications**
+
+* 8 to 12 years of total experience, with at least 6 years of relevant system administration experience.
+* Bachelor's degree in Engineering, Computer Science, IT or an equivalent discipline.
+* Preferred certifications: RHCSA or RHCE, Microsoft Certified (Windows Server or Azure Administrator), VMware VCP, AWS SysOps Administrator, and ITIL Foundation.
+* Experience supporting large-scale enterprise production environments.
+* Willingness to support rotational shifts, on-call escalation and weekend change windows when required.
+* Ability to work from the client office from day one.
+* Strong problem-solving, analytical and communication skills.
+
+**Good to have**
+
+* Terraform and infrastructure-as-code pipelines.
+* Kubernetes or Red Hat OpenShift administration.
+* Middleware administration (WebSphere, WebLogic, JBoss).
+* IBM Power Systems: PowerVM, VIOS, NIM and LPAR management.
+* Workload automation tools such as Control-M.
+
+**Benefits at Anovia**
+
+* Comprehensive Health Insurance policy
+* Employee Wellness Program with focus on mental health
+* Robust reward and recognition programs
+* Company incentive programs offered.
+* Attractive leave policy: Holiday Leave, Maternity Leave, Paternity Leave, Birthday leave, Bereavement Leave and Paid Leave for personal time off
+* Ample growth and learning opportunities.
+* Remote work opportunities
+* Focus on work/life balance.
+* Immigration Program supporting immigration to Canada for eligible employees.
+
+We thank all candidates for their interest; however, only those selected for an interview will be contacted.
+
+Anovia is an equal opportunity employer.",,https://in.indeed.com/cmp/Anovia-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1e532583c151a18669ad74b8e7f39f0d,https://anovia.com/,"1 Germain Street, Suite 200
+Saint John, New Brunswick, E2L 4V1
+Canada",201 to 500,,"Anovia is the IT partner enterprises rely on, delivering technical solutions built on deep expertise, global reach, and a people-first approach across a multicultural, worldwide workforce.",,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=511467c950a31f33,56,,"Linux, RHEL, Red Hat, LVM, Shell, Ansible, Root Cause Analysis","VMware, VMware vSphere, vSphere, AWS, DNS, Networking, DNS, iLO, Backup, Recovery, Disaster Recovery, ITIL, L3 Escalation, Server Migration, Infrastructure Operations, High Availability",patching,"ansible, shell, automation","lvm, storage","aws, vmware, vsphere",1,True,False
+li-4449815121,linkedin,https://www.linkedin.com/jobs/view/4449815121,,Linux System Administrator (IT Infrastructure & Operations),Analog Devices,Greater Bengaluru Area,2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/analog-devices,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4449815121,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4478479480,linkedin,https://www.linkedin.com/jobs/view/4478479480,,Linux System Administrator,"Delta System & Software, Inc.","Hyderabad, Telangana, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/delta-ssi,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478479480,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4479542801,linkedin,https://www.linkedin.com/jobs/view/4479542801,,Linux Support Engineer,Point72,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/point72-asset-management-l-p-,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479542801,48,Linux Support Engineer,Linux,,,,,,0,True,False
+li-4476934255,linkedin,https://www.linkedin.com/jobs/view/4476934255,,Senior AWS Cloud Infrastructure Engineer (L3),Techwave,"Hyderabad, Telangana, India",2026-10-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/techwave-consulting-inc,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4476934255,47,"Infrastructure Engineer, Cloud Infrastructure Engineer",,AWS,,,,aws,0,True,False
 li-4479124186,linkedin,https://www.linkedin.com/jobs/view/4479124186,,Infrastructure Engineer Remote,DigitalTolk,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,True,,,,,,,https://se.linkedin.com/company/digitaltolk,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4479124186,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4479119035,linkedin,https://www.linkedin.com/jobs/view/4479119035,,Infrastructure Engineer III,American Express,"Bengaluru, Karnataka, India",2026-10-15,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-express,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479119035,45,Infrastructure Engineer,,,,,,,0,True,False
-nk-161026014681,naukri,https://www.naukri.com/job-listings-sr-cloud-infrastructure-engineer-tekskills-hyderabad-7-to-12-years-161026014681,,Sr Cloud Infrastructure Engineer,Tekskills,"Hyderabad, India",2026-10-16,,,,,,,False,,,,,,,https://www.naukri.com/tekskills-jobs-careers-3852722,https://img.naukimg.com/logo_images/groups/v1/2062642.gif,,,,,,"Microsoft Azure, Architecture, Cloud, AWS, Infrastructure, Iaas, Cloud Operations, Security",7-12 Yrs,,,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-sr-cloud-infrastructure-engineer-tekskills-hyderabad-7-to-12-years-161026014681,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
+li-4477079563,linkedin,https://www.linkedin.com/jobs/view/4477079563,,Lead IT Infrastructure Engineer_104856,MyCareernet,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,False,,,,,,,https://in.linkedin.com/company/mycareernet,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4477079563,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
+li-4479367051,linkedin,https://www.linkedin.com/jobs/view/4479367051,,Infrastructure Engineer I,American Express,"Bengaluru, Karnataka, India",2026-10-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-express,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479367051,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4479119035,linkedin,https://www.linkedin.com/jobs/view/4479119035,,Infrastructure Engineer III,American Express,"Bengaluru, Karnataka, India",2026-10-15,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-express,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479119035,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4470467246,linkedin,https://www.linkedin.com/jobs/view/4470467246,,Senior Principal Infrastructure Engineer,Mphasis,"Bengaluru, Karnataka, India",2026-10-14,,,,,,,False,,,,,,,https://in.linkedin.com/company/mphasis,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4470467246,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4478452879,linkedin,https://www.linkedin.com/jobs/view/4478452879,,Assistant Manager- Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-10-14,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux System Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4478452879,45,Cloud Operations,,,,,,,0,True,False
