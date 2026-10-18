@@ -144,6 +144,13 @@ def generate_digest(jobs):
                 )
             )
 
+            ai_fit = safe(job.get("ai_fit", ""))
+            ai_priority = safe(job.get("ai_priority", ""))
+            ai_role_alignment = safe(job.get("ai_role_alignment", ""))
+            ai_experience_fit = safe(job.get("ai_experience_fit", ""))
+            ai_summary = safe(job.get("ai_summary", ""))
+            ai_concerns = safe(job.get("ai_concerns", ""))
+
             url = safe(
                 job.get(
                     "job_url",
@@ -193,11 +200,31 @@ def generate_digest(jobs):
                 </p>
 
                 <p>
-                    <a
-                        href="{url}"
-                        target="_blank"
-                        style="
-                            display: inline-block;
+                    <strong>AI Fit:</strong>
+                    {ai_fit or 'N/A'}
+                </p>
+
+                <p>
+                    <strong>AI Priority:</strong>
+                    {ai_priority or 'N/A'}
+                </p>
+
+                <p>
+                    <strong>AI Role Alignment:</strong>
+                    {ai_role_alignment or 'N/A'}
+                </p>
+
+                <p>
+                    <strong>AI Experience Fit:</strong>
+                    {ai_experience_fit or 'N/A'}
+                </p>
+
+                <p>
+                    <strong>AI Summary:</strong>
+                    {ai_summary or 'N/A'}
+                </p>
+
+                {f'<p><strong>AI Concerns:</strong> {ai_concerns}</p>' if ai_concerns else ''}
                             padding: 10px 16px;
                             background: #1a73e8;
                             color: white;

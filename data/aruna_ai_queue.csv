@@ -1,0 +1,115 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
+nk-151026504948,naukri,https://www.naukri.com/job-listings-linux-support-engineer-reqroots-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-5-to-10-years-151026504948,,Linux Support Engineer,Reqroots,"Madurai, Tiruppur, Salem, Chennai, Tiruchirappalli, Coimbatore, India",2026-10-15,,,,,,,False,,,,,,,https://www.naukri.com/reqroots-jobs-careers-5470398,https://img.naukimg.com/logo_images/groups/v1/4644234.gif,,,,,,"call support, product support, smtp, linux server, hosting, linux support, email security, dns",5-10 Yrs,4.5,8.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-support-engineer-reqroots-madurai-tiruppur-salem-chennai-tiruchirappalli-coimbatore-5-to-10-years-151026504948,48,Linux Support Engineer,Linux,,,,,,0.0,True,False
+in-07f1c7ebd4303bfa,indeed,https://in.indeed.com/viewjob?jk=07f1c7ebd4303bfa,https://careers.cencora.com/us/en/job/R2617119,Senior Infrastructure / Cloud Engineer,Cencora,"MH, IN",2026-10-15,fulltime,,,,,,False,,,,hrsc@cencora.com,"Location: Pune, India
+
+Category: Information Technology
+
+widget: Full time
+
+Posted Date: October 14th 2026
+
+Job ID: R2617119
+
+  
+
+Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!
+
+**Job Details**
+===============
+
+**About the Role**
+
+CBS is seeking a **Senior Infrastructure/Cloud Engineer** to lead the design, automation, and security of our hybrid infrastructure landscape. This is a senior individual contributor role requiring deep technical expertise across systems administration, networking, Infrastructure-as-Code, container orchestration, and Azure cloud, combined with the ability to mentor junior engineers, drive architectural decisions, and own critical infrastructure and security initiatives end-to-end.
+
+**Key Responsibilities**
+
+* Own the architecture, administration, and hardening of **Linux and Windows** server environments across the organization.
+* Design and govern **network security architecture** — firewalls, forward/reverse proxies, DMZ zones — ensuring alignment with enterprise security standards.
+* Lead the development of **Infrastructure-as-Code** standards and reusable **Terraform** modules for scalable, repeatable provisioning.
+* Architect and build advanced **Python-based automation** frameworks to reduce manual operations and improve reliability.
+* Drive deployment strategy and lifecycle management for applications across environments, ensuring high availability and performance.
+* Lead design, scaling, and troubleshooting of **Kubernetes** clusters in production environments, including capacity planning and incident response.
+* Own administration and governance of **container registries (Harbor)** — including image lifecycle policies, RBAC, and integration with vulnerability scanning pipelines.
+* Architect and manage **Microsoft Azure** infrastructure (networking, compute, storage, identity) with a focus on scalability, cost optimization, and security.
+* Lead **vulnerability remediation** initiatives across the estate — including **OS kernel patching** and **Java JDK** version/patch management — establishing proactive patch management processes.
+* Drive root-cause analysis for critical infrastructure incidents and lead post-incident reviews.
+* Mentor and provide technical guidance to junior and mid-level engineers.
+* Partner with security, application, and DevOps teams to define infrastructure standards, compliance posture, and best practices.
+* Evaluate new tools/technologies and make recommendations to improve infrastructure maturity.
+* Create and maintain high-quality documentation, architecture diagrams, and runbooks.
+
+**Required Skills & Qualifications**
+
+**Operating Systems**
+
+* Deep expertise in both **Linux** (RHEL/Ubuntu/CentOS) and **Windows Server** administration, including performance tuning and hardening.
+
+**Networking & Security**
+
+* Strong command of networking fundamentals, **firewalls**, **forward and reverse proxies**, and **DMZ** architecture design.
+* Proven experience securing enterprise network environments and troubleshooting complex network issues.
+
+**Automation & Scripting**
+
+* Advanced, hands-on experience writing and architecting **Terraform** modules for multi-environment provisioning.
+* Strong proficiency in **Python** for building automation frameworks and tooling, not just scripts.
+
+**Containers & Orchestration**
+
+* Deep, production-grade experience with **Kubernetes** — cluster architecture, scaling, troubleshooting, and operations at scale.
+* Proven experience administering **container registries**, particularly **Harbor**, including governance and security integration.
+
+**Cloud**
+
+* Strong, hands-on **Microsoft Azure** expertise across compute, networking, storage, and identity, with experience designing cloud architecture.
+
+**Security & Patching**
+
+* Proven track record remediating **OS kernel vulnerabilities** at scale.
+* Strong experience managing **Java JDK patch/version** lifecycles across environments.
+* Experience building or improving vulnerability management/patch management processes.
+
+**Leadership & Soft Skills**
+
+* Proven ability to mentor junior engineers and lead technical initiatives.
+* Strong stakeholder communication and ability to influence technical direction.
+* Excellent documentation and process-ownership skills.
+* Ability to work independently and drive projects from design through execution.
+
+**Preferred Qualifications**
+
+* Certifications: **Azure Solutions Architect Expert**, **CKA/CKAD**, **Terraform Associate**, or equivalent.
+* Experience in regulated, enterprise, or large-scale environments with strict compliance/security requirements.
+* Experience with CI/CD pipelines (Jenkins, GitLab CI, Azure DevOps) and GitOps practices.
+* Exposure to monitoring/observability tools (Prometheus, Grafana, ELK, etc.).
+* Prior experience leading infrastructure migrations or cloud modernization projects.
+
+**Experience Required**
+
+* **8–12 years** of relevant experience in infrastructure, DevOps, or cloud engineering, with at least **3+ years in a senior/lead capacity**.
+
+.
+
+Bachelor's degree in information technology, computer science, or a related field required, or equivalent experience required. 4+ years of experience in systems engineering, systems administration, IT infrastructure, or a related field required. Demonstrates advanced capability in a primary technical area (e.g., Windows Server, Linux, VMware) with growing breadth across related domains (e.g., Cloud compute, network infrastructure). Strong structured analysis skills to independently troubleshoot and resolve complex enterprise system outages. Relevant industry certifications (e.g., Microsoft Certified: Windows Server Hybrid Administrator, Red Hat Certified System Administrator (RHCSA), VMware Certified Professional (VCP)) preferred.
+
+**What Cencora offers**
+=======================
+
+Benefit offerings outside the US may vary by country and will be aligned to local market practice. The eligibility and effective date may differ for some benefits and for team members covered under collective bargaining agreements.
+
+Full time
+
+**Affiliated Companies**
+========================
+
+Affiliated Companies: CENCORA BUSINESS SERVICES INDIA PRIVATE LIMITED
+
+**Equal Employment Opportunity**
+================================
+
+Cencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.
+
+The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.
+
+Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned",,https://in.indeed.com/cmp/Cencora,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6940a214bfd57eb4556ed84959e3a363,https://www.cencora.com,"Conshohocken, PA","10,000+",more than $10B (USD),We are united in our responsibility to create healthier futures,,,,,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=07f1c7ebd4303bfa,48,,"Linux, RHEL, Red Hat, CentOS, Kernel Patching, Root Cause Analysis","CentOS, VMware, OCI, Firewall, Firewalls, Networking, Grafana, Vulnerability Management, High Availability","patching, kernel patching",automation,storage,"oci, vmware",1.0,True,False
+li-4472085921,linkedin,https://www.linkedin.com/jobs/view/4472085921,,"Lead Systems Operations Engineer - Java Production Engineer, splunk",Wells Fargo,Greater Hyderabad Area,2026-10-17,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4472085921,45,Systems Operations Engineer,,,,,,,0.0,True,False
