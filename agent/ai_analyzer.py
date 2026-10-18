@@ -6,13 +6,14 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 
-load_dotenv()
+if not os.getenv("GITHUB_ACTIONS"):
+    load_dotenv()
 
 api_key = os.getenv("OPENAI_API_KEY")
 
 if not api_key:
     raise RuntimeError(
-        "OPENAI_API_KEY was not found. Check your .env file."
+        "OPENAI_API_KEY was not found. Check GitHub Actions secret OPENAI_API_KEY or your local .env file."
     )
 
 client = OpenAI(api_key=api_key)

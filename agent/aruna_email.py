@@ -10,7 +10,8 @@ from email.mime.text import MIMEText
 from dotenv import load_dotenv
 
 
-load_dotenv()
+if not os.getenv("GITHUB_ACTIONS"):
+    load_dotenv()
 
 
 EMAIL_HOST = os.getenv(
