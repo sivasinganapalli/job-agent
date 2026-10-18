@@ -1,17 +1,23 @@
+
 name: Aruna Job Agent
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 8 * * *"
+    - cron: "17 13 * * *"
       timezone: "Asia/Kolkata"
 
 permissions:
   contents: write
 
+concurrency:
+  group: aruna-job-agent
+  cancel-in-progress: false
+
 jobs:
   run-job-agent:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -24,9 +30,35 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Verify required secrets
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: |
+          missing=0
+
+          for name in OPENAI_API_KEY EMAIL_FROM EMAIL_PASSWORD EMAIL_TO; do
+            if [ -z "${!name}" ]; then
+              echo "::error::$name is missing or empty in GitHub Actions secrets."
+              missing=1
+            else
+              echo "$name is configured."
+            fi
+          done
+
+          if [ "$missing" -ne 0 ]; then
+            exit 1
+          fi
 
       - name: Run Aruna Job Agent
         env:
@@ -41,7 +73,20 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/aruna_job_history.csv data/aruna_jobs.csv data/aruna_daily_digest.html data/aruna_ai_queue.csv
+          files=(
+            data/aruna_job_history.csv
+            data/aruna_jobs.csv
+            data/aruna_daily_digest.html
+            data/aruna_ai_queue.csv
+          )
+
+          for file in "${files[@]}"; do
+            if [ -f "$file" ]; then
+              git add -- "$file"
+            else
+              echo "File not present; skipping: $file"
+            fi
+          done
 
           if git diff --cached --quiet; then
             echo "No Aruna history changes to commit."
