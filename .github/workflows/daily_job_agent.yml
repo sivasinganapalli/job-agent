@@ -1,4 +1,4 @@
-name: Siva Job Agent
+name: Aruna Job Agent
 
 on:
   workflow_dispatch:
