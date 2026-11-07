@@ -38,6 +38,7 @@ jobs:
 
       - name: Run Aruna Job Agent
         env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           EMAIL_HOST: ${{ secrets.ARUNA_EMAIL_HOST }}
           EMAIL_PORT: ${{ secrets.ARUNA_EMAIL_PORT }}
           EMAIL_FROM: ${{ secrets.ARUNA_EMAIL_FROM }}
