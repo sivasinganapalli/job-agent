@@ -1,4 +1,3 @@
-
 name: Aruna Job Agent
 
 on:
@@ -20,6 +19,17 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      - name: Verify OpenAI API Key
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -n "$OPENAI_API_KEY" ]; then
+            echo "SUCCESS: OpenAI API key is available"
+          else
+            echo "ERROR: OpenAI API key is missing"
+            exit 1
+          fi
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
