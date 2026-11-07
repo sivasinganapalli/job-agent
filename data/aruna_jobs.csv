@@ -1,73 +1,275 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-in-511467c950a31f33,indeed,https://in.indeed.com/viewjob?jk=511467c950a31f33,https://anovia.breezy.hr/p/4e85e20f23a4-infrastructure-specialist-system-administration?source=indeed,"Infrastructure Specialist, System Administration",Anovia,"KA, India",2026-10-17,fulltime,direct_data,yearly,800000.0,1040000.0,INR,True,,,,,"Anovia (formerly Innovatia Technical Services) is an industry-leading technology outsourcing support provider with expertise in the telecommunications industry. Operating for over 20 years, we specialize in workflow and knowledge processes, as well as technical support, helpdesk and multilingual support services. With over 200 professional experts across the globe, we service some of the world's most successful Fortune 500 and Fortune 1000 companies.
+in-92ccc501b6f1aa50,indeed,https://in.indeed.com/viewjob?jk=92ccc501b6f1aa50,https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=191017&lang=en_US&source=Indeed,"Administrator - Linux, Red Hat Cluster, Red Hat Satellite",HCLTech,"KA, India",2026-11-06,,,,,,,False,,,,,"**Job Summary**
+---------------
 
-The Infrastructure Specialist, System Administration will be responsible for providing advanced technical support and leading enterprise server infrastructure operations in a large global client environment. The role requires strong hands-on experience in Linux, Windows Server, or IBM AIX administration, along with expertise in server migrations, virtualization, cloud infrastructure, high availability, clustering, automation, and disaster recovery. The candidate will act as an L3 escalation point, lead complex incident resolution, drive root-cause analysis, and mentor junior administrators.
+Role Purpose Provide 24x7 operational support for unix / virtualization engineer services from the Bangalore delivery location, ensuring timely alert response, service restoration and controlled execution of standard activities. Technology Scope RHEL 7/8/9, VMware ESXi/vSphere, bare-metal compute, OpenShift Virtualization/CNV, server firmware and hardware lifecycle Key Responsibilities • Linux administration, filesystem/LVM, CPU, memory, process, access and network troubleshooting. • ESXi host, cluster, maintenance mode and virtual machine operational support. • Patching, firmware, certificates, provisioning, decommissioning and BCP/DR support. • Monitor alerts, acknowledge tickets and restore services using approved runbooks. • Execute approved incidents, requests and changes with complete evidence and timely updates. • Maintain warm shift handovers and coordinate with application, infrastructure, vendor and customer teams. • Participate in major incidents, BCP/DR exercises, problem management and knowledge-base updates. Required Experience and Skills • 3-6 years of relevant enterprise production-support experience. • Hands-on expertise in at least one primary technology and working knowledge of adjacent technologies listed in the scope. • Strong incident, request, change, escalation and documentation discipline in a 24x7 environment. Tooling, Automation and Reliability • ServiceNow or equivalent ITSM, Jira, monitoring dashboards, operational runbooks and knowledge repositories. • Observability, alert correlation, capacity reporting and SLA/KPI-based operations. • Basic scripting and safe execution of approved automation. Education and Certifications • Bachelor\'s degree in Engineering, Computer Science, Information Technology or equivalent practical experience. • RHCSA/RHCE, VMware VCP or Red Hat OpenShift certification preferred. Behavioural Competencies • Clear written and verbal communication. • Structured troubleshooting and ownership through closure. • Collaboration across technical, vendor and business teams. • Willingness to work from Bangalore in 24x7 rotational shifts, including weekends and holidays as required. Screening Guidance • Validate recent hands-on production support, not only implementation exposure. • Use scenario-based screening for troubleshooting, controlled change, escalation and communication. • Confirm practical depth in the primary skill and realistic coverage of adjacent technologies.
 
-**Responsibilities**
+**Key Responsibilities**
+------------------------
 
-* Act as the L3 escalation point and technical lead for Linux, Windows or AIX server environments.
-* Lead server migrations, OS upgrades and data centre or cloud transitions, including assessment, planning, execution and validation.
-* Design and implement high availability and clustering solutions, such as Pacemaker, Windows Failover Clustering or PowerHA.
-* Own major incidents end to end, lead root-cause analysis and drive permanent fixes.
-* Define and enforce standards for patching, hardening, monitoring and backup across the estate.
-* Build automation frameworks with Ansible, Terraform, PowerShell or Python to reduce manual effort.
-* Review and approve technical changes, and represent the team in change advisory meetings.
-* Mentor L1/L2 administrators and review their work.
-* Communicate clearly with client stakeholders on incidents, risks and service improvement plans.
-* Maintain architecture documentation, runbooks and knowledge base articles.
+Role Purpose Provide 24x7 operational support for unix / virtualization engineer services from the Bangalore delivery location, ensuring timely alert response, service restoration and controlled execution of standard activities. Technology Scope RHEL 7/8/9, VMware ESXi/vSphere, bare-metal compute, OpenShift Virtualization/CNV, server firmware and hardware lifecycle Key Responsibilities • Linux administration, filesystem/LVM, CPU, memory, process, access and network troubleshooting. • ESXi host, cluster, maintenance mode and virtual machine operational support. • Patching, firmware, certificates, provisioning, decommissioning and BCP/DR support. • Monitor alerts, acknowledge tickets and restore services using approved runbooks. • Execute approved incidents, requests and changes with complete evidence and timely updates. • Maintain warm shift handovers and coordinate with application, infrastructure, vendor and customer teams. • Participate in major incidents, BCP/DR exercises, problem management and knowledge-base updates. Required Experience and Skills • 3-6 years of relevant enterprise production-support experience. • Hands-on expertise in at least one primary technology and working knowledge of adjacent technologies listed in the scope. • Strong incident, request, change, escalation and documentation discipline in a 24x7 environment. Tooling, Automation and Reliability • ServiceNow or equivalent ITSM, Jira, monitoring dashboards, operational runbooks and knowledge repositories. • Observability, alert correlation, capacity reporting and SLA/KPI-based operations. • Basic scripting and safe execution of approved automation. Education and Certifications • Bachelor\'s degree in Engineering, Computer Science, Information Technology or equivalent practical experience. • RHCSA/RHCE, VMware VCP or Red Hat OpenShift certification preferred. Behavioural Competencies • Clear written and verbal communication. • Structured troubleshooting and ownership through closure. • Collaboration across technical, vendor and business teams. • Willingness to work from Bangalore in 24x7 rotational shifts, including weekends and holidays as required. Screening Guidance • Validate recent hands-on production support, not only implementation exposure. • Use scenario-based screening for troubleshooting, controlled change, escalation and communication. • Confirm practical depth in the primary skill and realistic coverage of adjacent technologies.
 
-**Skills required**
+**Skill Requirements**
+----------------------
 
-* 6+ years of hands-on administration of Linux (RHEL), Windows Server or IBM AIX in large production environments.
-* Proven experience leading OS migrations, upgrades or virtualization and cloud transitions.
-* Strong expertise in VMware vSphere and/or Azure or AWS infrastructure.
-* Expertise in high availability, clustering and disaster recovery.
-* Advanced scripting and automation using Ansible plus Shell, PowerShell or Python.
-* Strong knowledge of storage (SAN/NAS, LVM), networking fundamentals, DNS, Active Directory or LDAP, and security hardening.
-* Strong ITIL practices and experience owning major incidents and root-cause analysis.
-* Excellent written and spoken communication skills for client-facing work.
+Role Purpose Provide 24x7 operational support for unix / virtualization engineer services from the Bangalore delivery location, ensuring timely alert response, service restoration and controlled execution of standard activities. Technology Scope RHEL 7/8/9, VMware ESXi/vSphere, bare-metal compute, OpenShift Virtualization/CNV, server firmware and hardware lifecycle Key Responsibilities • Linux administration, filesystem/LVM, CPU, memory, process, access and network troubleshooting. • ESXi host, cluster, maintenance mode and virtual machine operational support. • Patching, firmware, certificates, provisioning, decommissioning and BCP/DR support. • Monitor alerts, acknowledge tickets and restore services using approved runbooks. • Execute approved incidents, requests and changes with complete evidence and timely updates. • Maintain warm shift handovers and coordinate with application, infrastructure, vendor and customer teams. • Participate in major incidents, BCP/DR exercises, problem management and knowledge-base updates. Required Experience and Skills • 3-6 years of relevant enterprise production-support experience. • Hands-on expertise in at least one primary technology and working knowledge of adjacent technologies listed in the scope. • Strong incident, request, change, escalation and documentation discipline in a 24x7 environment. Tooling, Automation and Reliability • ServiceNow or equivalent ITSM, Jira, monitoring dashboards, operational runbooks and knowledge repositories. • Observability, alert correlation, capacity reporting and SLA/KPI-based operations. • Basic scripting and safe execution of approved automation. Education and Certifications • Bachelor\'s degree in Engineering, Computer Science, Information Technology or equivalent practical experience. • RHCSA/RHCE, VMware VCP or Red Hat OpenShift certification preferred. Behavioural Competencies • Clear written and verbal communication. • Structured troubleshooting and ownership through closure. • Collaboration across technical, vendor and business teams. • Willingness to work from Bangalore in 24x7 rotational shifts, including weekends and holidays as required. Screening Guidance • Validate recent hands-on production support, not only implementation exposure. • Use scenario-based screening for troubleshooting, controlled change, escalation and communication. • Confirm practical depth in the primary skill and realistic coverage of adjacent technologies.
 
-**Qualifications**
+**Must Have Skill**
+-------------------
 
-* 8 to 12 years of total experience, with at least 6 years of relevant system administration experience.
-* Bachelor's degree in Engineering, Computer Science, IT or an equivalent discipline.
-* Preferred certifications: RHCSA or RHCE, Microsoft Certified (Windows Server or Azure Administrator), VMware VCP, AWS SysOps Administrator, and ITIL Foundation.
-* Experience supporting large-scale enterprise production environments.
-* Willingness to support rotational shifts, on-call escalation and weekend change windows when required.
-* Ability to work from the client office from day one.
-* Strong problem-solving, analytical and communication skills.
+Red Hat Enterprise Linux,Red Hat Cluster,Red Hat Satellite
 
-**Good to have**
+**Good to Have Skill**
+----------------------
 
-* Terraform and infrastructure-as-code pipelines.
-* Kubernetes or Red Hat OpenShift administration.
-* Middleware administration (WebSphere, WebLogic, JBoss).
-* IBM Power Systems: PowerVM, VIOS, NIM and LPAR management.
-* Workload automation tools such as Control-M.
+**Other Requirements**
+----------------------
 
-**Benefits at Anovia**
+Role Purpose Provide 24x7 operational support for unix / virtualization engineer services from the Bangalore delivery location, ensuring timely alert response, service restoration and controlled execution of standard activities. Technology Scope RHEL 7/8/9, VMware ESXi/vSphere, bare-metal compute, OpenShift Virtualization/CNV, server firmware and hardware lifecycle Key Responsibilities • Linux administration, filesystem/LVM, CPU, memory, process, access and network troubleshooting. • ESXi host, cluster, maintenance mode and virtual machine operational support. • Patching, firmware, certificates, provisioning, decommissioning and BCP/DR support. • Monitor alerts, acknowledge tickets and restore services using approved runbooks. • Execute approved incidents, requests and changes with complete evidence and timely updates. • Maintain warm shift handovers and coordinate with application, infrastructure, vendor and customer teams. • Participate in major incidents, BCP/DR exercises, problem management and knowledge-base updates. Required Experience and Skills • 3-6 years of relevant enterprise production-support experience. • Hands-on expertise in at least one primary technology and working knowledge of adjacent technologies listed in the scope. • Strong incident, request, change, escalation and documentation discipline in a 24x7 environment. Tooling, Automation and Reliability • ServiceNow or equivalent ITSM, Jira, monitoring dashboards, operational runbooks and knowledge repositories. • Observability, alert correlation, capacity reporting and SLA/KPI-based operations. • Basic scripting and safe execution of approved automation. Education and Certifications • Bachelor\'s degree in Engineering, Computer Science, Information Technology or equivalent practical experience. • RHCSA/RHCE, VMware VCP or Red Hat OpenShift certification preferred. Behavioural Competencies • Clear written and verbal communication. • Structured troubleshooting and ownership through closure. • Collaboration across technical, vendor and business teams. • Willingness to work from Bangalore in 24x7 rotational shifts, including weekends and holidays as required. Screening Guidance • Validate recent hands-on production support, not only implementation exposure. • Use scenario-based screening for troubleshooting, controlled change, escalation and communication. • Confirm practical depth in the primary skill and realistic coverage of adjacent technologies.",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,3.7,11378.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=92ccc501b6f1aa50,67,,"Linux, Linux Administration, RHEL, Red Hat Enterprise Linux, Red Hat, Unix, Red Hat Satellite, LVM","RHEL 7, VMware, vSphere, ServiceNow, SLA, Production Support","patching, red hat satellite",automation,"lvm, filesystem","vmware, vsphere",0,True,False
+in-8a0899d2724a69bd,indeed,https://in.indeed.com/viewjob?jk=8a0899d2724a69bd,https://careers.yash.com/job/Hyderabad-Consultant-AWS-&-Linux-Job-TG/1362842966/,Consultant - AWS & Linux,YASH Technologies,"TS, India",2026-11-05,,,,,,,False,,,,,"Date: Nov 5, 2026
 
-* Comprehensive Health Insurance policy
-* Employee Wellness Program with focus on mental health
-* Robust reward and recognition programs
-* Company incentive programs offered.
-* Attractive leave policy: Holiday Leave, Maternity Leave, Paternity Leave, Birthday leave, Bereavement Leave and Paid Leave for personal time off
-* Ample growth and learning opportunities.
-* Remote work opportunities
-* Focus on work/life balance.
-* Immigration Program supporting immigration to Canada for eligible employees.
+Job Requisition Id: 65172
 
-We thank all candidates for their interest; however, only those selected for an interview will be contacted.
+Location:
+Hyderabad, TG, IN
 
-Anovia is an equal opportunity employer.",,https://in.indeed.com/cmp/Anovia-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1e532583c151a18669ad74b8e7f39f0d,https://anovia.com/,"1 Germain Street, Suite 200
-Saint John, New Brunswick, E2L 4V1
-Canada",201 to 500,,"Anovia is the IT partner enterprises rely on, delivering technical solutions built on deep expertise, global reach, and a people-first approach across a multicultural, worldwide workforce.",,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=511467c950a31f33,56,,"Linux, RHEL, Red Hat, LVM, Shell, Ansible, Root Cause Analysis","VMware, VMware vSphere, vSphere, AWS, DNS, Networking, DNS, iLO, Backup, Recovery, Disaster Recovery, ITIL, L3 Escalation, Server Migration, Infrastructure Operations, High Availability",patching,"ansible, shell, automation","lvm, storage","aws, vmware, vsphere",1,True,False
-nk-171026015047,naukri,https://www.naukri.com/job-listings-linux-server-administrator-orcapod-consulting-services-bengaluru-3-to-8-years-171026015047,,Linux Server Administrator,Orcapod Consulting Services,"Bengaluru, India",2026-10-17,,direct_data,yearly,600000.0,1600000.0,INR,False,,,,,,,https://www.naukri.com/orcapod-consulting-services-jobs-careers-582961,https://img.naukimg.com/logo_images/groups/v1/4616601.gif,,,,,,"Docker, Microsoft Azure, AWS, Linux, Linux administration, VMware, XEN, LVM",3-8 Yrs,,,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-server-administrator-orcapod-consulting-services-bengaluru-3-to-8-years-171026015047,51,Linux Server Administrator,"Linux, RCA",,,,,,0,True,False
-li-4476934255,linkedin,https://www.linkedin.com/jobs/view/4476934255,,Senior AWS Cloud Infrastructure Engineer (L3),Techwave,"Hyderabad, Telangana, India",2026-10-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/techwave-consulting-inc,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4476934255,47,"Infrastructure Engineer, Cloud Infrastructure Engineer",,AWS,,,,aws,0,True,False
-li-4472085921,linkedin,https://www.linkedin.com/jobs/view/4472085921,,"Lead Systems Operations Engineer - Java Production Engineer, splunk",Wells Fargo,Greater Hyderabad Area,2026-10-17,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4472085921,45,Systems Operations Engineer,,,,,,,0,True,False
-li-4479367051,linkedin,https://www.linkedin.com/jobs/view/4479367051,,Infrastructure Engineer I,American Express,"Bengaluru, Karnataka, India",2026-10-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-express,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479367051,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4479119035,linkedin,https://www.linkedin.com/jobs/view/4479119035,,Infrastructure Engineer III,American Express,"Bengaluru, Karnataka, India",2026-10-15,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-express,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4479119035,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4479196648,linkedin,https://www.linkedin.com/jobs/view/4479196648,,Infrastructure Engineer (Compute),Revolut,"Chennai, Tamil Nadu, India",2026-10-16,,,,,,,False,,,,,,,https://uk.linkedin.com/company/revolut,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4479196648,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4479363813,linkedin,https://www.linkedin.com/jobs/view/4479363813,,zDIH Infrastructure Engineer,Infosys,"Chennai, Tamil Nadu, India",2026-10-16,,,,,,,False,,,,,,,https://in.linkedin.com/company/infosys,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4479363813,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4477079563,linkedin,https://www.linkedin.com/jobs/view/4477079563,,Lead IT Infrastructure Engineer_104856,MyCareernet,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,False,,,,,,,https://in.linkedin.com/company/mycareernet,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4477079563,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
-li-4479124186,linkedin,https://www.linkedin.com/jobs/view/4479124186,,Infrastructure Engineer Remote,DigitalTolk,"Chennai, Tamil Nadu, India",2026-10-15,,,,,,,True,,,,,,,https://se.linkedin.com/company/digitaltolk,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4479124186,45,Infrastructure Engineer,,,,,,,0,True,False
+YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
+
+  
+
+At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.
+
+  
+
+**We are looking forward to hire Windows Server Admin Professionals in the following areas :**
+
+  
+
+**Experience**
+--------------
+
+5-8Years
+
+**Job Description**
+-------------------
+
+ROLE AND RESPONSIBILITIES:
+
+* Lead P1/P2 to resolution
+* Maintain accurate technical documentation and inventory logs.
+* Optimize performance across VMware clusters and Azure resources.
+* Implement security hardening guidelines across all operating systems.
+* Plan and execute major and minor change requests
+* Root cause analysis and corrective action items
+* Anaylsis of capacity and availability data
+* Mentor junior engineering teams and lead technical code/architecture reviews.
+* Manage infrastructure capacity planning and multi-million dollar cloud budgets.
+* Driving key KPI improvement month on month
+* Drive Knowledge Management , Process management, Client sign off
+* Drive Key initiatives, CSIP, Automations , Customer Value additions
+* Drive Ticket Reduction, Effort Reduction,
+* Lead Client discussion on Key initiatives driving and outcomes
+* Lead MSR/QBR , drive Ops as per Client Sensitivities and Priorities
+* Understanding of Benchmarking , Best practices as per industry standard and peer companies which can be driven in the area assigned
+* Understanding and adopting AI in the area of operation and able show value addition to client.
+* Drive CSAT and TCSAT >4.5 /5
+  
+
+QUALIFICATIONS AND EDUCATION REQUIREMENTS:
+
+* Bachelor’s degree
+* 8+ years of experience, with at least 3 years in a lead capacity.
+* ITIL v4 Foundation Certification
+* Candidates who are confident of clearing extensive Background verification till previous Organization only shall apply.
+  
+
+PREFERRED SKILLS:
+
+* Microsoft Certified: Azure Solutions Architect Expert (AZ-305).
+* VMware Certified Advanced Professional (VCAP).
+
+BEHAVIORAL ATTRIBUTES:
+
+* Analytical problem-solving approach.
+* Proactive ownership of issues.
+* Collaborative team player mindset.
+* Strong executive stakeholder communication.
+* Calm under high-pressure situations.
+
+**Required Technical/ Functional Competencies**
+-----------------------------------------------
+
+PRIMARY SKILLS:
+
+* Windows Server: Administration of Windows Server 2016/2019/2022, Active Directory, DHCP and DNS.
+* Advanced Windows: Active Directory architecture, cluster management, and advanced troubleshooting.
+* VMware Administration: vCenter management, vMotion, HA, DRS, and vSAN configuration.
+* Azure Cloud: Deploying ARM/Bicep templates, managing Azure Backup, Recovery Services, and Load Balancers.
+* Hybrid Cloud Architecture: Designing enterprise-scale Windows, VMware, and Azure integrated environments.
+* Azure Governance: Enterprise Landing Zones, Azure Policy, cost optimization, and CAF frameworks.
+* Disaster Recovery: Designing SRM (Site Recovery Manager) and Azure Site Recovery (ASR) solutions.
+* Automation: Advanced PowerShell scripting and infrastructure automation.
+* Fluent in English, in both oral and written communication
+* Willingness to do 24x7 Rotational Shift, ability to working from office is preferred, location will be city with Yash Office.
+
+DESIRABLE SKILLS:
+
+* FinOps: Cloud cost management, forecasting, and budget allocation strategies.
+* Experience with Azure Kubernetes Service (AKS) or containerization.
+* Enterprise storage network design (SAN/NAS).
+
+**Required Behavioral Competencies**
+------------------------------------
+
+**Accountability:**
+
+* Takes ownership for and ensures accuracy of own work, meets deadlines, and asks questions about possible gaps to ensure clarity of ownership.
+
+**Agility:**
+
+* Demonstrates a willingness to accept and embrace differing ideas or perceptions which are beneficial to the organization.
+
+**Collaboration:**
+
+* Participates in team activities and reaches out to others in team to achieve common goals.
+
+**Customer Focus:**
+
+* Displays awareness of customers stated needs and gives priority to meeting and exceeding customer expectations at or above expected quality within stipulated time.
+
+**Communication:**
+
+* Effectively communicates in written and oral form, well-organized thoughts to others. Speaks openly and honestly with all employees.
+
+**Drives Results:**
+
+* Demonstrates a ""can do"" attitude and is willing to stretch self to achieve and exceed defined goals/targets.
+
+**Certifications**
+------------------
+
+Mandatory: CA, AZ104, MCSA, Business Intelligence Development Certification, Microsoft Certified Azure AI, Azure Data & Azure Administrator; Desirable: OCP, CCP/Yash defined course, Administration level Certification of any Storage Tool/Backup Tool
+
+Mandatory: ITIL V4 Foundation
+
+NCA - Nutanix Certified Associate
+
+At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.
+
+  
+
+**Our Hyperlearning workplace is grounded upon four principles**
+
+* Flexible work arrangements, Free spirit, and emotional positivity
+* Agile self-determination, trust, transparency, and open collaboration
+* All Support needed for the realization of business goals,
+* Stable employment with a great atmosphere and ethical corporate culture",,https://in.indeed.com/cmp/Yash-Technologies-9,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0ad9bce84e78e99ae1d50d068b177f39,https://www.yash.com,"East Moline, IL","1,001 to 5,000",$100M to $500M (USD),,,,3.9,236.0,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=8a0899d2724a69bd,53,,"Linux, Shell Scripting, Shell, Root Cause Analysis","VMware, AWS, OCI, DNS, DHCP, DHCP, DNS, Tar, Backup, Recovery, Disaster Recovery, Process Management, ITIL, P1, P2",,"shell scripting, shell, automation",storage,"aws, oci, vmware",-1,True,False
+li-4449815121,linkedin,https://www.linkedin.com/jobs/view/4449815121,,Linux System Administrator (IT Infrastructure & Operations),Analog Devices,Greater Bengaluru Area,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/analog-devices,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4449815121,48,Linux System Administrator,Linux,,,,,,0,True,False
+nk-061126919033,naukri,https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-hyderabad-2-to-5-years-061126919033,,Linux System Administrator (Freelancer),Soul Ai,"Hyderabad, India",2026-11-06,,,,,,,False,,,,,,,https://www.naukri.com/soul-ai-jobs-careers-124243674,https://img.naukimg.com/logo_images/groups/v1/9758404.gif,,,,,,"Unix, Freelancing, Microsoft Azure, Apache, Development, Linux system administration, Incident management, Unix shell scripting",2-5 Yrs,3.2,41.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-hyderabad-2-to-5-years-061126919033,48,Linux System Administrator,Linux,,,,,,0,True,False
+nk-061126919257,naukri,https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-bengaluru-4-to-8-years-061126919257,,Linux System Administrator ( Freelancer ),Soul Ai,"Bengaluru, India",2026-11-06,,,,,,,False,,,,,,,https://www.naukri.com/soul-ai-jobs-careers-124243674,https://img.naukimg.com/logo_images/groups/v1/9758404.gif,,,,,,"Unix, Bash, Administration, Linux System, Linux, Freelancing, System, Process",4-8 Yrs,3.2,41.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-bengaluru-4-to-8-years-061126919257,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4478174884,linkedin,https://www.linkedin.com/jobs/view/4478174884,,Senior Linux Administrator,NVIDIA,"Bengaluru, Karnataka, India",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/nvidia,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478174884,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-061126918316,naukri,https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-chennai-2-to-5-years-061126918316,,Linux System Administrator (Freelancer),Soul Ai,"Chennai, India",2026-11-06,,,,,,,False,,,,,,,https://www.naukri.com/soul-ai-jobs-careers-124243674,https://img.naukimg.com/logo_images/groups/v1/9758404.gif,,,,,,"Unix, Freelancing, Microsoft Azure, Apache, Development, Linux system administration, Incident management, Unix shell scripting",2-5 Yrs,3.2,41.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-chennai-2-to-5-years-061126918316,48,Linux System Administrator,Linux,,,,,,0,True,False
+nk-061126917861,naukri,https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-chennai-4-to-8-years-061126917861,,Linux System Administrator ( Freelancer ),Soul Ai,"Chennai, India",2026-11-06,,,,,,,False,,,,,,,https://www.naukri.com/soul-ai-jobs-careers-124243674,https://img.naukimg.com/logo_images/groups/v1/9758404.gif,,,,,,"Unix, Linux System, Administration, Scripting, Freelancing, System administration, Shell scripting, System",4-8 Yrs,3.2,41.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-chennai-4-to-8-years-061126917861,48,Linux System Administrator,Linux,,,,,,0,True,False
+nk-061126918323,naukri,https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-bengaluru-2-to-5-years-061126918323,,Linux System Administrator (Freelancer),Soul Ai,"Bengaluru, India",2026-11-06,,,,,,,False,,,,,,,https://www.naukri.com/soul-ai-jobs-careers-124243674,https://img.naukimg.com/logo_images/groups/v1/9758404.gif,,,,,,"Unix, Freelancing, Microsoft Azure, Apache, Development, Linux system administration, Incident management, Unix shell scripting",2-5 Yrs,3.2,41.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-system-administrator-freelancer-soul-ai-bengaluru-2-to-5-years-061126918323,48,Linux System Administrator,Linux,,,,,,0,True,False
+in-e87336229fe8f9be,indeed,https://in.indeed.com/viewjob?jk=e87336229fe8f9be,https://jobs.vodafone.com/careers/job/563018698331053?utm_source=indeed&domain=vodafone.com,Big Data Platform Administrator - VOIS,Vodafone,"MH, India",2026-11-04,fulltime,,,,,,False,,,,,"**Who we are**
+--------------
+
+VOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation.
+  
+As the largest shared services organisation in the global telco industry with 30,000 FTE, our portfolio of next-generation solutions and services are designed in partnership with customers across Vodafone Group, local markets, and partner markets to simplify and drive growth. With our strategic partner Accenture, we work alongside our Vodafone customers, other Telco and tech companies to drive transformation, meet the challenges of our industry and ensure we stay relevant and resilient. This partnership is a unique, industry-first model which brings together the best of in-house and 3rd party capability.
+  
+We work with customers across 28 countries from 10 VOIS locations: Albania, Egypt, Hungary, India, Romania, Spain, Turkey, UK, Germany, Ireland, and with a network of teams in Czech Republic, Italy, Greece, and Portugal.
+  
+#VOIS #BeUnrivalled #CreateTheFuture
+
+**About this Role**
+-------------------
+
+We are seeking a Big Data Platform Administrator to join the Data Platform Service function in Pune, supporting critical Cloudera Hadoop, Apache Kafka and Apache NiFi platforms.  
+This role focuses on ensuring secure, reliable and efficient platform operations, including production support, troubleshooting NiFi and Kafka data flows, platform upgrades, configuration management, monitoring and automation. You will work across application, infrastructure, operations and support teams to resolve complex platform and ETL issues while maintaining service availability and performance.  
+You will bring hands-on Big Data administration expertise, strong UNIX/Linux troubleshooting capabilities and an automation-focused approach using Ansible and Shell scripting.
+
+**What you’ll do**
+------------------
+
+Own the day-to-day administration, monitoring and operational support of Cloudera Hadoop, Apache Kafka and Apache NiFi platforms supporting critical applications.  
+Troubleshoot NiFi and Kafka data-flow and ETL failures, including processor, connectivity, schema, throughput and data-flow issues, and perform structured root-cause analysis.  
+Coordinate with application, infrastructure, operations and support teams to restore services and resolve cross-platform incidents.  
+Plan and execute platform upgrades, patching, configuration changes and health checks, validating changes while minimising operational risk.  
+Monitor platform performance, resource utilisation, availability and capacity, identifying opportunities to improve service stability.  
+Develop and maintain operational automation using Ansible and Shell scripting, reducing repetitive manual activities and improving consistency.  
+Maintain platform standards, technical documentation, capacity reviews and continuous-improvement actions.  
+Apply independent technical judgement during incidents, upgrades and platform changes to select safe and effective remediation approaches.
+
+**Who you are**
+---------------
+
+Strong hands-on experience administering Cloudera Hadoop, Apache Kafka and Apache NiFi in production environments.  
+Practical knowledge of NiFi and Kafka flow-based ETL, with experience troubleshooting processor, connectivity, schema, throughput and data-flow errors.  
+Excellent UNIX/Linux administration knowledge, including process management, resource scheduling, storage, networking and security fundamentals.  
+Strong knowledge of the Hadoop ecosystem, particularly HDFS, YARN, HBase, Apache Hive and Impala.  
+Experience using Ansible for configuration management, complex installations and repeatable operational processes.  
+Strong Shell scripting skills for platform administration, monitoring and automation.  
+Effective production troubleshooting and root-cause analysis capabilities.  
+A collaborative approach to stakeholder communication, with the ability to take ownership of critical services and work effectively across technical teams.  
+An analytical, detail-oriented and proactive approach to resolving operational issues.  
+A degree or higher qualification in Computer Science, Information Technology, Software Engineering or a related technical discipline, together with relevant hands-on Big Data platform administration and production-support experience.  
+Experience with platform monitoring, capacity planning, security hardening and disaster-recovery activities is preferred.  
+A Cloudera certification is desirable.
+
+**Not a perfect fit?**
+----------------------
+
+Concerned you may not meet every requirement? Vodafone is committed to creating an inclusive workplace where everyone can thrive. If you are excited about this role but your experience does not align exactly with every aspect of the job description, you are encouraged to apply. You may be the right candidate for this or another opportunity, and the recruitment team will support you in exploring where your skills fit best.
+
+**What's in it for you**
+------------------------
+
+The opportunity to administer and support business-critical Hadoop, Kafka and NiFi platforms with direct impact on application and data-flow reliability.  
+Exposure to complex production environments spanning application, infrastructure and operations teams.  
+Opportunities to contribute to platform upgrades, capacity planning, standardisation and operational improvement.  
+Scope to develop automation that reduces manual effort, improves configuration consistency and prevents recurring operational issues.  
+Ownership of technically challenging incidents and platform changes, providing meaningful opportunities to deepen distributed-platform expertise.
+
+**What skills you will learn**
+------------------------------
+
+Enterprise-scale administration and optimisation of Cloudera Hadoop, Apache Kafka and Apache NiFi.  
+Advanced troubleshooting of distributed systems and flow-based ETL workloads.  
+Platform upgrade, patching and change-management practices for critical production services.  
+Ansible-based configuration management and Shell scripting for operational automation.  
+Platform monitoring, capacity planning, security hardening, disaster recovery and service-reliability practices.  
+Cross-functional incident management, root-cause analysis and continuous improvement.
+
+**VOIS Equal Opportunity Employer Commitment**
+----------------------------------------------
+
+Vodafone recognises and celebrates the value of diversity in building a workforce that reflects the customers and communities it serves. No form of discrimination is tolerated. This includes, but is not limited to, discrimination based on race, colour, age, veteran status, gender identity, gender expression, sexual orientation, pregnancy, maternity or parental status, ethnicity, disability, religion or belief, political affiliation, trade union membership, nationality, citizenship, indigenous status, medical condition, HIV status, neurodiversity, social origin, cultural background, marital or civil partnership status, or socio-economic background.
+
+**Join Us**
+-----------
+
+At Vodafone, we’re working hard to build a better future. A more connected, inclusive and sustainable world. As a dynamic global community, it's our human spirit, together with technology, that empowers us to achieve this.
+  
+We challenge and innovate in order to connect people, businesses, and communities across the world. Delighting our customers and earning their loyalty drive us, and we experiment, learn fast and get it done, together.
+  
+With us, you can truly be yourself and belong, share inspiration, embrace new opportunities, thrive, and make a real difference.
+
+**Alert**
+---------
+
+Apply for Vodafone jobs only through the official Vodafone Careers website to avoid job scams and fraud.
+  
+#JDEnhancedByTARA
+
+**Follow us on social media**
+-----------------------------
+
+LinkedIn: https://www.linkedin.com/company/vois/  
+Facebook: https://www.facebook.com/voisglobal  
+Instagram: https://www.instagram.com/voisglobal/",,https://in.indeed.com/cmp/Vodafone,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6865cd5cf09fa5c02ebe85d532eca8ee,https://careers.vodafone.com/,"Newbury, England","10,000+",more than $10B (USD),"With over 12,000 people supporting over 18million customers, our purpose is to connect for a better future. ",,,3.8,7389.0,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=e87336229fe8f9be,47,,"Linux, Linux Administration, Unix, Shell Scripting, Shell, Ansible, Linux Troubleshooting, Root Cause Analysis, Incident Management","OCI, HTTPS, Networking, HTTP, Tar, Recovery, Disaster Recovery, Process Management, Incident Management, Change Management, Production Support",patching,"ansible, shell scripting, shell, automation",storage,oci,0,True,False
+nk-180526027880,naukri,https://www.naukri.com/job-listings-cloud-infrastructure-engineer-augusta-infotech-bengaluru-4-to-9-years-180526027880,,Cloud Infrastructure Engineer,Augusta Infotech,"Bengaluru, India",2026-11-07,,,,,,,False,,,,,,,https://www.naukri.com/augusta-infotech-jobs-careers-564059,https://img.naukimg.com/logo_images/groups/v1/329838.gif,,,,,,"Azure Infrastructure, GitHub, Terraform, Azure DevOps, Kubernetes, DAST, SAST, Prometheus",4-9 Yrs,,,2.0,Hybrid,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-cloud-infrastructure-engineer-augusta-infotech-bengaluru-4-to-9-years-180526027880,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
+li-4470467246,linkedin,https://www.linkedin.com/jobs/view/4470467246,,Senior Principal Infrastructure Engineer,Mphasis,"Bengaluru, Karnataka, India",2026-11-05,,,,,,,False,,,,,,,https://in.linkedin.com/company/mphasis,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4470467246,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4485597598,linkedin,https://www.linkedin.com/jobs/view/4485597598,,Senior Infrastructure Engineer,IntraEdge,"Pune District, Maharashtra, India",2026-11-05,,,,,,,False,,,,,,,https://www.linkedin.com/company/intraedge,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4485597598,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4486969874,linkedin,https://www.linkedin.com/jobs/view/4486969874,,Assistant Manager - Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-11-06,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4486969874,45,Cloud Operations,,,,,,,0,True,False
+li-4470686728,linkedin,https://www.linkedin.com/jobs/view/4470686728,,Cloud Operations Engineer,MongoDB,"Bengaluru, Karnataka, India",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/mongodbinc,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4470686728,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
