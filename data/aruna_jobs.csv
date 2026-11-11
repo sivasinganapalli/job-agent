@@ -1,13 +1,110 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
-nk-071126009105,naukri,https://www.naukri.com/job-listings-linux-administrator-in-hyderabad-team-computers-hyderabad-1-to-4-years-071126009105,,Linux administrator in Hyderabad,Team Computers,"Hyderabad, India",2026-11-07,,direct_data,yearly,100000.0,400000.0,INR,False,,,,,,,https://www.naukri.com/team-computers-jobs-careers-14909,https://img.naukimg.com/logo_images/groups/v1/214286.gif,,,,,,"Linux administration, Redhat Linux, Administration, System, Linux system administration, Linux, System administration, Linux System",1-4 Yrs,3.7,2775.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-in-hyderabad-team-computers-hyderabad-1-to-4-years-071126009105,48,Linux Administrator,Linux,,,,,,0,True,False
-li-4476934255,linkedin,https://www.linkedin.com/jobs/view/4476934255,,Senior AWS Cloud Infrastructure Engineer (L3),Techwave,"Hyderabad, Telangana, India",2026-11-07,,,,,,,False,,,,,,,https://www.linkedin.com/company/techwave-consulting-inc,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4476934255,47,"Infrastructure Engineer, Cloud Infrastructure Engineer",,AWS,,,,aws,0,True,False
-li-4476013699,linkedin,https://www.linkedin.com/jobs/view/4476013699,,Cloud Operations Specialist (Ericsson CNIS & VMware) - BangaloreVOIS,VOIS,"Bengaluru, Karnataka, India",2026-11-07,,,,,,,False,,,,,,,https://uk.linkedin.com/company/vois,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4476013699,47,Cloud Operations,,VMware,,,,vmware,0,True,False
-nk-101126007369,naukri,https://www.naukri.com/job-listings-aws-cloud-operations-engineer-cloud-raptor-bengaluru-6-to-8-years-101126007369,,Aws Cloud Operations Engineer,Cloud Raptor,"Bengaluru, India",2026-11-10,,direct_data,yearly,1200000.0,1800000.0,INR,False,,,,,,,https://www.naukri.com/cloud-raptor-jobs-careers-123718167,https://img.naukimg.com/logo_images/groups/v1/7334969.gif,,,,,,"Operations, AWS, Cloud Operations, Cloudops, Cloud, AWS Cloud",6-8 Yrs,,,,Hybrid,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-aws-cloud-operations-engineer-cloud-raptor-bengaluru-6-to-8-years-101126007369,47,"Cloud Operations Engineer, Cloud Operations",,AWS,,,,aws,0,True,False
+in-3de481785c212bea,indeed,https://in.indeed.com/viewjob?jk=3de481785c212bea,https://www.husky.co/en/careers/portal/details/?id=CfDJ8DQZ5pMmkeJEmYs0vj8c27OppRZkUyMbS2xEGO1QOCwBWUzc4rU95bMjo5K0rF1mzOsMZSoGHo8AlRjOMbOO4eDE6T5PGkz1R52MzhZlPU7bZ3lZShxZG-acpgWzXAxjeQ&title=I.T.+Systems+Administrator-+Husky+(India)+Chennai,I.T. Systems Administrator- Husky (India) Chennai,Husky Injection Molding,"TN, India",2026-11-10,fulltime,,,,,,False,,,,,"At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+
+Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state-of-the-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+
+Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+
+Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+
+**Job Description**
+
+**Position Summary**
+
+The I.T. Systems Administrator is responsible for the support, administration, maintenance, monitoring, troubleshooting, and continuous improvement of business-critical enterprise applications and supporting infrastructure within a complex manufacturing environment.
+
+This position requires an experienced, highly self-motivated IT professional who can work independently while collaborating effectively within a global IT organization. The successful candidate will support a diverse portfolio of ERP, warehouse management, engineering, manufacturing, analytics, and legacy business systems while ensuring their stability, performance, security, and long-term supportability.
+
+Working as part of the Enterprise Applications team, this role collaborates closely with Infrastructure, Network, Development, Data, Project, and Service Desk teams, as well as external software vendors and service providers.
+
+The ideal candidate is a strong technical generalist with expertise across enterprise applications, Microsoft SQL Server technologies, and supporting infrastructure platforms. The ability to independently learn unfamiliar systems and assume operational ownership of business-critical applications is essential.
+
+This position is fully onsite and reports remotely within a global IT organization.
+
+**Key Responsibilities**
+
+* Administer, support, monitor, and troubleshoot business-critical enterprise applications, including ERP, warehouse management, engineering, manufacturing, analytics, and other operational systems.
+* Develop technical expertise and operational ownership of assigned applications and services.
+* Proactively identify technical debt, supportability risks, and opportunities for improvement across enterprise applications and supporting infrastructure.
+* Contribute to projects and continuous improvement initiatives aimed at reducing technical debt, improving system stability, and modernizing legacy technologies.
+* Troubleshoot issues across application, database, operating system, infrastructure, authentication, and integration layers.
+* Administer and support Microsoft SQL Server environments, including clustered installations, Enterprise Data Warehouse (EDW) platforms, and related technologies such as SSIS, SSAS, and SSRS.
+* Collaborate with Development, Data, BI, and DBA teams to identify and resolve database and application performance issues.
+* Administer and support Microsoft Windows Server environments.
+* Support Active Directory administration, authentication services, and Kerberos-related troubleshooting.
+* Support and maintain virtualized environments primarily based on Microsoft Hyper-V.
+* Support Azure-hosted business applications, databases, and analytical solutions.
+* Participate in application and infrastructure deployment projects and ensure operational readiness prior to go-live.
+* Review technical documentation and ensure supported systems remain properly documented and maintainable.
+* Work within established ITIL processes for Incident, Problem, Change, and Service Request Management.
+* Perform Root Cause Analysis (RCA) for recurring and business-critical incidents.
+* Collect and analyze diagnostic information using tools such as PerfMon, Windows Event Viewer, SQL Server tools, Dynatrace, Spotlight, and application logs.
+* Create and maintain technical documentation, operational procedures, incident reports, and Root Cause Analysis documentation.
+* Collaborate with software vendors, service providers, business users, project teams, and global IT teams to resolve complex technical issues.
+* Participate in regular remote meetings and communications using Microsoft Teams, email, and ticket management systems.
+
+**Education**
+
+* Computer Science degree, Information Technology degree, or equivalent combination of education and relevant work experience.
+
+**The following certifications are considered an asset:**
+
+* IT Infrastructure Library (ITIL)
+* Microsoft certifications related to Windows Server, SQL Server, Azure, Infrastructure Administration, or Enterprise Applications
+* Citrix certifications
+
+**Experience & Qualifications**
+
+* 5+ years of experience implementing, supporting, and managing enterprise applications and systems technologies in a complex, global environment.
+* Strong hands-on experience administering Microsoft Windows Server environments.
+* Strong hands-on experience administering Microsoft SQL Server environments.
+* Experience supporting ERP and business-critical enterprise applications.
+* Experience supporting ERP solutions such as Microsoft Dynamics AX.
+* Experience supporting Enterprise Data Warehouse (EDW) environments and Microsoft SQL Server technologies including SSIS, SSAS, and SSRS.
+* Experience troubleshooting SQL Server performance issues and supporting clustered SQL Server environments.
+* Experience administering Microsoft Active Directory and supporting Microsoft Hyper-V environments.
+* Experience working within ITIL-based support processes.
+* Strong analytical, problem-solving, and troubleshooting skills.
+* Ability to independently learn and support unfamiliar business systems and technologies.
+* Ability to work independently with minimal supervision.
+* Experience working with globally distributed teams.
+* Excellent written and verbal communication skills in English.
+* Ability to create technical documentation, operational procedures, incident reports, and Root Cause Analysis documentation.
+
+**Preferred Qualifications**
+
+* Experience supporting manufacturing, engineering, warehouse management, and other business-critical enterprise applications. Experience with Teamcenter, NX, CAD/PDM/PLM platforms, WMS, OFS, TDM, or comparable business systems is considered an asset.
+* Experience with Azure, Citrix, Linux, Docker, or related infrastructure technologies.
+* Experience with Dynatrace monitoring solutions.
+* Experience troubleshooting Kerberos authentication issues.
+* Experience with PowerShell scripting and automation.
+
+**Key Competencies**
+
+* Self-motivated and highly independent.
+* Strong sense of ownership and accountability.
+* Strong analytical and troubleshooting skills.
+* Excellent communication and collaboration abilities.
+* Strong organizational and documentation skills.
+* Continuous learning mindset.
+
+**Success Profile**
+
+The ideal candidate is an experienced IT professional who combines strong enterprise application support, Microsoft SQL Server administration, and infrastructure troubleshooting skills. They are comfortable working in an environment consisting of both legacy and modern systems, can independently acquire expertise in unfamiliar technologies, and take ownership of ensuring the long-term stability, performance, and supportability of business-critical applications.",Industrial Manufacturing,https://in.indeed.com/cmp/Husky-Injection-Molding,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cfe19a3dd23d9d563ed0094526981e5a,http://www.husky.co/EN-US/,"Bolton, Ontario, Canada","1,001 to 5,000",,,,,3.7,127.0,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=3de481785c212bea,59,,"Linux, Shell Scripting, Shell, Root Cause Analysis, RCA","Application Logs, ITIL",,"shell scripting, shell, automation",,,1,True,False
+li-4306653345,linkedin,https://www.linkedin.com/jobs/view/4306653345,,"GCP Infrastructure Engineer - Google Cloud, Terraform, Python, Bash, GKE, CI/CD",UPS,"Chennai, Tamil Nadu, India",2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/ups,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4306653345,55,Infrastructure Engineer,Bash,"GCP, Google Cloud",,bash,,"gcp, google cloud",0,True,False
+li-4306641661,linkedin,https://www.linkedin.com/jobs/view/4306641661,,"GCP Infrastructure Engineer - Google Cloud, Terraform, Python, Bash, GKE, CI/CD",UPS,"Chennai, Tamil Nadu, India",2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/ups,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4306641661,55,Infrastructure Engineer,Bash,"GCP, Google Cloud",,bash,,"gcp, google cloud",0,True,False
+nk-111126015361,naukri,https://www.naukri.com/job-listings-senior-linux-administrator-infrastructure-cloud-operations-worktual-innovations-chennai-10-to-20-years-111126015361,,Senior Linux Administrator  Infrastructure & Cloud Operations,Worktual Innovations,"Chennai, India",2026-11-11,,,,,,,False,,,,,,,https://www.naukri.com/worktual-innovations-jobs-careers-156742,https://img.naukimg.com/logo_images/groups/v1/12050559.gif,,,,,,"Operations, Postgresql, MySQL, Linux, Cloud Operations, MySQL Administration, Senior, Linux internals",10-20 Yrs,1.5,42.0,3.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-linux-administrator-infrastructure-cloud-operations-worktual-innovations-chennai-10-to-20-years-111126015361,48,"Linux Administrator, Cloud Operations",Linux,,,,,,0,True,False
+nk-111126007906,naukri,https://www.naukri.com/job-listings-linux-administrator-deloitte-us-india-offices-hyderabad-bengaluru-6-to-10-years-111126007906,,Linux Administrator,Deloitte US-India Offices,"Hyderabad, Bengaluru, India",2026-11-11,,,,,,,False,,,,,,,https://www.naukri.com/deloitte-us-india-offices-jobs-careers-1706,https://img.naukimg.com/logo_images/groups/v1/224154.gif,,,,,,"Linux administration, Redhat Linux, Serv, Administration, System, Linux system administration, Linux, Server",6-10 Yrs,3.6,27210.0,22.0,Hybrid,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-deloitte-us-india-offices-hyderabad-bengaluru-6-to-10-years-111126007906,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4489916744,linkedin,https://www.linkedin.com/jobs/view/4489916744,,Linux System Administrator,Foodhub,"Chennai, Tamil Nadu, India",2026-11-11,,,,,,,False,,,,,,,https://ie.linkedin.com/company/foodhubuk,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4489916744,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4489903882,linkedin,https://www.linkedin.com/jobs/view/4489903882,,Senior Associate - Lead Cloud Operations Engineer [T500-30689],Deutsche Börse Group,"Hyderabad, Telangana, India",2026-11-11,,,,,,,False,,,,,,,https://de.linkedin.com/company/deutscheboersegroup,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4489903882,47,"Cloud Operations Engineer, Cloud Operations",,OCI,,,,oci,0,True,False
+li-4478686179,linkedin,https://www.linkedin.com/jobs/view/4478686179,,Senior Cloud Operations Engineer,Oracle,"Hyderabad, Telangana, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478686179,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+li-4488388657,linkedin,https://www.linkedin.com/jobs/view/4488388657,,Infrastructure Engineer I- HIMS Cloud Admin - Hyderabad,Deloitte,"Hyderabad, Telangana, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4488388657,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4462140765,linkedin,https://www.linkedin.com/jobs/view/4462140765,,Senior Cloud Infrastructure Engineer,HealthEdge,Greater Hyderabad Area,2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/healthedge,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4462140765,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
+li-4488307815,linkedin,https://www.linkedin.com/jobs/view/4488307815,,Platform & Infrastructure Engineer,Ericsson,"Bengaluru, Karnataka, India",2026-11-10,,,,,,,False,,,,,,,https://se.linkedin.com/company/ericsson,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4488307815,45,Infrastructure Engineer,,,,,,,0,True,False
 li-4472207051,linkedin,https://www.linkedin.com/jobs/view/4472207051,,Lead Systems Operations Engineer - Production Support,Wells Fargo,"Bengaluru, Karnataka, India",2026-11-08,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4472207051,45,Systems Operations Engineer,,Production Support,,,,,0,True,False
-li-4487435095,linkedin,https://www.linkedin.com/jobs/view/4487435095,,Principal Core Infrastructure Engineer,Oracle,"Bengaluru, Karnataka, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4487435095,45,Infrastructure Engineer,,,,,,,0,True,False
 li-4488898686,linkedin,https://www.linkedin.com/jobs/view/4488898686,,Systems Operations Engineer - Cloud Ops,Wells Fargo,Greater Hyderabad Area,2026-11-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4488898686,45,Systems Operations Engineer,,,,,,,0,True,False
-li-4487986280,linkedin,https://www.linkedin.com/jobs/view/4487986280,,Nutanix Infrastructure Engineer,RELIX HR Consulting Pvt Ltd - Recruitment Partner for Excellence,"Chennai, Tamil Nadu, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/relix-hr-consulting-pvt-ltd,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4487986280,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4487611955,linkedin,https://www.linkedin.com/jobs/view/4487611955,,Sr Engineer - Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-11-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4487611955,45,Cloud Operations,,,,,,,0,True,False
+li-4478666987,linkedin,https://www.linkedin.com/jobs/view/4478666987,,Senior Cloud Operations Engineer,Oracle,"Bengaluru, Karnataka, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478666987,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
 li-4436197883,linkedin,https://www.linkedin.com/jobs/view/4436197883,,Cloud Platforms Infrastructure Engineer,Guidehouse,"Chennai, Tamil Nadu, India",2026-11-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/guidehouse,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4436197883,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4487607945,linkedin,https://www.linkedin.com/jobs/view/4487607945,,Manager - Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-11-07,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux System Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4487607945,45,Cloud Operations,,,,,,,0,True,False
-li-4472097298,linkedin,https://www.linkedin.com/jobs/view/4472097298,,Lead Systems Operations Engineer,Wells Fargo,Greater Hyderabad Area,2026-11-08,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4472097298,45,Systems Operations Engineer,,,,,,,0,True,False
+li-4487486281,linkedin,https://www.linkedin.com/jobs/view/4487486281,,Senior Core Infrastructure Engineer,Oracle,"Chennai, Tamil Nadu, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4487486281,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4478667869,linkedin,https://www.linkedin.com/jobs/view/4478667869,,Senior Cloud Operations Engineer,Oracle,"Chennai, Tamil Nadu, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4478667869,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+nk-111126911812,naukri,https://www.naukri.com/job-listings-leads-systems-operations-engineer-infrastructure-development-wells-fargo-international-solutions-private-ltd-hyderabad-4-to-9-years-111126911812,https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Leads-Systems-Operations-Engineer---Infrastructure-Development_R-581851-1,Leads Systems Operations Engineer - Infrastructure Development,Wells Fargo,"Hyderabad, India",2026-11-11,,,,,,,False,,,,,,,https://www.naukri.com/wells-fargo-jobs-careers-135571,https://img.naukimg.com/logo_images/groups/v1/5239022.gif,,,,,,"Events, Event management, Appdynamics, Leadership, Application, Cloud Technologies, Impact analysis, Enterprise",4-9 Yrs,3.5,9885.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-leads-systems-operations-engineer-infrastructure-development-wells-fargo-international-solutions-private-ltd-hyderabad-4-to-9-years-111126911812,45,Systems Operations Engineer,,,,,,,0,True,False
