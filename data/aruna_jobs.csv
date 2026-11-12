@@ -1,4 +1,62 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_site,search_term,search_location,job_key,match_score,matched_roles,matched_high_priority,matched_additional,matched_patching,matched_automation,matched_storage,matched_cloud,experience_status,location_match,excluded
+in-7c1596494eaf6a1c,indeed,https://in.indeed.com/viewjob?jk=7c1596494eaf6a1c,,Linux Administrator,Exatron Servers Manufacturing Pvt Ltd,"KA, India",2026-11-12,fulltime,direct_data,yearly,500000.0,800000.0,INR,False,,,,,"**Key Responsibilities:**
+
+* Install, configure, and maintain Linux operating systems (e.g., Red Hat, CentOS, Ubuntu).
+* Monitor system performance and ensure availability and reliability.
+* Perform regular system updates, patches, and kernel upgrades.
+* Manage servers, file systems, user accounts, and access controls (ACLs).
+* Managing and Troubleshooting Storage mountpoints like, NFS & SMB and Block Storages
+* In-depth knowledge on Protocols like iSCSI, FC, NFS, SMB, HTTPS, FTP, WebDAV, S3, Etc.,
+* Troubleshoot hardware, software, and network-related issues.
+* Set up and maintain shell scripts for automation of routine tasks.
+* Implement and manage backup and recovery strategies.
+* Maintain system documentation and procedures.
+* Ensure system security through firewalls, access controls, and regular audits.
+* Work with development and DevOps teams to support CI/CD pipelines and containerized environments (e.g., Docker, Kubernetes).
+* Respond to system alerts and participate in on-call rotation for critical issues.
+
+**Qualifications:**
+
+**Required:**
+
+* Bachelor’s degree in computer science, Information Technology, or related field—or 3-4 years of equivalent experience.
+* 3+ years of experience as a Linux Administrator or similar role.
+* Strong understanding of Linux-based operating systems and command-line tools.
+* Experience with virtualization technologies (e.g., VMware, KVM).
+* Knowledge of scripting languages (e.g., Bash, Python).
+* Familiarity with monitoring tools (e.g., Nagios, Zabbix, Prometheus).
+* Understanding of networking fundamentals and security best practices.
+
+**Preferred:**
+
+* Certifications such as RHCSA, RHCE, or CompTIA Linux+.
+* Experience with cloud platforms (AWS, Azure, GCP).
+* Familiarity with Ansible, Puppet, or other configuration management tools.
+* Experience with container technologies and orchestration (Docker, Kubernetes).
+
+**Soft Skills:**
+
+* Strong analytical and problem-solving skills.
+* Excellent communication and documentation abilities.
+* Ability to work independently and collaboratively in a team environment.
+* Strong attention to detail and organizational skills.
+
+Job Type: Full-time
+
+Pay: ₹500,000.00 - ₹800,000.00 per year
+
+Benefits:
+
+* Health insurance
+* Paid sick time
+* Paid time off
+* Provident Fund
+
+License/Certification:
+
+* RHCE (Preferred)
+
+Work Location: In person",,https://in.indeed.com/cmp/Exatron-Servers-Manufacturing-Pvt-Ltd,,,,,,,,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=7c1596494eaf6a1c,83,Linux Administrator,"Linux, Red Hat, CentOS, Kernel Upgrade, NFS, Bash, Shell, Ansible","CentOS, VMware, AWS, GCP, HTTPS, Firewall, Firewalls, Networking, FTP, HTTP, NFS, Nagios, Backup, Recovery, System Performance",kernel upgrade,"ansible, bash, shell, automation","file system, nfs, storage","aws, gcp, vmware",1,False,False
 in-3de481785c212bea,indeed,https://in.indeed.com/viewjob?jk=3de481785c212bea,https://www.husky.co/en/careers/portal/details/?id=CfDJ8DQZ5pMmkeJEmYs0vj8c27OppRZkUyMbS2xEGO1QOCwBWUzc4rU95bMjo5K0rF1mzOsMZSoGHo8AlRjOMbOO4eDE6T5PGkz1R52MzhZlPU7bZ3lZShxZG-acpgWzXAxjeQ&title=I.T.+Systems+Administrator-+Husky+(India)+Chennai,I.T. Systems Administrator- Husky (India) Chennai,Husky Injection Molding,"TN, India",2026-11-10,fulltime,,,,,,False,,,,,"At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
 
 Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state-of-the-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
@@ -91,20 +149,121 @@ This position is fully onsite and reports remotely within a global IT organizati
 **Success Profile**
 
 The ideal candidate is an experienced IT professional who combines strong enterprise application support, Microsoft SQL Server administration, and infrastructure troubleshooting skills. They are comfortable working in an environment consisting of both legacy and modern systems, can independently acquire expertise in unfamiliar technologies, and take ownership of ensuring the long-term stability, performance, and supportability of business-critical applications.",Industrial Manufacturing,https://in.indeed.com/cmp/Husky-Injection-Molding,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cfe19a3dd23d9d563ed0094526981e5a,http://www.husky.co/EN-US/,"Bolton, Ontario, Canada","1,001 to 5,000",,,,,3.7,127.0,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=3de481785c212bea,59,,"Linux, Shell Scripting, Shell, Root Cause Analysis, RCA","Application Logs, ITIL",,"shell scripting, shell, automation",,,1,True,False
-li-4306653345,linkedin,https://www.linkedin.com/jobs/view/4306653345,,"GCP Infrastructure Engineer - Google Cloud, Terraform, Python, Bash, GKE, CI/CD",UPS,"Chennai, Tamil Nadu, India",2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/ups,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4306653345,55,Infrastructure Engineer,Bash,"GCP, Google Cloud",,bash,,"gcp, google cloud",0,True,False
-li-4306641661,linkedin,https://www.linkedin.com/jobs/view/4306641661,,"GCP Infrastructure Engineer - Google Cloud, Terraform, Python, Bash, GKE, CI/CD",UPS,"Chennai, Tamil Nadu, India",2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/ups,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4306641661,55,Infrastructure Engineer,Bash,"GCP, Google Cloud",,bash,,"gcp, google cloud",0,True,False
-nk-111126015361,naukri,https://www.naukri.com/job-listings-senior-linux-administrator-infrastructure-cloud-operations-worktual-innovations-chennai-10-to-20-years-111126015361,,Senior Linux Administrator  Infrastructure & Cloud Operations,Worktual Innovations,"Chennai, India",2026-11-11,,,,,,,False,,,,,,,https://www.naukri.com/worktual-innovations-jobs-careers-156742,https://img.naukimg.com/logo_images/groups/v1/12050559.gif,,,,,,"Operations, Postgresql, MySQL, Linux, Cloud Operations, MySQL Administration, Senior, Linux internals",10-20 Yrs,1.5,42.0,3.0,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-linux-administrator-infrastructure-cloud-operations-worktual-innovations-chennai-10-to-20-years-111126015361,48,"Linux Administrator, Cloud Operations",Linux,,,,,,0,True,False
-nk-111126007906,naukri,https://www.naukri.com/job-listings-linux-administrator-deloitte-us-india-offices-hyderabad-bengaluru-6-to-10-years-111126007906,,Linux Administrator,Deloitte US-India Offices,"Hyderabad, Bengaluru, India",2026-11-11,,,,,,,False,,,,,,,https://www.naukri.com/deloitte-us-india-offices-jobs-careers-1706,https://img.naukimg.com/logo_images/groups/v1/224154.gif,,,,,,"Linux administration, Redhat Linux, Serv, Administration, System, Linux system administration, Linux, Server",6-10 Yrs,3.6,27210.0,22.0,Hybrid,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-deloitte-us-india-offices-hyderabad-bengaluru-6-to-10-years-111126007906,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4489061838,linkedin,https://www.linkedin.com/jobs/view/4489061838,,Linux Administrator (RHEL/SUSE/Debian),Infosys,"Bengaluru East, Karnataka, India",2026-11-12,,,,,,,False,,,,,,,https://in.linkedin.com/company/infosys,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4489061838,51,Linux Administrator,"Linux, RHEL",,,,,,0,True,False
+li-4471590783,linkedin,https://www.linkedin.com/jobs/view/4471590783,,Linux Infrastructure Engineer - (RHEL/ SUSE),Lenovo,"Bangalore Urban, Karnataka, India",2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/lenovo,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4471590783,51,"Infrastructure Engineer, Linux Infrastructure Engineer","Linux, RHEL",,,,,,0,True,False
+in-1abf9cc60cd50ed4,indeed,https://in.indeed.com/viewjob?jk=1abf9cc60cd50ed4,https://careers.fisglobal.com/us/en/job/FIGLUSJR0310752EXTERNAL/Enterprise-Automation-Specialist-Ansible-AWX-AAP?utm_source=indeed&utm_medium=phenom-feeds,Enterprise Automation Specialist (Ansible/AWX/AAP),FIS,"MH, India",2026-11-11,fulltime,,,,,,False,,,,,"**Position Type :**
+
+Full time
+
+**Type Of Hire :**
+
+Experienced (relevant combo of work and education)
+
+**Education Desired :**
+
+Bachelor's Degree
+
+**Enterprise Automation Specialist (Ansible/AWX/AAP) – 10-14 Yrs – Pune/Bangalore Location**
+
+**About the Team**
+
+The Enterprise Platform Engineering team is responsible for delivering scalable, secure, and resilient automation capabilities across global infrastructure environments. The team drives infrastructure modernization, operational excellence, and enterprise-wide automation adoption through industry-leading automation and DevOps practices.
+
+**What You Will Be Doing**
+
+  
+
+* Lead the architecture, engineering, governance, and lifecycle management of **Ansible Automation Platform** (AAP), **AWX**, and enterprise automation solutions.
+* Design, develop, and maintain scalable automation frameworks for infrastructure provisioning, configuration management, patching, compliance, and operational workflows.
+* Drive Infrastructure as Code (IaC) practices and automation standards across enterprise platforms.
+* Develop and maintain advanced automation solutions using Python, PowerShell, Bash, and other scripting technologies.
+* Integrate automation platforms with enterprise tools including ServiceNow, monitoring solutions, cloud platforms, infrastructure management systems, and REST APIs.
+* Establish automation governance, coding standards, Git workflows, branching strategies, CI/CD pipelines, and platform best practices.
+* Lead platform upgrades, troubleshooting, performance tuning, resiliency improvements, and disaster recovery initiatives.
+* Implement and manage security controls including RBAC, secrets management, compliance, and audit requirements.
+* Partner with infrastructure, cloud, security, application, and operations teams to identify automation opportunities and drive modernization programs.
+* Mentor engineers and provide technical leadership on automation strategy, architecture, and operational excellence.
+* Leverage AI and Copilot technologies to accelerate automation development, testing, troubleshooting, documentation, and knowledge sharing.
+
+**What You Bring**
+
+  
+
+* 10+ years of experience in Infrastructure Engineering, Platform Engineering, DevOps, Automation, or Systems Engineering.
+* 5+ years of hands-on experience with Ansible, AWX, or Red Hat Ansible Automation Platform.
+* Strong hands-on development experience using Python, PowerShell, Bash, and Shell scripting.
+* Proven experience leading enterprise-scale automation initiatives and platform operations.
+* Experience delivering large-scale infrastructure modernization and automation transformation programs.
+* Strong knowledge of Windows and Linux operating systems, virtualization technologies, networking, and cloud infrastructure.
+* Deep understanding of Infrastructure as Code (IaC), automation frameworks, and configuration management principles.
+* Extensive experience designing, deploying, upgrading, operating, and troubleshooting enterprise-scale automation platforms.
+* Strong proficiency with GitHub, Git branching strategies, code review processes, and CI/CD methodologies.
+* Experience integrating automation solutions with REST APIs, ServiceNow, monitoring platforms, infrastructure tools, and cloud services.
+* Experience implementing platform resiliency, observability, disaster recovery, security controls, RBAC, and secrets management solutions.
+* Strong analytical, problem-solving, and solution architecture capabilities.
+* Excellent communication, stakeholder management, collaboration, and mentoring skills.
+* Ability to effectively leverage AI-assisted development tools and Copilot technologies.
+
+**Nice-to-Have Skills**
+
+  
+
+* Red Hat OpenShift and Kubernetes administration experience.
+* Terraform and Infrastructure as Code tooling expertise.
+* Experience with Azure, AWS, or GCP cloud platforms.
+* Hands-on experience with ServiceNow, GitHub Actions, Jenkins, and DevOps toolchains.
+* Knowledge of Observability platforms, Enterprise Monitoring, High Availability (HA), Disaster Recovery (DR), and Platform Operations.
+* Experience driving enterprise automation adoption and governance initiatives.
+* Exposure to AI-assisted software engineering and automation enablement.
+
+**Preferred Certifications**
+
+  
+
+* Red Hat Certified Specialist in Ansible Automation
+* Red Hat Certified Engineer (RHCE)
+* Red Hat Certified Architect (RHCA)
+* Microsoft Certified: Azure Administrator Associate
+* Microsoft Certified: Azure Solutions Architect Expert
+* AWS Certified Solutions Architect
+* HashiCorp Terraform Associate
+* GitHub Foundations or GitHub Advanced Security Certification
+
+**Added Bonus If You Have**
+
+  
+
+* Experience supporting large-scale financial services environments.
+* Expertise in multi-cloud automation strategies.
+* Experience building reusable automation frameworks and enterprise automation standards.
+
+**What We Offer you**
+
+At FIS, we are as committed to growing our employees’ careers as our own business. We offer:
+
+* Opportunities to innovate in fintech
+* Inclusive and diverse team atmosphere
+* Professional and personal development
+* Resources to contribute to your community
+* Competitive salary and benefits
+
+**Privacy Statement**
+
+FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.
+
+**Sourcing Model**
+
+Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.
+
+#pridepass",,https://in.indeed.com/cmp/Fis-9,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/74c24c519884acea1e53300addb0f7b6,https://www.fisglobal.com,"Jacksonville, FL","10,000+",more than $10B (USD),"FIS is a global leader in financial services technology, with a focus on retail and institutional banking, payments, asset and wealth management, risk and compliance, and outsourcing solutions.",,,3.4,2799.0,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=1abf9cc60cd50ed4,51,,"Linux, Red Hat, Bash, Shell Scripting, Shell, Ansible","AWS, OCI, GCP, Networking, iLO, Recovery, Disaster Recovery, ServiceNow, High Availability",patching,"ansible, bash, shell scripting, shell, automation",,"aws, oci, gcp",1,True,False
 li-4489916744,linkedin,https://www.linkedin.com/jobs/view/4489916744,,Linux System Administrator,Foodhub,"Chennai, Tamil Nadu, India",2026-11-11,,,,,,,False,,,,,,,https://ie.linkedin.com/company/foodhubuk,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4489916744,48,Linux System Administrator,Linux,,,,,,0,True,False
+li-4489929128,linkedin,https://www.linkedin.com/jobs/view/4489929128,,Cloud Operations Engineer - Linux,MRI Software,"Bengaluru, Karnataka, India",2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/mri-software-llc,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4489929128,48,"Cloud Operations Engineer, Cloud Operations",Linux,,,,,,0,True,False
+nk-121126907428,naukri,https://www.naukri.com/job-listings-senior-linux-infrastructure-operations-engineer-linux-p3-production-ws-atkins-india-private-limited-bengaluru-bengaluru-8-to-13-years-121126907428,,Senior Linux Infrastructure Operations Engineer - Linux P3 production,AtkinsRéalis,"Bengaluru, Bengaluru, India",2026-11-12,,,,,,,False,,,,,,,https://www.naukri.com/atkinsr-alis-jobs-careers-25521,https://img.naukimg.com/logo_images/groups/v1/26078.gif,,,,,,"Customer satisfaction, Linux, Senior, Enterprise, Management, Automation tools, Infrastructure Operations, Administration",8-13 Yrs,3.7,1545.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-linux-infrastructure-operations-engineer-linux-p3-production-ws-atkins-india-private-limited-bengaluru-bengaluru-8-to-13-years-121126907428,48,Infrastructure Operations Engineer,Linux,Infrastructure Operations,,,,,0,True,False
 li-4489903882,linkedin,https://www.linkedin.com/jobs/view/4489903882,,Senior Associate - Lead Cloud Operations Engineer [T500-30689],Deutsche Börse Group,"Hyderabad, Telangana, India",2026-11-11,,,,,,,False,,,,,,,https://de.linkedin.com/company/deutscheboersegroup,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4489903882,47,"Cloud Operations Engineer, Cloud Operations",,OCI,,,,oci,0,True,False
-li-4478686179,linkedin,https://www.linkedin.com/jobs/view/4478686179,,Senior Cloud Operations Engineer,Oracle,"Hyderabad, Telangana, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478686179,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-li-4488388657,linkedin,https://www.linkedin.com/jobs/view/4488388657,,Infrastructure Engineer I- HIMS Cloud Admin - Hyderabad,Deloitte,"Hyderabad, Telangana, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4488388657,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4462140765,linkedin,https://www.linkedin.com/jobs/view/4462140765,,Senior Cloud Infrastructure Engineer,HealthEdge,Greater Hyderabad Area,2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/healthedge,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4462140765,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
-li-4488307815,linkedin,https://www.linkedin.com/jobs/view/4488307815,,Platform & Infrastructure Engineer,Ericsson,"Bengaluru, Karnataka, India",2026-11-10,,,,,,,False,,,,,,,https://se.linkedin.com/company/ericsson,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4488307815,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4472207051,linkedin,https://www.linkedin.com/jobs/view/4472207051,,Lead Systems Operations Engineer - Production Support,Wells Fargo,"Bengaluru, Karnataka, India",2026-11-08,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4472207051,45,Systems Operations Engineer,,Production Support,,,,,0,True,False
-li-4488898686,linkedin,https://www.linkedin.com/jobs/view/4488898686,,Systems Operations Engineer - Cloud Ops,Wells Fargo,Greater Hyderabad Area,2026-11-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4488898686,45,Systems Operations Engineer,,,,,,,0,True,False
 li-4478666987,linkedin,https://www.linkedin.com/jobs/view/4478666987,,Senior Cloud Operations Engineer,Oracle,"Bengaluru, Karnataka, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4478666987,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-li-4436197883,linkedin,https://www.linkedin.com/jobs/view/4436197883,,Cloud Platforms Infrastructure Engineer,Guidehouse,"Chennai, Tamil Nadu, India",2026-11-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/guidehouse,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4436197883,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4487486281,linkedin,https://www.linkedin.com/jobs/view/4487486281,,Senior Core Infrastructure Engineer,Oracle,"Chennai, Tamil Nadu, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4487486281,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4478686179,linkedin,https://www.linkedin.com/jobs/view/4478686179,,Senior Cloud Operations Engineer,Oracle,"Hyderabad, Telangana, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478686179,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+li-4462140765,linkedin,https://www.linkedin.com/jobs/view/4462140765,,Senior Cloud Infrastructure Engineer,HealthEdge,Greater Hyderabad Area,2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/healthedge,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4462140765,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
+li-4489070697,linkedin,https://www.linkedin.com/jobs/view/4489070697,,zDIH Infrastructure Engineer,Infosys,"Chennai, Tamil Nadu, India",2026-11-12,,,,,,,False,,,,,,,https://in.linkedin.com/company/infosys,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4489070697,45,Infrastructure Engineer,,,,,,,0,True,False
+li-4482070055,linkedin,https://www.linkedin.com/jobs/view/4482070055,,"Specialist, Infrastructure Engineer",BNY,Pune/Pimpri-Chinchwad Area,2026-11-11,,,,,,,False,,,,,,,https://www.linkedin.com/company/bnyglobal,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4482070055,45,Infrastructure Engineer,,,,,,,0,True,False
 li-4478667869,linkedin,https://www.linkedin.com/jobs/view/4478667869,,Senior Cloud Operations Engineer,Oracle,"Chennai, Tamil Nadu, India",2026-11-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4478667869,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-nk-111126911812,naukri,https://www.naukri.com/job-listings-leads-systems-operations-engineer-infrastructure-development-wells-fargo-international-solutions-private-ltd-hyderabad-4-to-9-years-111126911812,https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/Hyderabad-India/Leads-Systems-Operations-Engineer---Infrastructure-Development_R-581851-1,Leads Systems Operations Engineer - Infrastructure Development,Wells Fargo,"Hyderabad, India",2026-11-11,,,,,,,False,,,,,,,https://www.naukri.com/wells-fargo-jobs-careers-135571,https://img.naukimg.com/logo_images/groups/v1/5239022.gif,,,,,,"Events, Event management, Appdynamics, Leadership, Application, Cloud Technologies, Impact analysis, Enterprise",4-9 Yrs,3.5,9885.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-leads-systems-operations-engineer-infrastructure-development-wells-fargo-international-solutions-private-ltd-hyderabad-4-to-9-years-111126911812,45,Systems Operations Engineer,,,,,,,0,True,False
+li-4436197883,linkedin,https://www.linkedin.com/jobs/view/4436197883,,Cloud Platforms Infrastructure Engineer,Guidehouse,"Chennai, Tamil Nadu, India",2026-11-09,,,,,,,False,,,,,,,https://www.linkedin.com/company/guidehouse,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4436197883,45,Infrastructure Engineer,,,,,,,0,True,False
