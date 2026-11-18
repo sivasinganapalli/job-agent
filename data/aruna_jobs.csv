@@ -173,9 +173,130 @@ Engineering helps empower and drive mission-critical solutions whether we need t
 * VMware Administration
 * x86 Hardware (HP, Dell, IBM)
 * Cloud Platforms (AWS/Azure/GCP)
-* IDM, CyberArk,Ansible,Puppet,ServiceNow",,https://in.indeed.com/cmp/Deloitte,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/30cd1378bfa8b1b15fd194651407a294,http://www.deloitte.com,"New York, NY","10,000+",more than $10B (USD),,,,3.9,14392.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=668a3f75e53c0558,70,,"Linux, Linux Administration, RHEL, Red Hat Enterprise Linux, Red Hat, LVM, Logical Volume Manager, Storage Management, Shell Scripting, Shell, Ansible","RHEL 7, VMware, AWS, GCP, ServiceNow",,"ansible, shell scripting, shell, automation","lvm, logical volume manager, storage","aws, gcp, vmware",0,True,False
-li-4491280859,linkedin,https://www.linkedin.com/jobs/view/4491280859,,Unix Linux Administrator,Tekskills Inc.,"Chennai, Tamil Nadu, India",2026-11-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/tekskills-inc,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4491280859,51,Linux Administrator,"Linux, Unix",,,,,,0,True,False
-li-4491279992,linkedin,https://www.linkedin.com/jobs/view/4491279992,,"Sr. Systems Engineer - Linux, Python, Kbs, Containers, On-Prem, Platform Engineering",Visa,"Bengaluru, Karnataka, India",2026-11-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/visa,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4491279992,48,Systems Engineer Linux,Linux,,,,,,0,True,False
+* IDM, CyberArk,Ansible,Puppet,ServiceNow",,https://in.indeed.com/cmp/Deloitte,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/30cd1378bfa8b1b15fd194651407a294,http://www.deloitte.com,"New York, NY","10,000+",more than $10B (USD),,,,3.9,14393.0,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=668a3f75e53c0558,70,,"Linux, Linux Administration, RHEL, Red Hat Enterprise Linux, Red Hat, LVM, Logical Volume Manager, Storage Management, Shell Scripting, Shell, Ansible","RHEL 7, VMware, AWS, GCP, ServiceNow",,"ansible, shell scripting, shell, automation","lvm, logical volume manager, storage","aws, gcp, vmware",0,True,False
+in-1417203c56c209d9,indeed,https://in.indeed.com/viewjob?jk=1417203c56c209d9,https://career55.sapsf.eu/career?company=HCLPRD&career_ns=job_listing&career_job_req_id=137820&lang=en_US&jobPipeline=Indeed,"SeniorAdministrator - Linux, Red Hat Cluster, Red Hat Satellite",HCLTech,"MH, India",2026-11-17,,,,,,,False,,,,,"**Job Summary**
+---------------
+
+**Job Summary :** Keywords: Linux, UNIX, KVM, VMware, HPE VM Essentials, Morpheus, virtualization, storage, networking, clustering, Serviceguard, Pacemaker, LVM, SAN, NAS, automation, troubleshooting Description: Senior hands-on consulting role for designing, deploying, integrating, and supporting enterprise virtualized platforms in regulated environments. The emphasis is on practical technical ownership, architecture translation, platform validation, root cause analysis, and cross-domain delivery. **Job Responsibilities :** Description: Senior hands-on consulting role for designing, deploying, integrating, and supporting enterprise virtualized platforms in regulated environments. The emphasis is on practical technical ownership, architecture translation, platform validation, root cause analysis, and cross-domain delivery.**Job Description :** Good communication and attitude. Customer facing.
+
+**Key Responsibilities**
+------------------------
+
+1. Provide Advanced Technical Support For Complex Incidents Related To Linux And Redhat Satellite, Conducting Thorough Root Cause Analysis To Implement Effective Solutions For Technical And Security Challenges.  
+2. Adhere To Quality Standards And Regulatory Requirements While Ensuring Compliance With Company Policies Throughout Support Operations.  
+3. Manage And Update The Knowledge Base, Contributing To Effective Documentation And Ongoing Training For New Team Members And Analysts.  
+4. Resolve Complex Support Tickets Within Agreed Slas And Collaborate With Cross-Functional Teams To Enhance Operational Efficiency And Strengthen Security Posture.  
+5. Drive Customer Satisfaction By Achieving High First Call Resolution Rates, Minimizing Rejected Resolutions And Case Reopenings, And Proactively Mitigating Security Threats.
+
+**Skill Requirements**
+----------------------
+
+**Skill Requirement :** Keywords: Linux, UNIX, KVM, VMware, HPE VM Essentials, Morpheus, virtualization, storage, networking, clustering, Serviceguard, Pacemaker, LVM, SAN, NAS, automation, troubleshooting.
+
+**Must Have Skill**
+-------------------
+
+Red Hat Enterprise Linux,Red Hat Satellite,Red Hat Cluster
+
+**Good to Have Skill**
+----------------------
+
+**Other Requirements**
+----------------------
+
+**Other Requirement :** Customer offices in Pune work location mandatory.1. Red Hat Certified System Administrator (Rhcsa) Certification Is Optional But Valuable.
+  
+2. Itil Foundation Certification Is Recommended For Best Practices In Service Management",,https://in.indeed.com/cmp/Hcltech-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/40cde44a6facf2f0d15e3964cedc4417,https://www.hcltech.com,Noida,"10,000+",more than $10B (USD),,,,3.7,11377.0,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=1417203c56c209d9,62,,"Linux, Red Hat Enterprise Linux, Red Hat, Unix, Red Hat Satellite, LVM, Root Cause Analysis","VMware, Networking, ITIL, SLA",red hat satellite,automation,"lvm, storage",vmware,0,True,False
+in-e886c5c046f0ec78,indeed,https://in.indeed.com/viewjob?jk=e886c5c046f0ec78,https://botvfx.keka.com/careers/jobdetails/136318,Senior System Administrator,BOT VFX,"TN, India",2026-11-17,fulltime,,,,,,False,,,,,"**Job Summary**
+---------------
+
+We are seeking an experienced **Senior System Administrator** to join our IT team. The ideal candidate will be responsible for managing Linux-based infrastructure, virtualization platforms, enterprise IT systems, and providing advanced technical support for production environments. This role will act as the technical escalation point for L1 and L2 support teams, ensuring high availability of IT services while driving automation, operational excellence, and continuous service improvement.
+
+**Key Responsibilities**
+------------------------
+
+### **Infrastructure Administration**
+
+* Administer, maintain, and troubleshoot Linux servers and workstations (Rocky Linux, Ubuntu, and other Enterprise Linux distributions).
+* Manage virtualization platforms such as, oVirt, Proxmox,
+* Perform system installation, upgrades, patching, performance tuning, and capacity planning.
+* Monitor system health and proactively resolve infrastructure issues.
+
+### **Technical Support & Service Operations**
+
+* Act as the final technical escalation point for complex infrastructure and production issues.
+* Handle escalated incidents from L1 and L2 support engineers.
+* Provide technical guidance, mentoring, and knowledge sharing to junior engineers.
+* Ensure SLA compliance and timely resolution of incidents and service requests.
+* Participate in root cause analysis (RCA) and implement preventive measures.
+
+### **Production & DCC Application Support**
+
+* Support Digital Content Creation (DCC) applications used in VFX production (such as Autodesk Maya, Nuke, Houdini, Adobe Creative Cloud, 3DEqualizer, etc.).
+* Troubleshoot workstation performance issues affecting artists and production teams.
+* Coordinate with Pipeline, Production, and Development teams to resolve technical issues.
+
+### **Automation & Scripting**
+
+* Develop automation scripts using Shell (Bash) and/or Python.
+* Automate routine system administration and operational tasks.
+* Improve operational efficiency through scripting and process automation.
+
+### **Networking**
+
+* Troubleshoot LAN/WAN connectivity issues.
+* Configure and manage VLANs, Layer 2 switching, and basic routing.
+* Configure and troubleshoot managed switches.
+* Work with firewall, DNS, DHCP, VPN, and network services.
+* Support network changes during infrastructure implementations.
+
+### **Documentation & Compliance**
+
+* Create and maintain technical documentation, SOPs, knowledge base articles, and system diagrams.
+* Maintain accurate documentation for infrastructure changes and configurations.
+* Follow IT security policies, change management, and operational procedures.
+
+**Required Skills**
+-------------------
+
+* Strong hands-on experience with **Rocky Linux, Ubuntu, and Enterprise Linux administration**.
+* Experience managing Linux servers and desktop environments.
+* Strong knowledge of virtualization technologies (VMware, oVirt, Nutanix AHV, Proxmox, Hyper-V, or similar).
+* Experience handling complex infrastructure incidents and escalated support tickets.
+* Experience supporting L1 and L2 engineers.
+* Strong knowledge of enterprise ticketing systems (Jira, ServiceNow, ManageEngine, Freshservice, GLPI, etc.).
+* Hands-on experience supporting DCC applications in production environments.
+* Strong Shell (Bash) scripting skills.
+* Good Python scripting knowledge for automation.
+* Good understanding of networking concepts including:
+  + TCP/IP
+  + DNS
+  + DHCP
+  + VLAN configuration
+  + Layer 2 Switching
+  + Basic Routing
+  + VPN
+* Experience with system monitoring and troubleshooting tools.
+* Excellent analytical and problem-solving skills.
+* Strong documentation and technical writing skills.
+* Good verbal and written communication skills.
+* Ability to work independently and lead technical troubleshooting activities.
+
+**Preferred Skills**
+--------------------
+
+* Minimum **2+ years of experience in the VFX, Animation, or Media & Entertainment industry.**
+* Experience with Active Directory, LDAP, or identity management solutions.
+* Knowledge of Google Workspace or Microsoft 365 administration.
+* Experience with monitoring tools such as Grafana, Prometheus, Zabbix, or Nagios.
+* Knowledge of backup and disaster recovery solutions.
+* Familiarity with container technologies (Docker/Podman) is an advantage.
+* Exposure to configuration management and Infrastructure as Code tools (Ansible, Terraform) is a plus.",,https://in.indeed.com/cmp/Bot-Vfx,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f2f42f9bbac844c71a2e112e4468e231,http://www.botvfx.com,Atlanta,51 to 200,,,,,4.3,3.0,,,indeed,Linux Administrator,"Chennai, Tamil Nadu, India",https://in.indeed.com/viewjob?jk=e886c5c046f0ec78,60,,"Linux, Linux Administration, Bash, Shell, Ansible, Root Cause Analysis, RCA","VMware, TCP/IP, TCP IP, DNS, DHCP, Firewall, Networking, DHCP, DNS, Nagios, Grafana, System Monitoring, Backup, Recovery, Disaster Recovery, ServiceNow, SLA, Change Management, High Availability",patching,"ansible, bash, shell, automation",,vmware,1,False,False
+li-4490845422,linkedin,https://www.linkedin.com/jobs/view/4490845422,,Infrastructure Engineer III- Storage & Automation,JPMorganChase,"Hyderabad, Telangana, India",2026-11-18,,,,,,,False,,,,,,,https://www.linkedin.com/company/jpmorganchase,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4490845422,50,Infrastructure Engineer,,,,automation,storage,,0,True,False
+nk-051125012008,naukri,https://www.naukri.com/job-listings-system-administrator-linux-food-hub-software-solutions-chennai-3-to-6-years-051125012008,,System Administrator -Linux,Food Hub Software Solutions,"Chennai(Manapakkam), India",2026-11-18,,direct_data,yearly,300000.0,650000.0,INR,False,,,,,,,https://www.naukri.com/food-hub-solutions-jobs-careers-2567346,https://img.naukimg.com/logo_images/groups/v1/6756583.gif,,,,,,"Linux administration, Redhat Linux, IT support, Engine, Management, Centos, Serv, Administration",3-6 Yrs,3.2,95.0,2.0,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-system-administrator-linux-food-hub-software-solutions-chennai-3-to-6-years-051125012008,48,System Administrator Linux,Linux,,,,,,0,True,False
+li-4491280859,linkedin,https://www.linkedin.com/jobs/view/4491280859,,Linux Administrator,Tekskills Inc.,"Chennai, Tamil Nadu, India",2026-11-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/tekskills-inc,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4491280859,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-181126012494,naukri,https://www.naukri.com/job-listings-opening-for-rhel-administrator-third-party-wfo-belapur-location-futurz-staffing-solutions-navi-mumbai-pune-mumbai-all-areas-3-to-6-years-181126012494,,Job Opening For RHEL Administrator-Third Party-WFO-Belapur Location,Futurz Staffing Solutions,"Navi Mumbai, Pune(Pune Mumbai Highway), Mumbai (All Areas), India",2026-11-18,,direct_data,yearly,375000.0,700000.0,INR,False,,,,,,,https://www.naukri.com/futurz-staffing-solutions-jobs-careers-2031534,https://img.naukimg.com/logo_images/groups/v1/4658191.gif,,,,,,"RHEL Linux, Linux, RHEL, Administration",3-6 Yrs,,,2.0,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-opening-for-rhel-administrator-third-party-wfo-belapur-location-futurz-staffing-solutions-navi-mumbai-pune-mumbai-all-areas-3-to-6-years-181126012494,48,RHEL Administrator,RHEL,,,,,,0,True,False
+li-4448149018,linkedin,https://www.linkedin.com/jobs/view/4448149018,,Sr. IT Infrastructure Engineer,Dolby Laboratories,"Bengaluru, Karnataka, India",2026-11-18,,,,,,,False,,,,,,,https://www.linkedin.com/company/dolbylaboratories,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4448149018,45,"Infrastructure Engineer, IT Infrastructure Engineer",,,,,,,0,True,False
 li-4490960061,linkedin,https://www.linkedin.com/jobs/view/4490960061,,Assistant Manager - Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-11-16,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4490960061,45,Cloud Operations,,,,,,,0,True,False
 li-4490439390,linkedin,https://www.linkedin.com/jobs/view/4490439390,,Infrastructure Engineer,Arrow Electronics,"Bengaluru East, Karnataka, India",2026-11-17,,,,,,,False,,,,,,,https://www.linkedin.com/company/arrow-electronics,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4490439390,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4489748514,linkedin,https://www.linkedin.com/jobs/view/4489748514,,Cloud Operations Engineer,ONMO+,"Bengaluru, Karnataka, India",2026-11-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/onmoplusgaming,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4489748514,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+nk-181126927159,naukri,https://www.naukri.com/job-listings-assistant-manager-cloud-operations-tata-communications-ltd-chennai-8-to-10-years-181126927159,,Assistant Manager - Cloud Operations,Tata Communications,"Chennai, India",2026-11-18,,,,,,,False,,,,,,,https://www.naukri.com/tata-communications-jobs-careers-961,https://img.naukimg.com/logo_images/groups/v1/230364.gif,,,,,,"Redhat Linux, Servicenow, Cloud Operations, Middleware, Operating, Management, Capa, Maintenance",8-10 Yrs,3.8,4464.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-assistant-manager-cloud-operations-tata-communications-ltd-chennai-8-to-10-years-181126927159,45,Cloud Operations,,,,,,,0,True,False
