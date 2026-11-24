@@ -83,95 +83,6 @@ We are looking for an experienced **Data Center L2 Engineer** with strong expert
 Pay: ₹500,000.00 - ₹1,500,000.00 per year
 
 Work Location: In person",,https://in.indeed.com/cmp/Wits-Innovation-Lab-2,,,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=e9d1963d33dd1b38,90,Linux Administrator,"Linux, Linux Administration, Linux System Administration, RHEL, Red Hat Enterprise Linux, Red Hat, CentOS, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","CentOS, VMware, TCP/IP, TCP IP, DNS, SSH, Firewall, Networking, FTP, NFS, DNS, Nagios, Grafana, System Monitoring, Permissions, ITIL, SLA, Incident Management, Production Support, Vulnerability Management, Server Provisioning, Infrastructure Operations, High Availability, System Performance",patching,"ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage",vmware,1,True,False
-in-19149ed54a977c30,indeed,https://in.indeed.com/viewjob?jk=19149ed54a977c30,https://thewitslab.keka.com/careers/jobdetails/148114?source=indeed%20job%20posts,Linux Administrator - Data Center L2 Engineer,WITS INNOVATION LAB,"TS, India",2026-11-23,,,,,,,False,,,,,"**Role Overview**
-
-We are looking for an experienced Data Center L2 Engineer with strong expertise in Linux Administration and hands-on exposure to Python scripting and Ansible automation. The candidate will be responsible for managing and supporting enterprise production environments, ensuring high availability, infrastructure security, performance optimization, and effective troubleshooting across Linux-based systems.
-
-**Key Responsibilities**
-
-**1. Linux System Administration**
-
-* Administer and maintain Linux servers, including RHEL, CentOS, Rocky Linux, and Ubuntu.
-* Perform OS installation, configuration, patching, upgrades, and lifecycle management.
-* Monitor server health, CPU, memory, storage, and network utilization.
-* Troubleshoot OS, filesystem, kernel, service, and application-related issues.
-* Manage user accounts, access controls, sudo permissions, and security policies.
-* Handle LVM, disk partitioning, filesystem expansion, and storage administration.
-* Perform server hardening as per organizational security standards.
-* Configure and troubleshoot services such as SSH, NFS, FTP, DNS, NTP, Apache, and Nginx.
-
-**2. Data Center Operations**
-
-* Support production and Disaster Recovery (DR) infrastructure environments.
-* Participate in planned maintenance, patching, upgrades, and change implementation.
-* Coordinate with application, network, security, and storage teams for issue resolution.
-* Ensure compliance with SLAs, system availability, and operational standards.
-
-**3. Automation & Scripting**
-
-* Develop and maintain Python scripts to automate routine operational tasks.
-* Create and manage Ansible playbooks for configuration management and server provisioning.
-* Automate patching, compliance checks, routine administration, and reporting activities.
-* Contribute to infrastructure automation and operational efficiency initiatives.
-
-**4. Monitoring & Incident Management**
-
-* Handle L2 incidents, troubleshooting, Root Cause Analysis (RCA), and problem management.
-* Work with monitoring tools such as Nagios, Zabbix, Prometheus, Grafana, or SolarWinds.
-* Participate in on-call support and critical incident management.
-* Maintain operational reports, technical documentation, and incident records.
-
-**5. Security & Compliance**
-
-* Implement security patches and vulnerability remediation.
-* Support infrastructure audits, compliance reviews, and security assessments.
-* Ensure adherence to cybersecurity standards and organizational security policies.
-
-**Required Technical Skills**
-
-**Primary Skills (Must-Have):**
-
-* Strong Linux Administration experience (RHEL, CentOS, Rocky Linux, Ubuntu).
-* Server monitoring and performance tuning.
-* Shell Scripting (Bash).
-* Python Scripting.
-* Ansible Automation and Playbook Development.
-* OS Patching and Vulnerability Management.
-* System Monitoring and Troubleshooting.
-* Production Support and L2 Incident Management.
-
-**Secondary Skills (Good to Have):**
-
-* VMware and Virtualization Technologies.
-* SAN/NAS Storage Concepts.
-* Git Version Control.
-* Docker and Container Fundamentals.
-* Basic Networking: TCP/IP, DNS, Routing, and Firewall.
-* ITIL Processes and Change Management.
-
-**Experience & Qualifications**
-
-* Bachelor's degree in Computer Science, Information Technology, Electronics, or a related discipline.
-* 5+ years of experience in Linux System Administration within enterprise or data center environments.
-* Hands-on experience supporting production and mission-critical infrastructure.
-* Practical exposure to Python scripting and Ansible automation is mandatory.
-* Experience in BFSI, FinTech, Payment Systems, or 24x7 production support environments will be preferred.
-
-**Preferred Certifications**
-
-* Red Hat Certified System Administrator (RHCSA).
-* Red Hat Certified Engineer (RHCE).
-* Ansible Automation Certification.
-* ITIL Foundation Certification.
-* Linux Professional Institute Certification (LPIC).
-
-**Key Competencies**
-
-* Strong analytical, troubleshooting, and problem-solving skills.
-* Ability to handle critical production incidents under pressure.
-* Good communication and stakeholder management skills.
-* Customer-focused approach with strong ownership and accountability.
-* Ability to work in rotational shifts and provide on-call support.",,https://in.indeed.com/cmp/Wits-Innovation-Lab,,,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=19149ed54a977c30,83,Linux Administrator,"Linux, Linux Administration, Linux System Administration, RHEL, Red Hat, CentOS, OS Patching, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","CentOS, VMware, TCP/IP, TCP IP, DNS, SSH, Firewall, Networking, FTP, NFS, DNS, Nagios, Grafana, Server Monitoring, System Monitoring, Recovery, Disaster Recovery, Permissions, ITIL, SLA, Incident Management, Change Management, Production Support, Vulnerability Management, Server Provisioning, High Availability","patching, os patching","ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage",vmware,1,False,False
 in-d5d03a651c8c35ba,indeed,https://in.indeed.com/viewjob?jk=d5d03a651c8c35ba,,Linux Administrator - Data Center L2 Engineer,WITS INNOVATION LAB,"TS, India",2026-11-23,fulltime,direct_data,yearly,189000.0,1950000.0,INR,False,,,,,"Role Summary:-
 
 We are looking for an experienced Data Center L2 Engineer with strong expertise in Linux Administration and exposure to Python scripting and Ansible automation. The candidate will be responsible for managing critical production environments, ensuring high availability, security compliance, infrastructure automation, performance optimization, and troubleshooting across enterprise Linux platforms.
@@ -304,7 +215,139 @@ Secondary Skills
 
 Pay: ₹189,000.00 - ₹1,950,000.00 per year
 
-Work Location: In person",,https://in.indeed.com/cmp/Wits-Innovation-Lab,,,,,,,,,,,,,indeed,Linux System Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=d5d03a651c8c35ba,80,Linux Administrator,"Linux, Linux Administration, Linux System Administration, RHEL, Red Hat Enterprise Linux, Red Hat, CentOS, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","CentOS, VMware, TCP/IP, TCP IP, DNS, SSH, Firewall, Networking, FTP, NFS, DNS, Nagios, Grafana, System Monitoring, Permissions, ITIL, SLA, Incident Management, Production Support, Vulnerability Management, Server Provisioning, High Availability, System Performance",patching,"ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage",vmware,1,False,False
+Work Location: In person",,https://in.indeed.com/cmp/Wits-Innovation-Lab,,,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=d5d03a651c8c35ba,80,Linux Administrator,"Linux, Linux Administration, Linux System Administration, RHEL, Red Hat Enterprise Linux, Red Hat, CentOS, LVM, NFS, Bash, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","CentOS, VMware, TCP/IP, TCP IP, DNS, SSH, Firewall, Networking, FTP, NFS, DNS, Nagios, Grafana, System Monitoring, Permissions, ITIL, SLA, Incident Management, Production Support, Vulnerability Management, Server Provisioning, High Availability, System Performance",patching,"ansible, bash, shell scripting, shell, automation","lvm, filesystem, nfs, storage",vmware,1,False,False
+in-c964de8eed5a7d15,indeed,https://in.indeed.com/viewjob?jk=c964de8eed5a7d15,"https://careers-bmwtechworks.peoplestrong.com/api/cp/rest/altone/cp/job/1927114/v2?part=basic,organisational,descriprion,qualification,skills&isReqId=true",Sr. Infrastructure Operations Engineer,BMW TechWorks India,"MH, India",2026-11-22,,,,,,,False,,,,,"Required Experience, minimum: 8 years
+
+  
+
+Required Experience, maximum: 12 years
+
+  
+
+* Skills: DevOps, AWS, Infra & Dev Ops Lead, Infra & Network, Infra Administration and Maintenance, Cloud Applications, Docker and kubernetes, SRE, Incident Management, Ansible, Terraform
+
+  
+
+* Minimum Qualification: B.Tech/B.E
+
+  
+
+**About Company:**
+
+At BMW TechWorks India, a joint venture between the BMW Group and Tata Technologies, we engineer in India for the world. With our offices in Pune, Bengaluru and Chennai we are a key building block in delivering software and IT solutions for whole BMW. Starting from contributions to the software defined vehicle (SDV), automated driving, digital infotainment to automotive digital services.
+
+**About Unit:**
+
+Software Factory is the unit which is support functions for all vertical business domains. It is mainly focuses on developing various tools & Infra. The BMW Software Factory is a collection of tools and platforms that BMW uses to develop software for its vehicles:
+
+**Job Description – Sr Infrastructure Operations Engineer**
+===========================================================
+
+**Role:** Infrastructure Operations Engineer
+  
+**Experience:** 8 - 12 Years
+  
+**Level:** Sr - Level
+  
+**Function:** Backbone Infrastructure Operations
+
+**Role Overview**
+-----------------
+
+We are looking for a hands-on **Infrastructure Operations Engineer** to operate, monitor and support business-critical cloud and platform infrastructure.The role will be responsible for **infrastructure monitoring, alert management, incident response, troubleshooting, release support and operational automation** , with a strong focus on AWS and Kubernetes-based environments.
+
+**Key Responsibilities**
+------------------------
+
+* Monitor infrastructure, cloud services and platform health and proactively respond to alerts.
+* Handle L1/ **L2 infrastructure incidents** , service disruptions and operational requests.
+* Perform technical troubleshooting and **Root Cause Analysis (RCA)** for infrastructure and platform issues.
+* Support production **AWS Cloud and EKS Kubernetes** environments.
+* Monitor systems and services using **Grafana and cloud/platform monitoring solutions** .
+* Manage alerts, operational dashboards and infrastructure health checks.
+* Support **release and deployment activities** , including troubleshooting deployment-related infrastructure issues.
+* Operate and troubleshoot Kubernetes workloads, nodes, networking, scaling and platform components.
+* Support **IAM, Entra ID, RBAC, access management, secrets and security controls** .
+* Maintain and automate infrastructure using **Pulumi, Terraform and Ansible** .
+* Support Kubernetes ecosystem components including **Karpenter, Istio Service Mesh and Kyverno** .
+* Troubleshoot infrastructure areas such as **DNS/BIND, networking, certificates, compute, storage and access** .
+* Maintain configuration and infrastructure documentation.
+* Create and maintain **SOPs, runbooks and troubleshooting guides** .
+* Participate in incident, problem and change management processes.
+* Identify repetitive operational activities and automate them.
+* Participate in **on-call / 24×7 operational support**
+Collaborate with engineering, DevOps, application and security teams for issue resolution.  
+
+**Core Technical Skills**
+-------------------------
+
+**Cloud & Infrastructure**
+
+* AWS Cloud
+* Linux Administration
+* Networking, DNS/BIND, TLS and certificates
+IAM and RBAC  
+
+**Containers & Platform**
+
+* Kubernetes / AWS EKS
+* Docker
+* Helm
+* Karpenter
+Istio Service Mesh  
+
+**Infrastructure as Code & Automation**
+
+* Pulumi
+* Terraform
+* Ansible
+Python / Shell scripting  
+
+**Monitoring & Operations**
+
+* Grafana
+* Infrastructure and application monitoring
+* Alert Management
+* Log analysis
+* Incident Management
+Root Cause Analysis  
+
+**Security & Administration**
+
+* Entra ID
+* Wiz
+* Bitwarden
+* Kyverno
+Secrets and certificate management  
+
+**Operational / SRE Knowledge**
+-------------------------------
+
+Candidate should have a good understanding of:
+
+* Incident, Problem and Change Management
+* Monitoring and observability
+* Alert triaging and escalation
+* SLA / SLO concepts
+* High availability and resiliency
+* Capacity and performance management
+* Backup and recovery
+* Production troubleshooting
+* RCA and post-incident reviews
+* Operational automation
+Release support  
+
+**Good to Have**
+----------------
+
+* ITIL processes
+* GitOps / Argo CD
+* CI/CD platforms
+* OpenTelemetry
+* AWS certification
+* Certified Kubernetes Administrator (CKA)
+* HashiCorp Terraform certification
+* Experience working in DevOps/SRE operating models",,https://in.indeed.com/cmp/BMW-Techworks-India,,,,,,,,,,,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=c964de8eed5a7d15,79,Infrastructure Operations Engineer,"Linux, Linux Administration, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","AWS, DNS, Networking, DNS, Grafana, Infrastructure Monitoring, Tar, Backup, Recovery, Log Analysis, ITIL, SLA, Incident Management, Change Management, Infrastructure Operations, High Availability",,"ansible, shell scripting, shell, automation",storage,aws,0,True,False
 in-a8f9a024109b4046,indeed,https://in.indeed.com/viewjob?jk=a8f9a024109b4046,"https://careers-bmwtechworks.peoplestrong.com/api/cp/rest/altone/cp/job/1927249/v2?part=basic,organisational,descriprion,qualification,skills&isReqId=true",Infrastructure Operations Engineer,BMW TechWorks India,"MH, India",2026-11-22,,,,,,,False,,,,,"Required Experience, minimum: 5 years
 
   
@@ -453,156 +496,6 @@ Candidate should have a good understanding of:
 * Certified Kubernetes Administrator (CKA)
 * HashiCorp Terraform certification
 * Experience working in DevOps/SRE operating models",,https://in.indeed.com/cmp/BMW-Techworks-India,,,,,,,,,,,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=a8f9a024109b4046,79,Infrastructure Operations Engineer,"Linux, Linux Administration, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","AWS, DNS, Networking, DNS, Grafana, Infrastructure Monitoring, Tar, Backup, Recovery, Log Analysis, ITIL, SLA, Incident Management, Change Management, Infrastructure Operations, High Availability",,"ansible, shell scripting, shell, automation",storage,aws,0,True,False
-in-c964de8eed5a7d15,indeed,https://in.indeed.com/viewjob?jk=c964de8eed5a7d15,"https://careers-bmwtechworks.peoplestrong.com/api/cp/rest/altone/cp/job/1927114/v2?part=basic,organisational,descriprion,qualification,skills&isReqId=true",Sr. Infrastructure Operations Engineer,BMW TechWorks India,"MH, India",2026-11-22,,,,,,,False,,,,,"Required Experience, minimum: 7 years
-
-  
-
-Required Experience, maximum: 10 years
-
-  
-
-* Skills: DevOps, AWS, Infra & Dev Ops Lead, Infra & Network, Infra Administration and Maintenance, Cloud Applications, Docker and kubernetes, SRE, Incident Management, Ansible, Terraform
-
-  
-
-* Minimum Qualification: B.Tech/B.E
-
-  
-
-**About Company:**
-
-At BMW TechWorks India, a joint venture between the BMW Group and Tata Technologies, we engineer in India for the world. With our offices in Pune, Bengaluru and Chennai we are a key building block in delivering software and IT solutions for whole BMW. Starting from contributions to the software defined vehicle (SDV), automated driving, digital infotainment to automotive digital services.
-
-**About Unit:**
-
-Software Factory is the unit which is support functions for all vertical business domains. It is mainly focuses on developing various tools & Infra. The BMW Software Factory is a collection of tools and platforms that BMW uses to develop software for its vehicles:
-
-**Job Description – Sr Infrastructure Operations Engineer**
-===========================================================
-
-**Role:** Infrastructure Operations Engineer
-
-**Experience:** 7–10 Years
-
-**Level:** Sr -Level
-
-**Function:** Backbone Infrastructure Operations
-
-**Role Overview**
------------------
-
-We are looking for a hands-on **Infrastructure Operations Engineer** to operate, monitor and support business-critical cloud and platform infrastructure.The role will be responsible for **infrastructure monitoring, alert management, incident response, troubleshooting, release support and operational automation** , with a strong focus on AWS and Kubernetes-based environments.
-
-**Key Responsibilities**
-------------------------
-
-* Monitor infrastructure, cloud services and platform health and proactively respond to alerts.
-* Handle L1/ **L2 infrastructure incidents** , service disruptions and operational requests.
-* Perform technical troubleshooting and **Root Cause Analysis (RCA)** for infrastructure and platform issues.
-* Support production **AWS Cloud and EKS Kubernetes** environments.
-* Monitor systems and services using **Grafana and cloud/platform monitoring solutions** .
-* Manage alerts, operational dashboards and infrastructure health checks.
-* Support **release and deployment activities** , including troubleshooting deployment-related infrastructure issues.
-* Operate and troubleshoot Kubernetes workloads, nodes, networking, scaling and platform components.
-* Support **IAM, Entra ID, RBAC, access management, secrets and security controls** .
-* Maintain and automate infrastructure using **Pulumi, Terraform and Ansible** .
-* Support Kubernetes ecosystem components including **Karpenter, Istio Service Mesh and Kyverno** .
-* Troubleshoot infrastructure areas such as **DNS/BIND, networking, certificates, compute, storage and access** .
-* Maintain configuration and infrastructure documentation.
-* Create and maintain **SOPs, runbooks and troubleshooting guides** .
-* Participate in incident, problem and change management processes.
-* Identify repetitive operational activities and automate them.
-* Participate in **on-call / 24×7 operational support**
-* Collaborate with engineering, DevOps, application and security teams for issue resolution.
-  
-
-  
-
-**Core Technical Skills**
--------------------------
-
-**Cloud & Infrastructure**
-
-* AWS Cloud
-* Linux Administration
-* Networking, DNS/BIND, TLS and certificates
-* IAM and RBAC
-  
-
-  
-
-**Containers & Platform**
-
-* Kubernetes / AWS EKS
-* Docker
-* Helm
-* Karpenter
-* Istio Service Mesh
-  
-
-  
-
-**Infrastructure as Code & Automation**
-
-* Pulumi
-* Terraform
-* Ansible
-* Python / Shell scripting
-  
-
-  
-
-**Monitoring & Operations**
-
-* Grafana
-* Infrastructure and application monitoring
-* Alert Management
-* Log analysis
-* Incident Management
-* Root Cause Analysis
-  
-
-  
-
-**Security & Administration**
-
-* Entra ID
-* Wiz
-* Bitwarden
-* Kyverno
-* Secrets and certificate management
-
-**Operational / SRE Knowledge**
--------------------------------
-
-Candidate should have a good understanding of:
-
-* Incident, Problem and Change Management
-* Monitoring and observability
-* Alert triaging and escalation
-* SLA / SLO concepts
-* High availability and resiliency
-* Capacity and performance management
-* Backup and recovery
-* Production troubleshooting
-* RCA and post-incident reviews
-* Operational automation
-* Release support
-  
-
-  
-
-**Good to Have**
-----------------
-
-* ITIL processes
-* GitOps / Argo CD
-* CI/CD platforms
-* OpenTelemetry
-* AWS certification
-* Certified Kubernetes Administrator (CKA)
-* HashiCorp Terraform certification
-* Experience working in DevOps/SRE operating models",,https://in.indeed.com/cmp/BMW-Techworks-India,,,,,,,,,,,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=c964de8eed5a7d15,74,Infrastructure Operations Engineer,"Linux, Linux Administration, Shell Scripting, Shell, Ansible, Root Cause Analysis, RCA, Incident Management","AWS, DNS, Networking, DNS, Grafana, Infrastructure Monitoring, Tar, Backup, Recovery, Log Analysis, ITIL, SLA, Incident Management, Change Management, Infrastructure Operations, High Availability",,"ansible, shell scripting, shell, automation",storage,aws,-1,True,False
 in-5a8896432989a4ac,indeed,https://in.indeed.com/viewjob?jk=5a8896432989a4ac,https://aeonsoftware.net/careers/#,Senior System Administrator,AEON SOFTWARE,"MH, India",2026-11-22,,,,,,,False,,,,,"Pune 2025-09-23
 
 Bachelor’s degree in IT or related field (Master's/Certifications a plus). 6+ years of experience in IT management, especially in hardware, networking, and systems integration. Expertise in networking, data security, DevOps and cloud solutions. Proven leadership and project management experience. Strong problem-solving and communication skills’ Benefits: Flexible work environment. Opportunity to work on cutting-edge technologies and projects.
@@ -612,7 +505,6 @@ Position Details
 Experience: 5+ years
 
 We are seeking a proactive and technically skilled Senior System Administrator with 5 to 6 years of experience to support and maintain our IT infrastructure. The ideal candidate will have a solid foundation in system administration, user support, and IT operations within Windows and/or Linux environments. You will work alongside senior administrators to ensure the reliability, security, and efficiency of systems and services used across the organization. Key Responsibilities- IT Strategy & Planning: Develop and implement the IT strategy in alignment with the company's business goals, focusing on innovation and digital transformation in the real estate sector. Infrastructure Management: Oversee the maintenance and enhancement of IT infrastructure, including hardware, networking, and data storage solutions to support company operations. Operational Management: Lead and manage the IT Projects, ensuring their continuous development and alignment with organizational goals. DevOps Knowledge is must. Networking & Connectivity: Ensure that all company-wide network systems are up and running efficiently, troubleshooting issues as they arise and planning for future networking needs. Hardware & Software Management: Oversee procurement, installation, and maintenance of IT hardware and software, ensuring compatibility and seamless integration with business processes. Security & Data Protection: Develop and enforce IT security policies to protect company data, prevent cyber threats, and ensure compliance with industry regulations and data privacy laws. Vendor & Stakeholder Management: Coordinate with external vendors, consultants, and partners for IT services, software procurement, and system upgrades. Tech Support & Troubleshooting: Oversee the resolution of IT issues across all company departments, ensuring minimal downtime and prompt service delivery. SQL installation and Troubleshooting, IIS, PowerShell Scripting. Budgeting & Resource Management: Manage the IT department's budget, ensuring cost-effective use of resources for all IT-related projects and initiatives. Digital Transformation: Drive digital transformation initiatives by implementing new technologies and tools that improve operational efficiency, property management, and customer experience.",,https://in.indeed.com/cmp/Aeon-Software,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4d3b7d5ce367d5ac108bd52bed522ebd,http://www.aeonsoftware.net,Mumbai,11 to 50,,,,,2.0,6.0,,,indeed,Linux Administrator,"Pune, Maharashtra, India",https://in.indeed.com/viewjob?jk=5a8896432989a4ac,54,,"Linux, Shell Scripting, Shell","AWS, Networking",,"shell scripting, shell",storage,aws,1,True,False
-li-4493244613,linkedin,https://www.linkedin.com/jobs/view/4493244613,,Infrastructure Engineer(Linux Administration & AWS),DAZN,Greater Hyderabad Area,2026-11-21,,,,,,,False,,,,,,,https://uk.linkedin.com/company/dazn,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4493244613,53,Infrastructure Engineer,"Linux, Linux Administration",AWS,,,,aws,0,True,False
 in-0015efe768366fa3,indeed,https://in.indeed.com/viewjob?jk=0015efe768366fa3,,HPC linux cluster Administrator,agile-labs,"KA, India",2026-11-23,fulltime,direct_data,monthly,9900.0,44000.0,INR,False,,,,,"8 - 12 years of experience different flavours of Linux like SLES, RHEL and Ubuntu/Debian.
 
 5 - 8 years Experience in managing HPC/Linux clusters and should have good understanding of its architecture.
@@ -708,7 +600,6 @@ Experience:
 * Slurm: 6 years (Preferred)
 
 Work Location: In person",,https://in.indeed.com/cmp/Agile--labs,,,,,,,,,,,,,indeed,Linux Administrator,"Bengaluru, Karnataka, India",https://in.indeed.com/viewjob?jk=0015efe768366fa3,53,,"Linux, Linux System Administration, RHEL, Red Hat, Shell, Ansible, Performance Troubleshooting","VMware, Networking, Nagios, Grafana, Infrastructure Monitoring",patching,"ansible, shell, automation","filesystem, storage",vmware,-1,False,False
-li-4476740832,linkedin,https://www.linkedin.com/jobs/view/4476740832,,"Senior Platform Engineer(Automation, Linux, Ansible, Python/shell/bash)",Motorola Solutions,"Bengaluru, Karnataka, India",2026-11-20,,,,,,,False,,,,,,,https://www.linkedin.com/company/motorolasolutions,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4476740832,52,,"Linux, Bash, Shell, Ansible",,,"ansible, bash, shell, automation",,,0,True,False
 in-a1ca7acd410ec07d,indeed,https://in.indeed.com/viewjob?jk=a1ca7acd410ec07d,,VMware Engineer,Wits Innovation Lab,"TS, India",2026-11-23,fulltime,direct_data,yearly,,2000000.0,INR,False,,,,,"**Role Summary**  
 We are seeking experienced Data Center L2 Engineers with strong expertise in VMware Virtualization and OpenStack Cloud Platforms, along with exposure to Python scripting and Terraform automation. The ideal candidate will be responsible for managing, supporting, and optimizing enterprise virtualization and cloud infrastructure, ensuring high availability, operational efficiency, and compliance in a 24x7 production environment.
 
@@ -818,7 +709,7 @@ Benefits:
 * Provident Fund
 
 Work Location: In person",,https://in.indeed.com/cmp/Wits-Innovation-Lab-2,,,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=a1ca7acd410ec07d,51,,"Linux, Linux Administration, RHEL, Red Hat, CentOS, Ansible, Root Cause Analysis, RCA, Incident Management","CentOS, VMware, VMware vSphere, vSphere, OCI, TCP/IP, TCP IP, Firewall, Networking, Nagios, Grafana, Backup, Recovery, Disaster Recovery, ITIL, SLA, Incident Management, Production Support, Operations Support, High Availability",patching,"ansible, automation",storage,"oci, vmware, vsphere",1,True,False
-nk-201126015237,naukri,https://www.naukri.com/job-listings-linux-administrator-aws-image-builder-engineer-infosys-pune-chennai-bengaluru-8-to-13-years-201126015237,,Linux Administrator / AWS Image Builder Engineer,Infosys,"Chennai, Pune, Bengaluru, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"IAM, Ami, AWS, Linux, Amazon Cloudwatch, Amazon Ec2, Patching, RHEL",8-13 Yrs,3.5,55148.0,10.0,Hybrid,naukri,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.naukri.com/job-listings-linux-administrator-aws-image-builder-engineer-infosys-pune-chennai-bengaluru-8-to-13-years-201126015237,50,Linux Administrator,Linux,AWS,,,,aws,0,True,False
+nk-201126015237,naukri,https://www.naukri.com/job-listings-linux-administrator-aws-image-builder-engineer-infosys-pune-chennai-bengaluru-8-to-13-years-201126015237,,Linux Administrator / AWS Image Builder Engineer,Infosys,"Chennai, Pune, Bengaluru, India",2026-11-24,,,,,,,False,,,,,,,https://www.naukri.com/infosys-jobs-careers-11244,https://img.naukimg.com/logo_images/groups/v1/13832.gif,,,,,,"Amazon Ec2, Linux administration, AWS, Cloud, RHEL, Patching, Ami, Administration",8-13 Yrs,3.5,55199.0,10.0,Hybrid,naukri,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.naukri.com/job-listings-linux-administrator-aws-image-builder-engineer-infosys-pune-chennai-bengaluru-8-to-13-years-201126015237,50,Linux Administrator,Linux,AWS,,,,aws,0,True,False
 in-eb447d66ae6f0752,indeed,https://in.indeed.com/viewjob?jk=eb447d66ae6f0752,https://candescent.wd501.myworkdayjobs.com/Hiring/job/IN---Telangana---Virtual/Database-Administrator_R0002488,Database Administrator,Candescent (Digital First Holdings LLC),"TS, India",2026-11-23,fulltime,,,,,,False,,,,,"Candescent is a forward-thinking technology company transforming how financial institutions deliver Intelligent Banking experiences. We unite digital banking, account opening, and branch solutions that power and connect digital banking, account opening, and branch solutions—creating seamless engagement across digital, remote, and in-person channels.
 
 Our Experience-Led, Intelligence-Driven approach combines human-centered design with data, automation, and cloud-based innovation. Built on an API-first architecture, our extensible ecosystem enables institutions to adapt quickly, integrate easily, and unlock new opportunities for growth—turning every customer interaction into a moment of clarity, confidence, and connection.
@@ -890,15 +781,18 @@ Operational processes become more standardized, automated, measurable, and scala
 
 **Statement to Third Party Agencies**  
 To ALL recruitment agencies: Candescent only accepts resumes from agencies on the preferred supplier list. Please do not forward resumes to our applicant tracking system, Candescent employees, or any Candescent facility. Candescent is not responsible for any fees or charges associated with unsolicited resumes.",,https://in.indeed.com/cmp/Candescent-(digital-First-Holdings-Llc),,,,,,,,,,,,,indeed,Linux Administrator,"Hyderabad, Telangana, India",https://in.indeed.com/viewjob?jk=eb447d66ae6f0752,49,,"Linux, Bash, Shell Scripting, Shell, Ansible, Root Cause Analysis","OCI, Google Cloud, iLO, Backup, Recovery, Disaster Recovery, Permissions, ITIL, Change Management, High Availability",,"ansible, bash, shell scripting, shell, automation",storage,"oci, google cloud",1,True,False
-li-4491926361,linkedin,https://www.linkedin.com/jobs/view/4491926361,,Linux Systems Engineer – Trading Infrastructure,Ambition,"Bengaluru, Karnataka, India",2026-11-20,,,,,,,False,,,,,,,https://au.linkedin.com/company/ambitionrecruitment,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4491926361,48,Linux Systems Engineer,Linux,,,,,,0,True,False
-li-4493617079,linkedin,https://www.linkedin.com/jobs/view/4493617079,,Linux Administrator,Allime Tech Solutions,"Bangalore Urban, Karnataka, India",2026-11-23,,,,,,,False,,,,,,,https://in.linkedin.com/company/allimetech,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4493617079,48,Linux Administrator,Linux,,,,,,0,True,False
-li-4493707892,linkedin,https://www.linkedin.com/jobs/view/4493707892,,Linux Administrator - Data Center L2 Engineer,Wits Innovation Lab,"Hyderabad, Telangana, India",2026-11-23,,,,,,,False,,,,,,,https://www.linkedin.com/company/thewitslab,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4493707892,48,Linux Administrator,Linux,,,,,,0,True,False
-li-4475641576,linkedin,https://www.linkedin.com/jobs/view/4475641576,,Senior Core Infrastructure Engineer,Oracle,"Chennai, Tamil Nadu, India",2026-11-22,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4475641576,45,Infrastructure Engineer,,,,,,,0,True,False
-li-4466878439,linkedin,https://www.linkedin.com/jobs/view/4466878439,,Manager - Cloud Operations,Tata Communications,"Chennai, Tamil Nadu, India",2026-11-20,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-communication,,,,,,,,,,,,,linkedin,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4466878439,45,Cloud Operations,,,,,,,0,True,False
-li-4458658212,linkedin,https://www.linkedin.com/jobs/view/4458658212,,Cloud Operations Specialist,Teradata,Pune/Pimpri-Chinchwad Area,2026-11-22,,,,,,,False,,,,,,,https://www.linkedin.com/company/teradata,,,,,,,,,,,,,linkedin,Linux Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4458658212,45,Cloud Operations,,,,,,,0,True,False
-li-4478055153,linkedin,https://www.linkedin.com/jobs/view/4478055153,,"Senior Cloud Operations Engineer, Staff",Synopsys Inc,"Hyderabad, Telangana, India",2026-11-23,,,,,,,False,,,,,,,https://www.linkedin.com/company/synopsys,,,,,,,,,,,,,linkedin,Linux Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478055153,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-nk-201126029757,naukri,https://www.naukri.com/job-listings-senior-cloud-operations-engineer-chennai-3i-infotech-chennai-3-to-6-years-201126029757,,Senior Cloud Operations Engineer - Chennai,3i Infotech,"Chennai, India",2026-11-20,,direct_data,yearly,300000.0,800000.0,INR,False,,,,,,,https://www.naukri.com/3i-infotech-jobs-careers-15440,https://img.naukimg.com/logo_images/groups/v1/53626.gif,,,,,,"Senior, IT infrastructure, IT infrastructure management, Cloud, AWS, Rest, Management, Infrastructure management",3-6 Yrs,3.4,2689.0,4.0,Work from office,naukri,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.naukri.com/job-listings-senior-cloud-operations-engineer-chennai-3i-infotech-chennai-3-to-6-years-201126029757,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
-li-4492590090,linkedin,https://www.linkedin.com/jobs/view/4492590090,,Platform & Infrastructure Engineer,Ericsson,"Bengaluru, Karnataka, India",2026-11-20,,,,,,,False,,,,,,,https://se.linkedin.com/company/ericsson,,,,,,,,,,,,,linkedin,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4492590090,45,Infrastructure Engineer,,,,,,,0,True,False
-nk-231126003720,naukri,https://www.naukri.com/job-listings-executive-cloud-operations-l1-apollo-hospitals-chennai-1-to-3-years-231126003720,,Executive_Cloud Operations_L1,Apollo Hospitals,"Chennai, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/apollo-hospitals-jobs-careers-10279,https://img.naukimg.com/logo_images/groups/v1/16486.gif,,,,,,"VM, Azure VM, Microsoft Azure, Microsoft, Id",1-3 Yrs,4.0,6698.0,,Work from office,naukri,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.naukri.com/job-listings-executive-cloud-operations-l1-apollo-hospitals-chennai-1-to-3-years-231126003720,45,Cloud Operations,,,,,,,0,True,False
-li-4483098475,linkedin,https://www.linkedin.com/jobs/view/4483098475,,Principal Core Infrastructure Engineer,Oracle,"Chennai, Tamil Nadu, India",2026-11-20,,,,,,,False,,,,,,,https://www.linkedin.com/company/oracle,,,,,,,,,,,,,linkedin,Linux System Administrator,"Chennai, Tamil Nadu, India",https://www.linkedin.com/jobs/view/4483098475,45,Infrastructure Engineer,,,,,,,0,True,False
-nk-231126017844,naukri,https://www.naukri.com/job-listings-cloud-operations-engineer-cgi-bengaluru-7-to-12-years-231126017844,,Cloud Operations Engineer,CGI,"Bengaluru, India",2026-11-23,,direct_data,yearly,1500000.0,2500000.0,INR,False,,,,,,,https://www.naukri.com/cgi-jobs-careers-217,https://img.naukimg.com/logo_images/groups/v1/1402790.gif,,,,,,"Kubernetes, Cloud Operations, Websphere, Cloud, AWS, Cd, Cd, Maintenance",7-12 Yrs,4.0,6216.0,,Hybrid,naukri,Linux Administrator,"Bengaluru, Karnataka, India",https://www.naukri.com/job-listings-cloud-operations-engineer-cgi-bengaluru-7-to-12-years-231126017844,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+nk-231126502477,naukri,https://www.naukri.com/job-listings-senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux-miratech-hyderabad-7-to-12-years-231126502477,https://jobs.smartrecruiters.com/Miratech1/744000163093279,"Senior Cloud Infrastructure Engineer (DNS, NTP, LDAP, Linux)",Miratech,"Hyderabad, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/miratech-jobs-careers-2310490,https://img.naukimg.com/logo_images/groups/v1/1761976.gif,,,,,,"Senior, Cloud Infrastructure, DNS, Cloud, Recovery, Cisco, LDAP, Monitoring",7-12 Yrs,3.3,60.0,,Work from office,naukri,Linux System Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux-miratech-hyderabad-7-to-12-years-231126502477,48,"Infrastructure Engineer, Cloud Infrastructure Engineer",Linux,"DNS, DNS",,,,,0,True,False
+nk-231126502476,naukri,https://www.naukri.com/job-listings-senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux-miratech-pune-7-to-12-years-231126502476,https://jobs.smartrecruiters.com/Miratech1/744000163093119,"Senior Cloud Infrastructure Engineer (DNS, NTP, LDAP, Linux)",Miratech,"Pune, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/miratech-jobs-careers-2310490,https://img.naukimg.com/logo_images/groups/v1/1761976.gif,,,,,,"Senior, Cloud Infrastructure, DNS, Cloud, Recovery, Cisco, LDAP, Monitoring",7-12 Yrs,3.3,60.0,,Work from office,naukri,Linux System Administrator,"Pune, Maharashtra, India",https://www.naukri.com/job-listings-senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux-miratech-pune-7-to-12-years-231126502476,48,"Infrastructure Engineer, Cloud Infrastructure Engineer",Linux,"DNS, DNS",,,,,0,True,False
+nk-241126023727,naukri,https://www.naukri.com/job-listings-linux-administrator-ntt-data-business-solutions-hyderabad-3-to-8-years-241126023727,,Walk-in || Linux Administrator,NTT DATA BUSINESS SOLUTIONS,"Hyderabad, India",2026-11-24,,direct_data,yearly,500000.0,1500000.0,INR,False,,,,,,,https://www.naukri.com/ntt-data-business-solutions-jobs-careers-5934,https://img.naukimg.com/logo_images/groups/v1/709704.gif,,,,,,"Pacemaker, Redhat Linux, Administration, Microsoft Azure, SUSE, LVM, RHEL, AWS",3-8 Yrs,4.0,2423.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-linux-administrator-ntt-data-business-solutions-hyderabad-3-to-8-years-241126023727,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4494331317,linkedin,https://www.linkedin.com/jobs/view/4494331317,,"L2 Infrastructure Support Engineer – Linux, Kubernetes, Geneos & Control-M",Synechron,"Pune District, Maharashtra, India",2026-11-24,,,,,,,False,,,,,,,https://www.linkedin.com/company/synechron,,,,,,,,,,,,,linkedin,Linux System Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4494331317,48,Infrastructure Support Engineer,Linux,,,,,,0,True,False
+li-4493775234,linkedin,https://www.linkedin.com/jobs/view/4493775234,,Data Center L2 Engineer - Linux Administrator,Wits Innovation Lab,Greater Hyderabad Area,2026-11-23,,,,,,,False,,,,,,,https://www.linkedin.com/company/thewitslab,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4493775234,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4493707892,linkedin,https://www.linkedin.com/jobs/view/4493707892,,Linux Administrator - Data Center L2 Engineer,Wits Innovation Lab,"Hyderabad, Telangana, India",2026-11-23,,,,,,,False,,,,,,,https://www.linkedin.com/company/thewitslab,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4493707892,48,Linux Administrator,Linux,,,,,,0,True,False
+li-4493617079,linkedin,https://www.linkedin.com/jobs/view/4493617079,,Linux Administrator,Allime Tech Solutions,"Bangalore Urban, Karnataka, India",2026-11-23,,,,,,,False,,,,,,,https://in.linkedin.com/company/allimetech,,,,,,,,,,,,,linkedin,Linux Administrator,"Bengaluru, Karnataka, India",https://www.linkedin.com/jobs/view/4493617079,48,Linux Administrator,Linux,,,,,,0,True,False
+nk-231126502478,naukri,https://www.naukri.com/job-listings-senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux-miratech-bengaluru-7-to-12-years-231126502478,https://jobs.smartrecruiters.com/Miratech1/744000163092834,"Senior Cloud Infrastructure Engineer (DNS, NTP, LDAP, Linux)",Miratech,"Bengaluru, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/miratech-jobs-careers-2310490,https://img.naukimg.com/logo_images/groups/v1/1761976.gif,,,,,,"Senior, Cloud Infrastructure, DNS, Cloud, Recovery, Cisco, LDAP, Monitoring",7-12 Yrs,3.3,60.0,,Work from office,naukri,Linux System Administrator,"Bengaluru, Karnataka, India",https://www.naukri.com/job-listings-senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux-miratech-bengaluru-7-to-12-years-231126502478,48,"Infrastructure Engineer, Cloud Infrastructure Engineer",Linux,"DNS, DNS",,,,,0,True,False
+nk-091126004468,naukri,https://www.naukri.com/job-listings-appops-lead-aws-eks-sre-cloud-operations-synechron-chennai-10-to-20-years-091126004468,,AppOps Lead (AWS EKS / SRE / Cloud Operations),Synechron,"Chennai, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/synechron-jobs-careers-443,https://img.naukimg.com/logo_images/groups/v1/419316.gif,,,,,,"Sre, Cloud, Kubernetes, AWS, Cloud Operations, Operations, Eks",10-20 Yrs,3.4,4258.0,,Work from office,naukri,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.naukri.com/job-listings-appops-lead-aws-eks-sre-cloud-operations-synechron-chennai-10-to-20-years-091126004468,47,Cloud Operations,,AWS,,,,aws,0,True,False
+li-4478055153,linkedin,https://www.linkedin.com/jobs/view/4478055153,,"Senior Cloud Operations Engineer, Staff",Synopsys Inc,"Hyderabad, Telangana, India",2026-11-23,,,,,,,False,,,,,,,https://www.linkedin.com/company/synopsys,,,,,,,,,,,,,linkedin,Linux System Administrator,"Hyderabad, Telangana, India",https://www.linkedin.com/jobs/view/4478055153,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+li-4458658212,linkedin,https://www.linkedin.com/jobs/view/4458658212,,Cloud Operations Specialist,Teradata,Pune/Pimpri-Chinchwad Area,2026-11-22,,,,,,,False,,,,,,,https://www.linkedin.com/company/teradata,,,,,,,,,,,,,linkedin,Linux System Administrator,"Pune, Maharashtra, India",https://www.linkedin.com/jobs/view/4458658212,45,Cloud Operations,,,,,,,0,True,False
+nk-241126022431,naukri,https://www.naukri.com/job-listings-cloud-operations-manager-solix-technologies-hyderabad-10-to-20-years-241126022431,,Cloud Operations Manager,Solix Technologies,"Hyderabad(HITEC City +2), India",2026-11-24,,direct_data,yearly,3000000.0,4000000.0,INR,False,,,,,,,https://www.naukri.com/solix-technologies-jobs-careers-2360056,https://img.naukimg.com/logo_images/groups/v1/4659895.gif,,,,,,"Devops, Kubernetes, Azure Devops, Cloud, Management, Microsoft Azure, Operations management, Operations",10-20 Yrs,3.5,72.0,,Work from office,naukri,Linux Administrator,"Hyderabad, Telangana, India",https://www.naukri.com/job-listings-cloud-operations-manager-solix-technologies-hyderabad-10-to-20-years-241126022431,45,Cloud Operations,,,,,,,0,True,False
+nk-071026029711,naukri,https://www.naukri.com/job-listings-cloud-operations-engineer-talentxpert-services-private-limited-pune-5-to-10-years-071026029711,,Cloud Operations Engineer,Talentxpert,"Pune(Viman Nagar), India",2026-11-24,,,,,,,False,,,,,,,https://www.naukri.com/talentxpert-jobs-careers-4816884,https://img.naukimg.com/logo_images/groups/v1/4767021.gif,,,,,,"Sonarqube, Python, Continuous Integration, Docker, Terraform, CI Cd Pipeline, Pipeline, Open",5-10 Yrs,4.4,22.0,5.0,Hybrid,naukri,Linux Administrator,"Pune, Maharashtra, India",https://www.naukri.com/job-listings-cloud-operations-engineer-talentxpert-services-private-limited-pune-5-to-10-years-071026029711,45,"Cloud Operations Engineer, Cloud Operations",,,,,,,0,True,False
+nk-241126016979,naukri,https://www.naukri.com/job-listings-cloud-infrastructure-engineer-delta-capita-pune-bengaluru-5-to-10-years-241126016979,,Cloud Infrastructure Engineer,Delta Capita,"Bengaluru, Pune, India",2026-11-24,,direct_data,yearly,1200000.0,2200000.0,INR,False,,,,,,,https://www.naukri.com/delta-capita-jobs-careers-123530349,https://img.naukimg.com/logo_images/groups/v1/5523004.gif,,,,,,"Cloud Infrastructure, Azure Infrastructure, Cloud, Infrastructure Architecture, Cloud Infra, Microsoft Azure, Infrastructure, Operations",5-10 Yrs,2.8,43.0,4.0,Hybrid,naukri,Linux Administrator,"Bengaluru, Karnataka, India",https://www.naukri.com/job-listings-cloud-infrastructure-engineer-delta-capita-pune-bengaluru-5-to-10-years-241126016979,45,"Infrastructure Engineer, Cloud Infrastructure Engineer",,,,,,,0,True,False
+nk-231126003720,naukri,https://www.naukri.com/job-listings-executive-cloud-operations-l1-apollo-hospitals-chennai-1-to-3-years-231126003720,,Executive_Cloud Operations_L1,Apollo Hospitals,"Chennai, India",2026-11-23,,,,,,,False,,,,,,,https://www.naukri.com/apollo-hospitals-jobs-careers-10279,https://img.naukimg.com/logo_images/groups/v1/16486.gif,,,,,,"VM, Azure VM, Microsoft Azure, Microsoft, Id",1-3 Yrs,4.0,6701.0,,Work from office,naukri,Linux Administrator,"Chennai, Tamil Nadu, India",https://www.naukri.com/job-listings-executive-cloud-operations-l1-apollo-hospitals-chennai-1-to-3-years-231126003720,45,Cloud Operations,,,,,,,0,True,False
